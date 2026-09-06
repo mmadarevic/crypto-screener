@@ -1,70 +1,29 @@
 {
- "generated": "2026-09-06T13:10:53+00:00",
+ "generated": "2026-09-06T13:20:56+00:00",
  "summary": {
-  "neu": 3,
-  "raus": 4,
+  "neu": 1,
+  "raus": 0,
   "cap": 0,
+  "band": 0,
   "social": 0,
-  "band": 1
+  "gebuehren": 0
  },
  "neu": [
   {
-   "symbol": "CACAO",
-   "name": "Maya Protocol",
-   "cap": 12301013,
-   "band": "5-50",
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "SN14",
-   "name": "Cacheon",
-   "cap": 10699112,
-   "band": "5-50",
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "SN63",
-   "name": "Quantum Innovate",
-   "cap": 9292409,
-   "band": "5-50",
-   "categories": [
-    "artificial-intelligence"
-   ]
-  }
- ],
- "raus": [
-  {
    "symbol": "CCD",
    "name": "Concordium",
-   "cap": 49661394
-  },
-  {
-   "symbol": "BONE",
-   "name": "Bone ShibaSwap",
-   "cap": 12379803
-  },
-  {
-   "symbol": "ECTE",
-   "name": "EurocoinToken",
-   "cap": 9637825
-  },
-  {
-   "symbol": "M87",
-   "name": "MESSIER",
-   "cap": 5001729
+   "cap": 49620942,
+   "band": "5-50",
+   "jahr": 2024,
+   "categories": [
+    "artificial-intelligence",
+    "payment-solutions"
+   ]
   }
  ],
+ "raus": [],
  "cap": [],
+ "band": [],
  "social": [],
- "band": [
-  {
-   "symbol": "ACU",
-   "von": "5-50",
-   "nach": "50-150"
-  }
- ]
+ "gebuehren": []
 }
