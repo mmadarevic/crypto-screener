@@ -1,0 +1,39 @@
+name: Krypto-Screener
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository holen
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Screener ausführen
+        env:
+          COINGECKO_KEY: ${{ secrets.COINGECKO_KEY }}
+          LUNARCRUSH_KEY: ${{ secrets.LUNARCRUSH_KEY }}
+        run: python fetch.py
+
+      - name: Ergebnis zurückschreiben
+        run: |
+          git config user.name  "screener-bot"
+          git config user.email "screener-bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Daten $(date -u +%Y-%m-%d)"
+            git push
+          fi
