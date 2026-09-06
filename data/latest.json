@@ -1,0 +1,9585 @@
+{
+ "generated": "2026-09-06T12:59:38+00:00",
+ "count": 499,
+ "by_band": {
+  "5-50": 355,
+  "50-150": 91,
+  "150-500": 53
+ },
+ "categories": [
+  "artificial-intelligence",
+  "depin",
+  "real-world-assets-rwa",
+  "payment-solutions",
+  "oracle",
+  "liquid-staking-tokens",
+  "prediction-markets",
+  "decentralized-finance-defi"
+ ],
+ "bands": {
+  "5-50": {
+   "min": 5000000,
+   "max": 50000000
+  },
+  "50-150": {
+   "min": 50000000,
+   "max": 150000000
+  },
+  "150-500": {
+   "min": 150000000,
+   "max": 500000000
+  }
+ },
+ "with_social": 0,
+ "tokens": [
+  {
+   "id": "coinbase-wrapped-staked-eth",
+   "symbol": "CBETH",
+   "name": "Coinbase Wrapped Staked ETH",
+   "band": "150-500",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 477134745,
+   "price": 2849.86,
+   "volume24h": 10420622,
+   "vol_to_cap": 0.0218,
+   "chg24h": 1.75288,
+   "chg7d": 1.8,
+   "chg30d": 31.1,
+   "ath_chg": -47.62702,
+   "supply_pct": 44.8,
+   "social": null
+  },
+  {
+   "id": "virtual-protocol",
+   "symbol": "VIRTUAL",
+   "name": "Virtuals Protocol",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 467640574,
+   "price": 0.710758,
+   "volume24h": 64056491,
+   "vol_to_cap": 0.137,
+   "chg24h": 1.72906,
+   "chg7d": -0.2,
+   "chg30d": 24.2,
+   "ath_chg": -85.96728,
+   "supply_pct": 65.8,
+   "social": null
+  },
+  {
+   "id": "susdai",
+   "symbol": "SUSDAI",
+   "name": "Staked USDai",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 461353650,
+   "price": 1.11,
+   "volume24h": 1870189,
+   "vol_to_cap": 0.0041,
+   "chg24h": 0.02544,
+   "chg7d": 0.2,
+   "chg30d": 0.8,
+   "ath_chg": -6.37852,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "pyth-network",
+   "symbol": "PYTH",
+   "name": "Pyth Network",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle"
+   ],
+   "cap": 438714240,
+   "price": 0.055712,
+   "volume24h": 43107120,
+   "vol_to_cap": 0.0983,
+   "chg24h": 0.92523,
+   "chg7d": 17.4,
+   "chg30d": 44.1,
+   "ath_chg": -95.34326,
+   "supply_pct": 78.7,
+   "social": null
+  },
+  {
+   "id": "fetch-ai",
+   "symbol": "FET",
+   "name": "Artificial Superintelligence Alliance",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 392770245,
+   "price": 0.169869,
+   "volume24h": 70951852,
+   "vol_to_cap": 0.1806,
+   "chg24h": 1.08718,
+   "chg7d": 10.9,
+   "chg30d": 29.2,
+   "ath_chg": -95.08218,
+   "supply_pct": 85.2,
+   "social": null
+  },
+  {
+   "id": "falcon-finance-ff",
+   "symbol": "FF",
+   "name": "Falcon Finance",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 372921878,
+   "price": 0.118755,
+   "volume24h": 21798055,
+   "vol_to_cap": 0.0585,
+   "chg24h": 1.79858,
+   "chg7d": 29.7,
+   "chg30d": 84.1,
+   "ath_chg": -84.59362,
+   "supply_pct": 31.4,
+   "social": null
+  },
+  {
+   "id": "raydium",
+   "symbol": "RAY",
+   "name": "Raydium",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 365593586,
+   "price": 1.36,
+   "volume24h": 232145704,
+   "vol_to_cap": 0.635,
+   "chg24h": 61.62841,
+   "chg7d": 48.1,
+   "chg30d": 86.3,
+   "ath_chg": -91.93493,
+   "supply_pct": 48.6,
+   "social": null
+  },
+  {
+   "id": "pendle",
+   "symbol": "PENDLE",
+   "name": "Pendle",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 358479688,
+   "price": 2.08,
+   "volume24h": 67275635,
+   "vol_to_cap": 0.1877,
+   "chg24h": 6.56425,
+   "chg7d": 23.1,
+   "chg30d": 55.6,
+   "ath_chg": -72.27563,
+   "supply_pct": 61.2,
+   "social": null
+  },
+  {
+   "id": "tbtc",
+   "symbol": "TBTC",
+   "name": "tBTC",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 350127445,
+   "price": 79918,
+   "volume24h": 2103051,
+   "vol_to_cap": 0.006,
+   "chg24h": 0.23913,
+   "chg7d": 2.3,
+   "chg30d": 23.2,
+   "ath_chg": -36.39443,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "lido-dao",
+   "symbol": "LDO",
+   "name": "Lido DAO",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 346204834,
+   "price": 0.41547,
+   "volume24h": 52254914,
+   "vol_to_cap": 0.1509,
+   "chg24h": 8.43935,
+   "chg7d": 11.9,
+   "chg30d": 41.5,
+   "ath_chg": -94.31086,
+   "supply_pct": 83.4,
+   "social": null
+  },
+  {
+   "id": "unibase",
+   "symbol": "UB",
+   "name": "Unibase",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 339490031,
+   "price": 0.135783,
+   "volume24h": 9473904,
+   "vol_to_cap": 0.0279,
+   "chg24h": 0.32596,
+   "chg7d": 3.1,
+   "chg30d": 8.5,
+   "ath_chg": -44.24991,
+   "supply_pct": 25.0,
+   "social": null
+  },
+  {
+   "id": "sei-network",
+   "symbol": "SEI",
+   "name": "Sei",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 328952576,
+   "price": 0.04885551,
+   "volume24h": 35167778,
+   "vol_to_cap": 0.1069,
+   "chg24h": 1.05435,
+   "chg7d": 7.3,
+   "chg30d": 19.0,
+   "ath_chg": -95.71337,
+   "supply_pct": 67.3,
+   "social": null
+  },
+  {
+   "id": "sun-token",
+   "symbol": "SUN",
+   "name": "Sun Token",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 324305154,
+   "price": 0.01687395,
+   "volume24h": 14924782,
+   "vol_to_cap": 0.046,
+   "chg24h": 1.51565,
+   "chg7d": 0.3,
+   "chg30d": -6.0,
+   "ath_chg": -99.97461,
+   "supply_pct": 96.6,
+   "social": null
+  },
+  {
+   "id": "akedo",
+   "symbol": "AKE",
+   "name": "Akedo",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 312870719,
+   "price": 0.0137219,
+   "volume24h": 50481883,
+   "vol_to_cap": 0.1614,
+   "chg24h": -29.37565,
+   "chg7d": 75.9,
+   "chg30d": 237.7,
+   "ath_chg": -62.2772,
+   "supply_pct": 22.8,
+   "social": null
+  },
+  {
+   "id": "gnosis",
+   "symbol": "GNO",
+   "name": "Gnosis",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 312030458,
+   "price": 118.21,
+   "volume24h": 984231,
+   "vol_to_cap": 0.0032,
+   "chg24h": 0.32837,
+   "chg7d": -0.5,
+   "chg30d": 12.3,
+   "ath_chg": -81.64939,
+   "supply_pct": 88.0,
+   "social": null
+  },
+  {
+   "id": "olympus",
+   "symbol": "OHM",
+   "name": "Olympus",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 303070689,
+   "price": 20.3,
+   "volume24h": 139529,
+   "vol_to_cap": 0.0005,
+   "chg24h": 0.47463,
+   "chg7d": 3.5,
+   "chg30d": 8.7,
+   "ath_chg": -98.56553,
+   "supply_pct": 75.3,
+   "social": null
+  },
+  {
+   "id": "kite-2",
+   "symbol": "KITE",
+   "name": "Kite",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 301056412,
+   "price": 0.125877,
+   "volume24h": 10662496,
+   "vol_to_cap": 0.0354,
+   "chg24h": -2.1656,
+   "chg7d": -0.8,
+   "chg30d": 21.3,
+   "ath_chg": -60.6324,
+   "supply_pct": 23.9,
+   "social": null
+  },
+  {
+   "id": "onyc",
+   "symbol": "ONYC",
+   "name": "OnRe Tokenized Reinsurance",
+   "band": "150-500",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 298667108,
+   "price": 1.14,
+   "volume24h": 7309897,
+   "vol_to_cap": 0.0245,
+   "chg24h": -0.12996,
+   "chg7d": 0.2,
+   "chg30d": 1.0,
+   "ath_chg": -2.19069,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bittorrent",
+   "symbol": "BTT",
+   "name": "BitTorrent",
+   "band": "150-500",
+   "categories": [
+    "depin"
+   ],
+   "cap": 296750903,
+   "price": 3.00759e-07,
+   "volume24h": 5662949,
+   "vol_to_cap": 0.0191,
+   "chg24h": 0.84428,
+   "chg7d": 3.1,
+   "chg30d": 14.9,
+   "ath_chg": -91.23495,
+   "supply_pct": 99.7,
+   "social": null
+  },
+  {
+   "id": "terra-luna",
+   "symbol": "LUNC",
+   "name": "Terra Luna Classic",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 288814236,
+   "price": 5.223e-05,
+   "volume24h": 7698172,
+   "vol_to_cap": 0.0267,
+   "chg24h": -0.86717,
+   "chg7d": -0.2,
+   "chg30d": 7.9,
+   "ath_chg": -99.99996,
+   "supply_pct": 85.7,
+   "social": null
+  },
+  {
+   "id": "pieverse",
+   "symbol": "PIEVERSE",
+   "name": "Pieverse",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 278623101,
+   "price": 1.014,
+   "volume24h": 1677569,
+   "vol_to_cap": 0.006,
+   "chg24h": -2.67298,
+   "chg7d": 1.5,
+   "chg30d": 35.2,
+   "ath_chg": -39.14112,
+   "supply_pct": 27.5,
+   "social": null
+  },
+  {
+   "id": "syrup",
+   "symbol": "SYRUP",
+   "name": "Maple Finance",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 253297489,
+   "price": 0.216955,
+   "volume24h": 7691056,
+   "vol_to_cap": 0.0304,
+   "chg24h": 2.16239,
+   "chg7d": 22.5,
+   "chg30d": 40.8,
+   "ath_chg": -66.78738,
+   "supply_pct": 93.8,
+   "social": null
+  },
+  {
+   "id": "reallink",
+   "symbol": "REAL",
+   "name": "RealLink",
+   "band": "150-500",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 251968196,
+   "price": 0.074273,
+   "volume24h": 5471801,
+   "vol_to_cap": 0.0217,
+   "chg24h": 0.44585,
+   "chg7d": 4.6,
+   "chg30d": -2.5,
+   "ath_chg": -92.50285,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "crvusd",
+   "symbol": "CRVUSD",
+   "name": "crvUSD",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 250051393,
+   "price": 1.001,
+   "volume24h": 5025263,
+   "vol_to_cap": 0.0201,
+   "chg24h": 0.10949,
+   "chg7d": 0.0,
+   "chg30d": 0.1,
+   "ath_chg": -9.49644,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "msol",
+   "symbol": "MSOL",
+   "name": "Marinade Staked SOL",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 247291306,
+   "price": 150.24,
+   "volume24h": 1059377,
+   "vol_to_cap": 0.0043,
+   "chg24h": 3.88837,
+   "chg7d": 1.4,
+   "chg30d": 45.4,
+   "ath_chg": -58.69894,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "jito-governance-token",
+   "symbol": "JTO",
+   "name": "Jito",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 238926973,
+   "price": 0.460815,
+   "volume24h": 42671453,
+   "vol_to_cap": 0.1786,
+   "chg24h": 9.37675,
+   "chg7d": -6.2,
+   "chg30d": -8.5,
+   "ath_chg": -92.33705,
+   "supply_pct": 51.8,
+   "social": null
+  },
+  {
+   "id": "grass",
+   "symbol": "GRASS",
+   "name": "Grass",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 231925020,
+   "price": 0.342495,
+   "volume24h": 16524541,
+   "vol_to_cap": 0.0712,
+   "chg24h": -1.72624,
+   "chg7d": -6.1,
+   "chg30d": 14.8,
+   "ath_chg": -91.2006,
+   "supply_pct": 67.7,
+   "social": null
+  },
+  {
+   "id": "edgex",
+   "symbol": "EDGE",
+   "name": "edgeX",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 223570053,
+   "price": 0.638754,
+   "volume24h": 7751821,
+   "vol_to_cap": 0.0347,
+   "chg24h": 0.77007,
+   "chg7d": 77.1,
+   "chg30d": 75.3,
+   "ath_chg": -58.57793,
+   "supply_pct": 35.0,
+   "social": null
+  },
+  {
+   "id": "ethena-staked-ena",
+   "symbol": "SENA",
+   "name": "Ethena Staked ENA",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 220111124,
+   "price": 0.175775,
+   "volume24h": 269002,
+   "vol_to_cap": 0.0012,
+   "chg24h": 6.7483,
+   "chg7d": 12.4,
+   "chg30d": 82.5,
+   "ath_chg": -86.54468,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "convex-finance",
+   "symbol": "CVX",
+   "name": "Convex Finance",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 218338856,
+   "price": 2.34,
+   "volume24h": 6075741,
+   "vol_to_cap": 0.0278,
+   "chg24h": 3.77743,
+   "chg7d": 4.9,
+   "chg30d": 52.3,
+   "ath_chg": -96.10258,
+   "supply_pct": 93.2,
+   "social": null
+  },
+  {
+   "id": "frax",
+   "symbol": "FRAX",
+   "name": "Legacy Frax Dollar",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 217489234,
+   "price": 0.991652,
+   "volume24h": 116977,
+   "vol_to_cap": 0.0005,
+   "chg24h": -0.02174,
+   "chg7d": 0.1,
+   "chg30d": 0.1,
+   "ath_chg": -40.3771,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "jasmycoin",
+   "symbol": "JASMY",
+   "name": "JasmyCoin",
+   "band": "150-500",
+   "categories": [
+    "depin"
+   ],
+   "cap": 211830150,
+   "price": 0.00428361,
+   "volume24h": 14609044,
+   "vol_to_cap": 0.069,
+   "chg24h": -1.40757,
+   "chg7d": -4.7,
+   "chg30d": 7.7,
+   "ath_chg": -99.91057,
+   "supply_pct": 98.9,
+   "social": null
+  },
+  {
+   "id": "the-graph",
+   "symbol": "GRT",
+   "name": "The Graph",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 211109766,
+   "price": 0.01928079,
+   "volume24h": 57399075,
+   "vol_to_cap": 0.2719,
+   "chg24h": 9.48132,
+   "chg7d": 20.1,
+   "chg30d": 37.8,
+   "ath_chg": -99.32146,
+   "supply_pct": 94.2,
+   "social": null
+  },
+  {
+   "id": "compound-governance-token",
+   "symbol": "COMP",
+   "name": "Compound",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 209778330,
+   "price": 20.98,
+   "volume24h": 25764278,
+   "vol_to_cap": 0.1228,
+   "chg24h": 4.10928,
+   "chg7d": 14.3,
+   "chg30d": 28.5,
+   "ath_chg": -97.54503,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "socean-staked-sol",
+   "symbol": "INF",
+   "name": "Sanctum Infinity",
+   "band": "150-500",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 205642646,
+   "price": 154.96,
+   "volume24h": 216272,
+   "vol_to_cap": 0.0011,
+   "chg24h": 4.00496,
+   "chg7d": 1.3,
+   "chg30d": 45.5,
+   "ath_chg": -57.41619,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "iota",
+   "symbol": "IOTA",
+   "name": "IOTA",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "depin"
+   ],
+   "cap": 196318996,
+   "price": 0.04244844,
+   "volume24h": 15198508,
+   "vol_to_cap": 0.0774,
+   "chg24h": 6.58023,
+   "chg7d": 6.3,
+   "chg30d": 26.3,
+   "ath_chg": -99.19127,
+   "supply_pct": 93.0,
+   "social": null
+  },
+  {
+   "id": "sbtc-2",
+   "symbol": "SBTC",
+   "name": "sBTC",
+   "band": "150-500",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 195682506,
+   "price": 80222,
+   "volume24h": 230114,
+   "vol_to_cap": 0.0012,
+   "chg24h": -0.29348,
+   "chg7d": 1.5,
+   "chg30d": 23.6,
+   "ath_chg": -61.67392,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "eigenlayer",
+   "symbol": "EIGEN",
+   "name": "EigenCloud (prev. EigenLayer)",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 193204847,
+   "price": 0.209858,
+   "volume24h": 20525625,
+   "vol_to_cap": 0.1062,
+   "chg24h": 3.65618,
+   "chg7d": 7.8,
+   "chg30d": 19.0,
+   "ath_chg": -96.28289,
+   "supply_pct": 50.0,
+   "social": null
+  },
+  {
+   "id": "arweave",
+   "symbol": "AR",
+   "name": "Arweave",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 192334569,
+   "price": 2.93,
+   "volume24h": 27465467,
+   "vol_to_cap": 0.1428,
+   "chg24h": 2.56257,
+   "chg7d": 41.8,
+   "chg30d": 64.6,
+   "ath_chg": -96.71834,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ether-fi-staked-eth",
+   "symbol": "EETH",
+   "name": "ether.fi Staked ETH",
+   "band": "150-500",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 189139955,
+   "price": 2476.46,
+   "volume24h": 850575,
+   "vol_to_cap": 0.0045,
+   "chg24h": 1.64808,
+   "chg7d": 1.7,
+   "chg30d": 29.5,
+   "ath_chg": -53.33799,
+   "supply_pct": 3.5,
+   "social": null
+  },
+  {
+   "id": "zebec-network",
+   "symbol": "ZBCN",
+   "name": "Zebec Network",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "depin",
+    "payment-solutions",
+    "real-world-assets-rwa"
+   ],
+   "cap": 188675540,
+   "price": 0.00188681,
+   "volume24h": 8054823,
+   "vol_to_cap": 0.0427,
+   "chg24h": -0.28015,
+   "chg7d": -3.3,
+   "chg30d": 6.2,
+   "ath_chg": -73.05568,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "usa",
+   "symbol": "USAT",
+   "name": "USAT",
+   "band": "150-500",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 184202921,
+   "price": 0.999396,
+   "volume24h": 297215,
+   "vol_to_cap": 0.0016,
+   "chg24h": -0.02917,
+   "chg7d": 0.0,
+   "chg30d": 0.1,
+   "ath_chg": -0.30174,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "theta-token",
+   "symbol": "THETA",
+   "name": "Theta Network",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 182953050,
+   "price": 0.182953,
+   "volume24h": 2472284,
+   "vol_to_cap": 0.0135,
+   "chg24h": 2.4072,
+   "chg7d": 6.8,
+   "chg30d": 37.0,
+   "ath_chg": -98.83616,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ultima",
+   "symbol": "ULTIMA",
+   "name": "Ultima",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "payment-solutions"
+   ],
+   "cap": 179637289,
+   "price": 2120.15,
+   "volume24h": 5474528,
+   "vol_to_cap": 0.0305,
+   "chg24h": -1.30775,
+   "chg7d": -7.1,
+   "chg30d": -12.1,
+   "ath_chg": -90.72169,
+   "supply_pct": 84.7,
+   "social": null
+  },
+  {
+   "id": "phantom-staked-sol",
+   "symbol": "PSOL",
+   "name": "Phantom Staked SOL",
+   "band": "150-500",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 177409524,
+   "price": 117.31,
+   "volume24h": 316236,
+   "vol_to_cap": 0.0018,
+   "chg24h": 3.88833,
+   "chg7d": 1.3,
+   "chg30d": 45.4,
+   "ath_chg": -55.07262,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "coinbase-wrapped-xrp",
+   "symbol": "CBXRP",
+   "name": "Coinbase Wrapped XRP",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 174688436,
+   "price": 1.42,
+   "volume24h": 1440368,
+   "vol_to_cap": 0.0082,
+   "chg24h": 0.53147,
+   "chg7d": 2.2,
+   "chg30d": 37.3,
+   "ath_chg": -61.30219,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "telcoin",
+   "symbol": "TEL",
+   "name": "Telcoin",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "payment-solutions"
+   ],
+   "cap": 168792550,
+   "price": 0.00171096,
+   "volume24h": 692103,
+   "vol_to_cap": 0.0041,
+   "chg24h": 0.65811,
+   "chg7d": 1.6,
+   "chg30d": 17.1,
+   "ath_chg": -97.34664,
+   "supply_pct": 98.7,
+   "social": null
+  },
+  {
+   "id": "akash-network",
+   "symbol": "AKT",
+   "name": "Akash Network",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 167774841,
+   "price": 0.563886,
+   "volume24h": 4401005,
+   "vol_to_cap": 0.0262,
+   "chg24h": 5.87185,
+   "chg7d": 6.2,
+   "chg30d": 15.3,
+   "ath_chg": -93.01686,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "derive",
+   "symbol": "DRV",
+   "name": "Derive",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 166415643,
+   "price": 0.166409,
+   "volume24h": 12410390,
+   "vol_to_cap": 0.0746,
+   "chg24h": -10.54654,
+   "chg7d": 2.7,
+   "chg30d": 73.4,
+   "ath_chg": -27.09814,
+   "supply_pct": 66.6,
+   "social": null
+  },
+  {
+   "id": "thorchain",
+   "symbol": "RUNE",
+   "name": "THORChain",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 161100780,
+   "price": 0.490292,
+   "volume24h": 21226679,
+   "vol_to_cap": 0.1318,
+   "chg24h": 1.67965,
+   "chg7d": 4.7,
+   "chg30d": 9.8,
+   "ath_chg": -97.65046,
+   "supply_pct": 92.9,
+   "social": null
+  },
+  {
+   "id": "frax-ether",
+   "symbol": "FRXETH",
+   "name": "Frax Ether",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 153452747,
+   "price": 2495.37,
+   "volume24h": 466240,
+   "vol_to_cap": 0.003,
+   "chg24h": 1.63344,
+   "chg7d": 1.7,
+   "chg30d": 30.9,
+   "ath_chg": -50.76013,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "vision-3",
+   "symbol": "VSN",
+   "name": "Vision",
+   "band": "150-500",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 153232687,
+   "price": 0.04076191,
+   "volume24h": 3553171,
+   "vol_to_cap": 0.0232,
+   "chg24h": -0.16345,
+   "chg7d": 1.6,
+   "chg30d": 9.1,
+   "ath_chg": -81.79247,
+   "supply_pct": 89.5,
+   "social": null
+  },
+  {
+   "id": "origintrail",
+   "symbol": "TRAC",
+   "name": "OriginTrail",
+   "band": "150-500",
+   "categories": [
+    "artificial-intelligence",
+    "depin",
+    "real-world-assets-rwa"
+   ],
+   "cap": 150842447,
+   "price": 0.337246,
+   "volume24h": 2849918,
+   "vol_to_cap": 0.0189,
+   "chg24h": 4.84636,
+   "chg7d": 0.4,
+   "chg30d": 24.4,
+   "ath_chg": -90.37799,
+   "supply_pct": 89.5,
+   "social": null
+  },
+  {
+   "id": "syrup-usdg",
+   "symbol": "SYRUPUSDG",
+   "name": "syrupUSDG",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 141184001,
+   "price": 1.01,
+   "volume24h": 156647,
+   "vol_to_cap": 0.0011,
+   "chg24h": 0.38277,
+   "chg7d": 0.1,
+   "chg30d": 0.5,
+   "ath_chg": -3.8443,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "kamino",
+   "symbol": "KMNO",
+   "name": "Kamino",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 139252195,
+   "price": 0.02544997,
+   "volume24h": 3179737,
+   "vol_to_cap": 0.0228,
+   "chg24h": 1.37154,
+   "chg7d": -0.6,
+   "chg30d": 18.5,
+   "ath_chg": -89.73139,
+   "supply_pct": 54.7,
+   "social": null
+  },
+  {
+   "id": "elrond-erd-2",
+   "symbol": "EGLD",
+   "name": "MultiversX",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 139105489,
+   "price": 4.53,
+   "volume24h": 5487645,
+   "vol_to_cap": 0.0394,
+   "chg24h": -3.49542,
+   "chg7d": 15.5,
+   "chg30d": 70.8,
+   "ath_chg": -99.17034,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "collector-crypt",
+   "symbol": "CARDS",
+   "name": "Collector Crypt",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 134883498,
+   "price": 0.144658,
+   "volume24h": 7256028,
+   "vol_to_cap": 0.0538,
+   "chg24h": 1.12547,
+   "chg7d": -35.1,
+   "chg30d": -3.3,
+   "ath_chg": -62.07624,
+   "supply_pct": 47.1,
+   "social": null
+  },
+  {
+   "id": "1inch",
+   "symbol": "1INCH",
+   "name": "1INCH",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 134406452,
+   "price": 0.095626,
+   "volume24h": 34117869,
+   "vol_to_cap": 0.2538,
+   "chg24h": 4.8503,
+   "chg7d": 8.2,
+   "chg30d": 15.1,
+   "ath_chg": -98.8947,
+   "supply_pct": 93.7,
+   "social": null
+  },
+  {
+   "id": "bybit-staked-sol",
+   "symbol": "BBSOL",
+   "name": "Bybit Staked SOL",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 133086897,
+   "price": 124.96,
+   "volume24h": 183709,
+   "vol_to_cap": 0.0014,
+   "chg24h": 3.69675,
+   "chg7d": 1.3,
+   "chg30d": 45.7,
+   "ath_chg": -59.50782,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "havven",
+   "symbol": "SNX",
+   "name": "Synthetix",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 132973516,
+   "price": 0.228926,
+   "volume24h": 19557035,
+   "vol_to_cap": 0.1471,
+   "chg24h": 7.06363,
+   "chg7d": 8.0,
+   "chg30d": 7.4,
+   "ath_chg": -99.19766,
+   "supply_pct": 99.9,
+   "social": null
+  },
+  {
+   "id": "unifai-network",
+   "symbol": "UAI",
+   "name": "UnifAI Network",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 130241428,
+   "price": 0.545211,
+   "volume24h": 33063174,
+   "vol_to_cap": 0.2539,
+   "chg24h": 13.26693,
+   "chg7d": 59.9,
+   "chg30d": 117.0,
+   "ath_chg": -20.49808,
+   "supply_pct": 23.9,
+   "social": null
+  },
+  {
+   "id": "circle-internet-group-ondo-tokenized-stock",
+   "symbol": "CRCLON",
+   "name": "Circle Internet Group (Ondo Tokenized Stock)",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 126690662,
+   "price": 104.41,
+   "volume24h": 1677789,
+   "vol_to_cap": 0.0132,
+   "chg24h": 2.81509,
+   "chg7d": 18.7,
+   "chg30d": 63.8,
+   "ath_chg": -34.07383,
+   "supply_pct": 100.1,
+   "social": null
+  },
+  {
+   "id": "tether-gold-tokens",
+   "symbol": "XAUT0",
+   "name": "Tether Gold Tokens",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 121782993,
+   "price": 4420.38,
+   "volume24h": 5851393,
+   "vol_to_cap": 0.048,
+   "chg24h": -0.11931,
+   "chg7d": -0.8,
+   "chg30d": 2.8,
+   "ath_chg": -21.0886,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "quack-ai",
+   "symbol": "Q",
+   "name": "Quack AI",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 120001043,
+   "price": 0.02699145,
+   "volume24h": 4573243,
+   "vol_to_cap": 0.0381,
+   "chg24h": -1.21604,
+   "chg7d": 17.4,
+   "chg30d": 15.3,
+   "ath_chg": -48.54692,
+   "supply_pct": 44.5,
+   "social": null
+  },
+  {
+   "id": "meteora",
+   "symbol": "MET",
+   "name": "Meteora",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 119948250,
+   "price": 0.217858,
+   "volume24h": 18185861,
+   "vol_to_cap": 0.1516,
+   "chg24h": 13.41201,
+   "chg7d": 10.0,
+   "chg30d": 27.8,
+   "ath_chg": -68.28445,
+   "supply_pct": 55.2,
+   "social": null
+  },
+  {
+   "id": "stp-network",
+   "symbol": "AWE",
+   "name": "AWE Network",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "decentralized-finance-defi"
+   ],
+   "cap": 118468725,
+   "price": 0.060993,
+   "volume24h": 1218767,
+   "vol_to_cap": 0.0103,
+   "chg24h": -0.35162,
+   "chg7d": -2.1,
+   "chg30d": 7.5,
+   "ath_chg": -77.41723,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "chip-2",
+   "symbol": "CHIP",
+   "name": "USD.AI",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 116763356,
+   "price": 0.058368,
+   "volume24h": 26444201,
+   "vol_to_cap": 0.2265,
+   "chg24h": 4.94479,
+   "chg7d": 50.3,
+   "chg30d": 138.8,
+   "ath_chg": -58.3652,
+   "supply_pct": 20.0,
+   "social": null
+  },
+  {
+   "id": "golem",
+   "symbol": "GLM",
+   "name": "Golem",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 112896196,
+   "price": 0.112841,
+   "volume24h": 2234557,
+   "vol_to_cap": 0.0198,
+   "chg24h": 2.72173,
+   "chg7d": -0.3,
+   "chg30d": 23.1,
+   "ath_chg": -91.47926,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "permacast",
+   "symbol": "PWT",
+   "name": "Permacast",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 112609769,
+   "price": 0.579909,
+   "volume24h": 3092229,
+   "vol_to_cap": 0.0275,
+   "chg24h": -0.04936,
+   "chg7d": 8.1,
+   "chg30d": null,
+   "ath_chg": -15.15564,
+   "supply_pct": 21.0,
+   "social": null
+  },
+  {
+   "id": "helium",
+   "symbol": "HNT",
+   "name": "Helium",
+   "band": "50-150",
+   "categories": [
+    "depin"
+   ],
+   "cap": 108516830,
+   "price": 0.578114,
+   "volume24h": 10726133,
+   "vol_to_cap": 0.0988,
+   "chg24h": -5.36412,
+   "chg7d": -2.1,
+   "chg30d": 200.5,
+   "ath_chg": -98.94653,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "instadapp",
+   "symbol": "FLUID",
+   "name": "Fluid",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 106978807,
+   "price": 1.28,
+   "volume24h": 1524190,
+   "vol_to_cap": 0.0142,
+   "chg24h": 1.78039,
+   "chg7d": -4.4,
+   "chg30d": 6.3,
+   "ath_chg": -94.76176,
+   "supply_pct": 83.7,
+   "social": null
+  },
+  {
+   "id": "chutes",
+   "symbol": "SN64",
+   "name": "Chutes",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 106877418,
+   "price": 18.24,
+   "volume24h": 513787,
+   "vol_to_cap": 0.0048,
+   "chg24h": 2.74335,
+   "chg7d": -0.9,
+   "chg30d": 6.3,
+   "ath_chg": -82.53301,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sosovalue",
+   "symbol": "SOSO",
+   "name": "SoSoValue",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 106435058,
+   "price": 0.311173,
+   "volume24h": 4493826,
+   "vol_to_cap": 0.0422,
+   "chg24h": 0.12517,
+   "chg7d": -1.8,
+   "chg30d": -13.3,
+   "ath_chg": -78.09458,
+   "supply_pct": 34.2,
+   "social": null
+  },
+  {
+   "id": "dydx-chain",
+   "symbol": "DYDX",
+   "name": "dYdX",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 106343220,
+   "price": 0.125654,
+   "volume24h": 5815482,
+   "vol_to_cap": 0.0547,
+   "chg24h": 7.07736,
+   "chg7d": 10.0,
+   "chg30d": 8.5,
+   "ath_chg": -97.21922,
+   "supply_pct": 88.3,
+   "social": null
+  },
+  {
+   "id": "geodnet",
+   "symbol": "GEOD",
+   "name": "Geodnet",
+   "band": "50-150",
+   "categories": [
+    "depin"
+   ],
+   "cap": 105550500,
+   "price": 0.228274,
+   "volume24h": 1412754,
+   "vol_to_cap": 0.0134,
+   "chg24h": -5.15788,
+   "chg7d": 0.4,
+   "chg30d": 28.0,
+   "ath_chg": -39.01984,
+   "supply_pct": 48.0,
+   "social": null
+  },
+  {
+   "id": "circle-internet-group-bstock",
+   "symbol": "CRCLB",
+   "name": "Circle Internet Group (bStocks Tokenized Stock)",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 103697617,
+   "price": 104.53,
+   "volume24h": 8285535,
+   "vol_to_cap": 0.0799,
+   "chg24h": 2.77077,
+   "chg7d": 19.0,
+   "chg30d": 63.2,
+   "ath_chg": -0.65204,
+   "supply_pct": 99.8,
+   "social": null
+  },
+  {
+   "id": "blazestake-staked-sol",
+   "symbol": "BSOL",
+   "name": "BlazeStake Staked SOL",
+   "band": "50-150",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 98783111,
+   "price": 140.63,
+   "volume24h": 528272,
+   "vol_to_cap": 0.0053,
+   "chg24h": 3.84395,
+   "chg7d": 1.3,
+   "chg30d": 45.3,
+   "ath_chg": -59.12331,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "celium",
+   "symbol": "SN51",
+   "name": "lium",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 97801511,
+   "price": 21.0,
+   "volume24h": 1354738,
+   "vol_to_cap": 0.0139,
+   "chg24h": 3.3258,
+   "chg7d": 4.0,
+   "chg30d": 50.6,
+   "ath_chg": -43.42142,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sentient",
+   "symbol": "SENT",
+   "name": "Sentient",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 97079958,
+   "price": 0.01341239,
+   "volume24h": 2358249,
+   "vol_to_cap": 0.0243,
+   "chg24h": 0.38119,
+   "chg7d": 4.5,
+   "chg30d": 2.5,
+   "ath_chg": -72.08842,
+   "supply_pct": 21.1,
+   "social": null
+  },
+  {
+   "id": "unitas",
+   "symbol": "UP",
+   "name": "Unitas",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 95811177,
+   "price": 0.443621,
+   "volume24h": 13707514,
+   "vol_to_cap": 0.1431,
+   "chg24h": -13.74394,
+   "chg7d": -6.1,
+   "chg30d": 35.6,
+   "ath_chg": -15.11655,
+   "supply_pct": 21.6,
+   "social": null
+  },
+  {
+   "id": "aethir",
+   "symbol": "ATH",
+   "name": "Aethir",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 94859517,
+   "price": 0.00471297,
+   "volume24h": 6128508,
+   "vol_to_cap": 0.0646,
+   "chg24h": 1.47184,
+   "chg7d": -5.0,
+   "chg30d": 17.6,
+   "ath_chg": -96.02401,
+   "supply_pct": 47.9,
+   "social": null
+  },
+  {
+   "id": "pearl-2",
+   "symbol": "PRL",
+   "name": "Pearl",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 91856979,
+   "price": 0.360171,
+   "volume24h": 350613,
+   "vol_to_cap": 0.0038,
+   "chg24h": -5.22812,
+   "chg7d": 29.9,
+   "chg30d": 35.1,
+   "ath_chg": -51.27233,
+   "supply_pct": 12.1,
+   "social": null
+  },
+  {
+   "id": "reserve-rights-token",
+   "symbol": "RSR",
+   "name": "Reserve Rights",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 91205044,
+   "price": 0.00145809,
+   "volume24h": 15069417,
+   "vol_to_cap": 0.1652,
+   "chg24h": 3.92981,
+   "chg7d": 4.8,
+   "chg30d": 19.3,
+   "ath_chg": -98.75827,
+   "supply_pct": 62.6,
+   "social": null
+  },
+  {
+   "id": "orca",
+   "symbol": "ORCA",
+   "name": "Orca",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 90236769,
+   "price": 1.49,
+   "volume24h": 30829059,
+   "vol_to_cap": 0.3416,
+   "chg24h": 16.04517,
+   "chg7d": 6.7,
+   "chg30d": 28.2,
+   "ath_chg": -92.68799,
+   "supply_pct": 81.1,
+   "social": null
+  },
+  {
+   "id": "mag7-ssi",
+   "symbol": "MAG7.SSI",
+   "name": "MAG7.ssi",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 89844822,
+   "price": 0.534972,
+   "volume24h": 434222,
+   "vol_to_cap": 0.0048,
+   "chg24h": 0.47348,
+   "chg7d": 2.5,
+   "chg30d": 25.6,
+   "ath_chg": -60.22812,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "0x",
+   "symbol": "ZRX",
+   "name": "0x Protocol",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 89742275,
+   "price": 0.105775,
+   "volume24h": 18020048,
+   "vol_to_cap": 0.2008,
+   "chg24h": 0.92281,
+   "chg7d": 8.3,
+   "chg30d": 31.5,
+   "ath_chg": -95.76383,
+   "supply_pct": 84.8,
+   "social": null
+  },
+  {
+   "id": "plume",
+   "symbol": "PLUME",
+   "name": "Plume",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 88668390,
+   "price": 0.01387209,
+   "volume24h": 10654789,
+   "vol_to_cap": 0.1202,
+   "chg24h": 1.51675,
+   "chg7d": -4.2,
+   "chg30d": 16.4,
+   "ath_chg": -94.39595,
+   "supply_pct": 63.9,
+   "social": null
+  },
+  {
+   "id": "velo",
+   "symbol": "VELO",
+   "name": "Velo",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 87742942,
+   "price": 0.00499566,
+   "volume24h": 869200,
+   "vol_to_cap": 0.0099,
+   "chg24h": 0.01426,
+   "chg7d": 12.8,
+   "chg30d": 54.4,
+   "ath_chg": -99.7815,
+   "supply_pct": 73.2,
+   "social": null
+  },
+  {
+   "id": "gmx",
+   "symbol": "GMX",
+   "name": "GMX",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 86123314,
+   "price": 8.24,
+   "volume24h": 6794120,
+   "vol_to_cap": 0.0789,
+   "chg24h": 10.42705,
+   "chg7d": 6.1,
+   "chg30d": 30.1,
+   "ath_chg": -90.94992,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "o1-exchange",
+   "symbol": "O",
+   "name": "o1.exchange",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 84932354,
+   "price": 0.530854,
+   "volume24h": 3105639,
+   "vol_to_cap": 0.0366,
+   "chg24h": -0.96724,
+   "chg7d": -1.8,
+   "chg30d": 8.6,
+   "ath_chg": -43.61681,
+   "supply_pct": 16.0,
+   "social": null
+  },
+  {
+   "id": "circle-xstock",
+   "symbol": "CRCLX",
+   "name": "Circle xStock",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 84819646,
+   "price": 104.61,
+   "volume24h": 3360810,
+   "vol_to_cap": 0.0396,
+   "chg24h": 2.93186,
+   "chg7d": 19.0,
+   "chg30d": 63.1,
+   "ath_chg": -59.31459,
+   "supply_pct": 26.5,
+   "social": null
+  },
+  {
+   "id": "yearn-finance",
+   "symbol": "YFI",
+   "name": "yearn.finance",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 84173206,
+   "price": 2333.29,
+   "volume24h": 17191533,
+   "vol_to_cap": 0.2042,
+   "chg24h": 1.23436,
+   "chg7d": 3.3,
+   "chg30d": 12.8,
+   "ath_chg": -97.42993,
+   "supply_pct": 98.4,
+   "social": null
+  },
+  {
+   "id": "tagger",
+   "symbol": "TAG",
+   "name": "TAGGER",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 79621072,
+   "price": 0.00073144,
+   "volume24h": 1589910,
+   "vol_to_cap": 0.02,
+   "chg24h": -1.27582,
+   "chg7d": -10.6,
+   "chg30d": -43.1,
+   "ath_chg": -66.55285,
+   "supply_pct": 26.9,
+   "social": null
+  },
+  {
+   "id": "targon",
+   "symbol": "SN4",
+   "name": "Targon",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 78645441,
+   "price": 14.06,
+   "volume24h": 274874,
+   "vol_to_cap": 0.0035,
+   "chg24h": 2.60837,
+   "chg7d": 3.2,
+   "chg30d": 22.5,
+   "ath_chg": -64.15361,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "aioz-network",
+   "symbol": "AIOZ",
+   "name": "AIOZ Network",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 76173320,
+   "price": 0.059751,
+   "volume24h": 2957730,
+   "vol_to_cap": 0.0388,
+   "chg24h": 4.31365,
+   "chg7d": 0.9,
+   "chg30d": 27.5,
+   "ath_chg": -97.74601,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "arkham",
+   "symbol": "ARKM",
+   "name": "Arkham",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 76077633,
+   "price": 0.109454,
+   "volume24h": 6919323,
+   "vol_to_cap": 0.091,
+   "chg24h": 1.86712,
+   "chg7d": -2.5,
+   "chg30d": 14.6,
+   "ath_chg": -97.24719,
+   "supply_pct": 69.5,
+   "social": null
+  },
+  {
+   "id": "cow-protocol",
+   "symbol": "COW",
+   "name": "CoW Protocol",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 75960860,
+   "price": 0.132234,
+   "volume24h": 3542505,
+   "vol_to_cap": 0.0466,
+   "chg24h": 2.2204,
+   "chg7d": 6.0,
+   "chg30d": 24.0,
+   "ath_chg": -94.04155,
+   "supply_pct": 57.4,
+   "social": null
+  },
+  {
+   "id": "firelight-staked-xrp",
+   "symbol": "STXRP",
+   "name": "Firelight Staked XRP",
+   "band": "50-150",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 75221246,
+   "price": 1.42,
+   "volume24h": 147669,
+   "vol_to_cap": 0.002,
+   "chg24h": 0.51011,
+   "chg7d": 2.2,
+   "chg30d": 39.4,
+   "ath_chg": -40.98497,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "saturn-susdat",
+   "symbol": "SUSDAT",
+   "name": "Saturn sUSDat",
+   "band": "50-150",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 75165237,
+   "price": 1.009,
+   "volume24h": 164334,
+   "vol_to_cap": 0.0022,
+   "chg24h": -0.26437,
+   "chg7d": 0.4,
+   "chg30d": 4.7,
+   "ath_chg": -1.20437,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "kaito",
+   "symbol": "KAITO",
+   "name": "KAITO",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 74927342,
+   "price": 0.310364,
+   "volume24h": 10827596,
+   "vol_to_cap": 0.1445,
+   "chg24h": -0.11424,
+   "chg7d": -0.6,
+   "chg30d": -64.7,
+   "ath_chg": -89.23943,
+   "supply_pct": 24.1,
+   "social": null
+  },
+  {
+   "id": "microstrategy-xstock",
+   "symbol": "MSTRX",
+   "name": "MicroStrategy xStock",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 73442335,
+   "price": 144.66,
+   "volume24h": 1991583,
+   "vol_to_cap": 0.0271,
+   "chg24h": 1.55847,
+   "chg7d": 12.1,
+   "chg30d": 47.5,
+   "ath_chg": -68.71155,
+   "supply_pct": 37.4,
+   "social": null
+  },
+  {
+   "id": "ai-rig-complex",
+   "symbol": "ARC",
+   "name": "AI Rig Complex",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 72673986,
+   "price": 0.072669,
+   "volume24h": 3647649,
+   "vol_to_cap": 0.0502,
+   "chg24h": -2.75348,
+   "chg7d": 3.7,
+   "chg30d": 36.3,
+   "ath_chg": -88.33926,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "livepeer",
+   "symbol": "LPT",
+   "name": "Livepeer",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 72441106,
+   "price": 1.46,
+   "volume24h": 14543759,
+   "vol_to_cap": 0.2008,
+   "chg24h": -0.72224,
+   "chg7d": 8.7,
+   "chg30d": 14.8,
+   "ath_chg": -98.52784,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "matrixdock-gold",
+   "symbol": "XAUM",
+   "name": "Matrixdock Gold",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 72232208,
+   "price": 4422.96,
+   "volume24h": 505499,
+   "vol_to_cap": 0.007,
+   "chg24h": 0.00719,
+   "chg7d": -0.5,
+   "chg30d": 3.1,
+   "ath_chg": -20.6638,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "zignaly",
+   "symbol": "ZIG",
+   "name": "ZIGChain",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 71909435,
+   "price": 0.051037,
+   "volume24h": 12976485,
+   "vol_to_cap": 0.1805,
+   "chg24h": 19.54309,
+   "chg7d": 23.3,
+   "chg30d": 27.6,
+   "ath_chg": -77.234,
+   "supply_pct": 72.1,
+   "social": null
+  },
+  {
+   "id": "re",
+   "symbol": "RE",
+   "name": "RE",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 71750595,
+   "price": 0.449393,
+   "volume24h": 3812277,
+   "vol_to_cap": 0.0531,
+   "chg24h": -0.87883,
+   "chg7d": -8.2,
+   "chg30d": 20.3,
+   "ath_chg": -58.33582,
+   "supply_pct": 16.0,
+   "social": null
+  },
+  {
+   "id": "theta-fuel",
+   "symbol": "TFUEL",
+   "name": "Theta Fuel",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 71288331,
+   "price": 0.00953739,
+   "volume24h": 354818,
+   "vol_to_cap": 0.005,
+   "chg24h": 0.86418,
+   "chg7d": 4.2,
+   "chg30d": 29.7,
+   "ath_chg": -98.60072,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spark-2",
+   "symbol": "SPK",
+   "name": "Spark",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 71247480,
+   "price": 0.02228835,
+   "volume24h": 25769737,
+   "vol_to_cap": 0.3617,
+   "chg24h": 7.54131,
+   "chg7d": 17.9,
+   "chg30d": 45.0,
+   "ath_chg": -87.91779,
+   "supply_pct": 32.0,
+   "social": null
+  },
+  {
+   "id": "sushi",
+   "symbol": "SUSHI",
+   "name": "Sushi",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 70871788,
+   "price": 0.247317,
+   "volume24h": 126654874,
+   "vol_to_cap": 1.7871,
+   "chg24h": 21.23141,
+   "chg7d": 27.0,
+   "chg30d": 48.5,
+   "ath_chg": -98.94202,
+   "supply_pct": 98.4,
+   "social": null
+  },
+  {
+   "id": "tesla-xstock",
+   "symbol": "TSLAX",
+   "name": "Tesla xStock",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 70847063,
+   "price": 356.56,
+   "volume24h": 2580906,
+   "vol_to_cap": 0.0364,
+   "chg24h": 0.44758,
+   "chg7d": 1.5,
+   "chg30d": 11.0,
+   "ath_chg": -28.19279,
+   "supply_pct": 37.0,
+   "social": null
+  },
+  {
+   "id": "ishares-core-s-p-500-etf-ondo-tokenized-etf",
+   "symbol": "IVVON",
+   "name": "iShares Core S&P 500 ETF (Ondo Tokenized ETF)",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 70407791,
+   "price": 780.72,
+   "volume24h": 493598,
+   "vol_to_cap": 0.007,
+   "chg24h": 0.01292,
+   "chg7d": -0.1,
+   "chg30d": 0.4,
+   "ath_chg": -2.06088,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dexe",
+   "symbol": "DEXE",
+   "name": "DeXe",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 69717879,
+   "price": 1.98,
+   "volume24h": 11075181,
+   "vol_to_cap": 0.1589,
+   "chg24h": -0.82382,
+   "chg7d": -13.4,
+   "chg30d": -10.4,
+   "ath_chg": -95.95906,
+   "supply_pct": 36.5,
+   "social": null
+  },
+  {
+   "id": "stau",
+   "symbol": "STAU",
+   "name": "STAU",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 69235755,
+   "price": 0.00692458,
+   "volume24h": 353065,
+   "vol_to_cap": 0.0051,
+   "chg24h": 2.24938,
+   "chg7d": -6.1,
+   "chg30d": 1.1,
+   "ath_chg": -97.51807,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bedrock-token",
+   "symbol": "BR",
+   "name": "Bedrock",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 69138296,
+   "price": 0.237039,
+   "volume24h": 2362405,
+   "vol_to_cap": 0.0342,
+   "chg24h": -17.5569,
+   "chg7d": 6.0,
+   "chg30d": 63.7,
+   "ath_chg": -32.10454,
+   "supply_pct": 29.2,
+   "social": null
+  },
+  {
+   "id": "holotoken",
+   "symbol": "HOT",
+   "name": "Holo",
+   "band": "50-150",
+   "categories": [
+    "depin"
+   ],
+   "cap": 68623819,
+   "price": 0.00038639,
+   "volume24h": 3233666,
+   "vol_to_cap": 0.0471,
+   "chg24h": 2.12868,
+   "chg7d": 0.4,
+   "chg30d": 14.2,
+   "ath_chg": -98.76423,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "cap-4",
+   "symbol": "CAP",
+   "name": "Cap",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 68521358,
+   "price": 0.0439257,
+   "volume24h": 11060124,
+   "vol_to_cap": 0.1614,
+   "chg24h": -0.63735,
+   "chg7d": -34.2,
+   "chg30d": 36.7,
+   "ath_chg": -43.869,
+   "supply_pct": 15.6,
+   "social": null
+  },
+  {
+   "id": "story-2",
+   "symbol": "DATA",
+   "name": "Data Network",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 68418549,
+   "price": 0.190898,
+   "volume24h": 1261394,
+   "vol_to_cap": 0.0184,
+   "chg24h": 0.36583,
+   "chg7d": 5.0,
+   "chg30d": -8.1,
+   "ath_chg": -98.70863,
+   "supply_pct": 34.7,
+   "social": null
+  },
+  {
+   "id": "apriori",
+   "symbol": "APR",
+   "name": "Capricorn",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 68120059,
+   "price": 0.245244,
+   "volume24h": 6681813,
+   "vol_to_cap": 0.0981,
+   "chg24h": 6.66271,
+   "chg7d": 29.7,
+   "chg30d": 25.0,
+   "ath_chg": -66.83926,
+   "supply_pct": 27.8,
+   "social": null
+  },
+  {
+   "id": "numeraire",
+   "symbol": "NMR",
+   "name": "Numeraire",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 65633294,
+   "price": 9.47,
+   "volume24h": 30282548,
+   "vol_to_cap": 0.4614,
+   "chg24h": 0.28394,
+   "chg7d": 4.7,
+   "chg30d": 11.8,
+   "ath_chg": -89.83784,
+   "supply_pct": 65.4,
+   "social": null
+  },
+  {
+   "id": "spacex-bstocks-tokenized-stock",
+   "symbol": "SPCXB",
+   "name": "SpaceX (bStocks Tokenized Stock)",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 64377007,
+   "price": 150.39,
+   "volume24h": 20968380,
+   "vol_to_cap": 0.3257,
+   "chg24h": 0.77554,
+   "chg7d": 7.3,
+   "chg30d": 29.3,
+   "ath_chg": -34.51974,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "redstone-oracles",
+   "symbol": "RED",
+   "name": "RedStone",
+   "band": "50-150",
+   "categories": [
+    "oracle",
+    "real-world-assets-rwa"
+   ],
+   "cap": 64258054,
+   "price": 0.127552,
+   "volume24h": 2160311,
+   "vol_to_cap": 0.0336,
+   "chg24h": 1.77416,
+   "chg7d": 17.9,
+   "chg30d": 46.8,
+   "ath_chg": -86.32089,
+   "supply_pct": 50.4,
+   "social": null
+  },
+  {
+   "id": "peaq-2",
+   "symbol": "PEAQ",
+   "name": "peaq",
+   "band": "50-150",
+   "categories": [
+    "depin"
+   ],
+   "cap": 62747298,
+   "price": 0.02510342,
+   "volume24h": 1256880,
+   "vol_to_cap": 0.02,
+   "chg24h": -2.12679,
+   "chg7d": 5.2,
+   "chg30d": 42.0,
+   "ath_chg": -96.65498,
+   "supply_pct": 56.3,
+   "social": null
+  },
+  {
+   "id": "berachain-bera",
+   "symbol": "BERA",
+   "name": "Berachain",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 62454257,
+   "price": 0.187795,
+   "volume24h": 7589923,
+   "vol_to_cap": 0.1215,
+   "chg24h": 2.09804,
+   "chg7d": 9.4,
+   "chg30d": 17.8,
+   "ath_chg": -98.73345,
+   "supply_pct": 59.6,
+   "social": null
+  },
+  {
+   "id": "allora",
+   "symbol": "ALLO",
+   "name": "Allora",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 60835276,
+   "price": 0.243332,
+   "volume24h": 2801211,
+   "vol_to_cap": 0.046,
+   "chg24h": -1.74725,
+   "chg7d": -3.0,
+   "chg30d": -27.2,
+   "ath_chg": -84.77158,
+   "supply_pct": 31.7,
+   "social": null
+  },
+  {
+   "id": "diem",
+   "symbol": "DIEM",
+   "name": "Diem",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 60675888,
+   "price": 1639.64,
+   "volume24h": 200998,
+   "vol_to_cap": 0.0033,
+   "chg24h": -3.54803,
+   "chg7d": 12.2,
+   "chg30d": 23.0,
+   "ath_chg": -14.07827,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "qubic-network",
+   "symbol": "QUBIC",
+   "name": "Qubic",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 59735300,
+   "price": 4.20512e-07,
+   "volume24h": 768711,
+   "vol_to_cap": 0.0129,
+   "chg24h": 0.24256,
+   "chg7d": 2.4,
+   "chg30d": -1.7,
+   "ath_chg": -96.65241,
+   "supply_pct": 80.3,
+   "social": null
+  },
+  {
+   "id": "chainopera-ai",
+   "symbol": "COAI",
+   "name": "ChainOpera AI",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 59581696,
+   "price": 0.316984,
+   "volume24h": 1417534,
+   "vol_to_cap": 0.0238,
+   "chg24h": -1.00626,
+   "chg7d": 8.5,
+   "chg30d": -8.8,
+   "ath_chg": -99.27651,
+   "supply_pct": 18.8,
+   "social": null
+  },
+  {
+   "id": "kinetiq",
+   "symbol": "KNTQ",
+   "name": "Kinetiq",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 58282765,
+   "price": 0.207799,
+   "volume24h": 544857,
+   "vol_to_cap": 0.0093,
+   "chg24h": 3.2269,
+   "chg7d": 10.3,
+   "chg30d": 110.8,
+   "ath_chg": -44.86442,
+   "supply_pct": 28.0,
+   "social": null
+  },
+  {
+   "id": "venus",
+   "symbol": "XVS",
+   "name": "Venus",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 56655243,
+   "price": 3.36,
+   "volume24h": 2587363,
+   "vol_to_cap": 0.0457,
+   "chg24h": 0.41486,
+   "chg7d": 4.1,
+   "chg30d": 20.1,
+   "ath_chg": -97.71031,
+   "supply_pct": 56.7,
+   "social": null
+  },
+  {
+   "id": "lab",
+   "symbol": "LAB",
+   "name": "LAB",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 56245874,
+   "price": 0.072655,
+   "volume24h": 7450965,
+   "vol_to_cap": 0.1325,
+   "chg24h": -3.10372,
+   "chg7d": -7.3,
+   "chg30d": -42.8,
+   "ath_chg": -99.73556,
+   "supply_pct": 77.6,
+   "social": null
+  },
+  {
+   "id": "sp500-xstock",
+   "symbol": "SPYX",
+   "name": "SP500 xStock",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 55767801,
+   "price": 776.48,
+   "volume24h": 18443068,
+   "vol_to_cap": 0.3307,
+   "chg24h": 0.17286,
+   "chg7d": 0.0,
+   "chg30d": 0.3,
+   "ath_chg": -0.91308,
+   "supply_pct": 27.0,
+   "social": null
+  },
+  {
+   "id": "io",
+   "symbol": "IO",
+   "name": "io.net",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 53983806,
+   "price": 0.136813,
+   "volume24h": 7840912,
+   "vol_to_cap": 0.1452,
+   "chg24h": 4.89176,
+   "chg7d": 2.2,
+   "chg30d": 10.4,
+   "ath_chg": -97.87087,
+   "supply_pct": 49.4,
+   "social": null
+  },
+  {
+   "id": "xdai",
+   "symbol": "XDAI",
+   "name": "XDAI",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 53814367,
+   "price": 0.999642,
+   "volume24h": 185726,
+   "vol_to_cap": 0.0035,
+   "chg24h": -0.0149,
+   "chg7d": 0.0,
+   "chg30d": -0.1,
+   "ath_chg": -89.92078,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "score",
+   "symbol": "SN44",
+   "name": "Score",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 53765656,
+   "price": 9.96,
+   "volume24h": 554128,
+   "vol_to_cap": 0.0103,
+   "chg24h": 2.30586,
+   "chg7d": 4.5,
+   "chg30d": 26.4,
+   "ath_chg": -32.93589,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nano",
+   "symbol": "XNO",
+   "name": "Nano",
+   "band": "50-150",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 53502687,
+   "price": 0.401568,
+   "volume24h": 117737,
+   "vol_to_cap": 0.0022,
+   "chg24h": 1.2514,
+   "chg7d": 2.6,
+   "chg30d": -0.7,
+   "ath_chg": -98.80818,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "flying-tulip",
+   "symbol": "FT",
+   "name": "Flying Tulip",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 52756896,
+   "price": 0.100266,
+   "volume24h": 246632,
+   "vol_to_cap": 0.0047,
+   "chg24h": 0.22578,
+   "chg7d": -0.3,
+   "chg30d": 2.7,
+   "ath_chg": -9.68737,
+   "supply_pct": 44.0,
+   "social": null
+  },
+  {
+   "id": "babylon",
+   "symbol": "BABY",
+   "name": "Babylon",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 52737016,
+   "price": 0.01149008,
+   "volume24h": 4082392,
+   "vol_to_cap": 0.0774,
+   "chg24h": 0.86864,
+   "chg7d": -6.6,
+   "chg30d": 2.7,
+   "ath_chg": -93.08383,
+   "supply_pct": 41.9,
+   "social": null
+  },
+  {
+   "id": "creditcoin-2",
+   "symbol": "CTC",
+   "name": "Creditcoin",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 52677788,
+   "price": 0.095935,
+   "volume24h": 1749369,
+   "vol_to_cap": 0.0332,
+   "chg24h": -1.00107,
+   "chg7d": 8.9,
+   "chg30d": 41.2,
+   "ath_chg": -98.8929,
+   "supply_pct": 91.6,
+   "social": null
+  },
+  {
+   "id": "affine",
+   "symbol": "SN120",
+   "name": "affine",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 51578643,
+   "price": 12.9,
+   "volume24h": 424568,
+   "vol_to_cap": 0.0082,
+   "chg24h": 1.55954,
+   "chg7d": 0.7,
+   "chg30d": 12.8,
+   "ath_chg": -58.15139,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "holoworld",
+   "symbol": "HOLO",
+   "name": "Holoworld",
+   "band": "50-150",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 51468099,
+   "price": 0.067406,
+   "volume24h": 2137963,
+   "vol_to_cap": 0.0415,
+   "chg24h": 3.89106,
+   "chg7d": 0.8,
+   "chg30d": -1.7,
+   "ath_chg": -91.31047,
+   "supply_pct": 37.3,
+   "social": null
+  },
+  {
+   "id": "tellor",
+   "symbol": "TRB",
+   "name": "Tellor Tributes",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle"
+   ],
+   "cap": 51072025,
+   "price": 18.14,
+   "volume24h": 13554135,
+   "vol_to_cap": 0.2654,
+   "chg24h": 0.55385,
+   "chg7d": 6.5,
+   "chg30d": 32.7,
+   "ath_chg": -96.94064,
+   "supply_pct": 97.3,
+   "social": null
+  },
+  {
+   "id": "ravencoin",
+   "symbol": "RVN",
+   "name": "Ravencoin",
+   "band": "50-150",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 50858087,
+   "price": 0.00309619,
+   "volume24h": 771419,
+   "vol_to_cap": 0.0152,
+   "chg24h": 1.14306,
+   "chg7d": 3.2,
+   "chg30d": -13.3,
+   "ath_chg": -98.91445,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ethgas-2",
+   "symbol": "GWEI",
+   "name": "ETHGas",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 50566056,
+   "price": 0.02554135,
+   "volume24h": 7839693,
+   "vol_to_cap": 0.155,
+   "chg24h": 0.33978,
+   "chg7d": 2.8,
+   "chg30d": 0.7,
+   "ath_chg": -89.6446,
+   "supply_pct": 19.8,
+   "social": null
+  },
+  {
+   "id": "threshold-network-token",
+   "symbol": "T",
+   "name": "Threshold Network",
+   "band": "50-150",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 50188280,
+   "price": 0.00449846,
+   "volume24h": 11348143,
+   "vol_to_cap": 0.2261,
+   "chg24h": 2.96875,
+   "chg7d": 22.1,
+   "chg30d": 28.3,
+   "ath_chg": -98.01772,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "acurast",
+   "symbol": "ACU",
+   "name": "Acurast",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 49970463,
+   "price": 0.134235,
+   "volume24h": 2820453,
+   "vol_to_cap": 0.0564,
+   "chg24h": -1.11149,
+   "chg7d": 1.6,
+   "chg30d": 67.9,
+   "ath_chg": -57.51099,
+   "supply_pct": 36.2,
+   "social": null
+  },
+  {
+   "id": "concordium",
+   "symbol": "CCD",
+   "name": "Concordium",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "payment-solutions"
+   ],
+   "cap": 49661394,
+   "price": 0.00390846,
+   "volume24h": 112583,
+   "vol_to_cap": 0.0023,
+   "chg24h": 1.35507,
+   "chg7d": -2.2,
+   "chg30d": 15.8,
+   "ath_chg": -97.38402,
+   "supply_pct": 86.8,
+   "social": null
+  },
+  {
+   "id": "xyo-network",
+   "symbol": "XYO",
+   "name": "XYO Network",
+   "band": "5-50",
+   "categories": [
+    "depin",
+    "oracle"
+   ],
+   "cap": 49496814,
+   "price": 0.0035526,
+   "volume24h": 2032994,
+   "vol_to_cap": 0.0411,
+   "chg24h": -0.80429,
+   "chg7d": 2.0,
+   "chg30d": 21.7,
+   "ath_chg": -95.63512,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bim-2",
+   "symbol": "BIM",
+   "name": "BIM",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 49167407,
+   "price": 1.64,
+   "volume24h": 237816,
+   "vol_to_cap": 0.0048,
+   "chg24h": 1.98268,
+   "chg7d": 2.3,
+   "chg30d": 31.4,
+   "ath_chg": -46.62934,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "polymesh",
+   "symbol": "POLYX",
+   "name": "Polymesh",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 48741362,
+   "price": 0.03704923,
+   "volume24h": 1274392,
+   "vol_to_cap": 0.0261,
+   "chg24h": 1.75885,
+   "chg7d": 7.8,
+   "chg30d": 16.1,
+   "ath_chg": -95.052,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dappos",
+   "symbol": "DOS",
+   "name": "DAPPOS",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 48005573,
+   "price": 0.240026,
+   "volume24h": 4753769,
+   "vol_to_cap": 0.099,
+   "chg24h": -1.6274,
+   "chg7d": -24.5,
+   "chg30d": null,
+   "ath_chg": -83.17236,
+   "supply_pct": 20.0,
+   "social": null
+  },
+  {
+   "id": "casper-network",
+   "symbol": "CSPR",
+   "name": "Casper Network",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 47292740,
+   "price": 0.00282097,
+   "volume24h": 3704615,
+   "vol_to_cap": 0.0783,
+   "chg24h": 1.35582,
+   "chg7d": 1.8,
+   "chg30d": 49.9,
+   "ath_chg": -99.78717,
+   "supply_pct": 84.2,
+   "social": null
+  },
+  {
+   "id": "talus",
+   "symbol": "US",
+   "name": "Talus",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 47260072,
+   "price": 0.01617421,
+   "volume24h": 1701290,
+   "vol_to_cap": 0.036,
+   "chg24h": -0.4066,
+   "chg7d": -4.3,
+   "chg30d": -71.1,
+   "ath_chg": -73.39134,
+   "supply_pct": 29.1,
+   "social": null
+  },
+  {
+   "id": "dusk-network",
+   "symbol": "DUSK",
+   "name": "DUSK",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 46988967,
+   "price": 0.078027,
+   "volume24h": 4731209,
+   "vol_to_cap": 0.1007,
+   "chg24h": -0.14859,
+   "chg7d": 17.8,
+   "chg30d": 30.0,
+   "ath_chg": -92.841,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "magma-finance",
+   "symbol": "MAGMA",
+   "name": "Magma Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 46961145,
+   "price": 0.247078,
+   "volume24h": 1957325,
+   "vol_to_cap": 0.0417,
+   "chg24h": 6.99878,
+   "chg7d": -53.7,
+   "chg30d": -7.9,
+   "ath_chg": -69.43012,
+   "supply_pct": 19.0,
+   "social": null
+  },
+  {
+   "id": "subsquid",
+   "symbol": "SQD",
+   "name": "SQD",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 46075533,
+   "price": 0.03569405,
+   "volume24h": 632546,
+   "vol_to_cap": 0.0137,
+   "chg24h": 0.19896,
+   "chg7d": 4.9,
+   "chg30d": 4.3,
+   "ath_chg": -87.46598,
+   "supply_pct": 96.9,
+   "social": null
+  },
+  {
+   "id": "keeta",
+   "symbol": "KTA",
+   "name": "Keeta",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions",
+    "real-world-assets-rwa"
+   ],
+   "cap": 45814760,
+   "price": 0.076475,
+   "volume24h": 1316443,
+   "vol_to_cap": 0.0287,
+   "chg24h": 8.23336,
+   "chg7d": 11.3,
+   "chg30d": -17.4,
+   "ath_chg": -95.45259,
+   "supply_pct": 59.9,
+   "social": null
+  },
+  {
+   "id": "spdr-s-p-500-etf-ondo-tokenized-etf",
+   "symbol": "SPYON",
+   "name": "SPDR S&P 500 ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 45461731,
+   "price": 779.41,
+   "volume24h": 1542725,
+   "vol_to_cap": 0.0339,
+   "chg24h": 0.32497,
+   "chg7d": 0.0,
+   "chg30d": 0.7,
+   "ath_chg": -1.46024,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "lombard-protocol",
+   "symbol": "BARD",
+   "name": "Lombard",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 45099779,
+   "price": 0.127602,
+   "volume24h": 2283899,
+   "vol_to_cap": 0.0506,
+   "chg24h": 2.58993,
+   "chg7d": 2.5,
+   "chg30d": 12.9,
+   "ath_chg": -92.49675,
+   "supply_pct": 35.3,
+   "social": null
+  },
+  {
+   "id": "ssv-network",
+   "symbol": "SSV",
+   "name": "SSV Network",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 43770152,
+   "price": 2.98,
+   "volume24h": 3804695,
+   "vol_to_cap": 0.0869,
+   "chg24h": -0.80394,
+   "chg7d": 9.5,
+   "chg30d": 44.6,
+   "ath_chg": -95.47555,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "frankencoin",
+   "symbol": "ZCHF",
+   "name": "Frankencoin",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 43126722,
+   "price": 1.24,
+   "volume24h": 1080809,
+   "vol_to_cap": 0.0251,
+   "chg24h": -0.10432,
+   "chg7d": 0.1,
+   "chg30d": 0.3,
+   "ath_chg": -7.03072,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ankr",
+   "symbol": "ANKR",
+   "name": "Ankr Network",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 43032733,
+   "price": 0.00430349,
+   "volume24h": 17526192,
+   "vol_to_cap": 0.4073,
+   "chg24h": 1.06946,
+   "chg7d": 7.5,
+   "chg30d": 24.1,
+   "ath_chg": -97.98444,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "asset",
+   "symbol": "ASSET",
+   "name": "REAL",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 42956567,
+   "price": 0.244004,
+   "volume24h": 312908,
+   "vol_to_cap": 0.0073,
+   "chg24h": -6.12533,
+   "chg7d": 2.3,
+   "chg30d": -0.1,
+   "ath_chg": -18.6706,
+   "supply_pct": 17.6,
+   "social": null
+  },
+  {
+   "id": "micron-technology-ondo-tokenized-stock",
+   "symbol": "MUON",
+   "name": "Micron Technology (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 42898169,
+   "price": 1027.98,
+   "volume24h": 4143771,
+   "vol_to_cap": 0.0966,
+   "chg24h": 1.17975,
+   "chg7d": 9.8,
+   "chg30d": 15.6,
+   "ath_chg": -18.00564,
+   "supply_pct": 100.1,
+   "social": null
+  },
+  {
+   "id": "xpin-network",
+   "symbol": "XPIN",
+   "name": "XPIN Network",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 42855803,
+   "price": 0.00103566,
+   "volume24h": 1172971,
+   "vol_to_cap": 0.0274,
+   "chg24h": -1.44233,
+   "chg7d": -7.5,
+   "chg30d": -44.1,
+   "ath_chg": -89.64262,
+   "supply_pct": 41.4,
+   "social": null
+  },
+  {
+   "id": "zero-gravity",
+   "symbol": "0G",
+   "name": "0G",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 42356560,
+   "price": 0.198983,
+   "volume24h": 7852541,
+   "vol_to_cap": 0.1854,
+   "chg24h": 0.44709,
+   "chg7d": 21.7,
+   "chg30d": 42.0,
+   "ath_chg": -97.17918,
+   "supply_pct": 21.3,
+   "social": null
+  },
+  {
+   "id": "vvs-finance",
+   "symbol": "VVS",
+   "name": "VVS Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 42194347,
+   "price": 9.68864e-07,
+   "volume24h": 1684606,
+   "vol_to_cap": 0.0399,
+   "chg24h": 1.95652,
+   "chg7d": -0.8,
+   "chg30d": 5.9,
+   "ath_chg": -99.70723,
+   "supply_pct": 45.8,
+   "social": null
+  },
+  {
+   "id": "request-network",
+   "symbol": "REQ",
+   "name": "Request",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 42102085,
+   "price": 0.052824,
+   "volume24h": 1214095,
+   "vol_to_cap": 0.0288,
+   "chg24h": -5.7968,
+   "chg7d": -6.7,
+   "chg30d": 1.0,
+   "ath_chg": -95.01314,
+   "supply_pct": 79.7,
+   "social": null
+  },
+  {
+   "id": "sentismai",
+   "symbol": "SENTIS",
+   "name": "SentismAI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 41737404,
+   "price": 0.212969,
+   "volume24h": 1551965,
+   "vol_to_cap": 0.0372,
+   "chg24h": -0.69631,
+   "chg7d": -2.9,
+   "chg30d": 0.3,
+   "ath_chg": -58.19795,
+   "supply_pct": 19.6,
+   "social": null
+  },
+  {
+   "id": "centrifuge-2",
+   "symbol": "CFG",
+   "name": "Centrifuge",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 40541663,
+   "price": 0.106582,
+   "volume24h": 5861327,
+   "vol_to_cap": 0.1446,
+   "chg24h": 3.48906,
+   "chg7d": -11.4,
+   "chg30d": -32.6,
+   "ath_chg": -73.37857,
+   "supply_pct": 55.9,
+   "social": null
+  },
+  {
+   "id": "nvidia-xstock",
+   "symbol": "NVDAX",
+   "name": "NVIDIA xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 40458384,
+   "price": 231.58,
+   "volume24h": 3004471,
+   "vol_to_cap": 0.0743,
+   "chg24h": 0.33264,
+   "chg7d": 5.7,
+   "chg30d": 5.7,
+   "ath_chg": -3.64299,
+   "supply_pct": 17.1,
+   "social": null
+  },
+  {
+   "id": "amp-token",
+   "symbol": "AMP",
+   "name": "Amp",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "payment-solutions"
+   ],
+   "cap": 40309209,
+   "price": 0.00044895,
+   "volume24h": 2534452,
+   "vol_to_cap": 0.0629,
+   "chg24h": 0.31072,
+   "chg7d": 1.2,
+   "chg30d": 15.4,
+   "ath_chg": -99.62839,
+   "supply_pct": 90.0,
+   "social": null
+  },
+  {
+   "id": "spacex-xstocks",
+   "symbol": "SPCXX",
+   "name": "SpaceX xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 40222880,
+   "price": 150.54,
+   "volume24h": 2754520,
+   "vol_to_cap": 0.0685,
+   "chg24h": 0.84567,
+   "chg7d": 7.3,
+   "chg30d": 29.3,
+   "ath_chg": -33.18353,
+   "supply_pct": 21.1,
+   "social": null
+  },
+  {
+   "id": "micron-technology-bstock",
+   "symbol": "MUB",
+   "name": "Micron Technology (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 40102107,
+   "price": 1032.2,
+   "volume24h": 2208944,
+   "vol_to_cap": 0.0551,
+   "chg24h": 1.58362,
+   "chg7d": 10.4,
+   "chg30d": 16.2,
+   "ath_chg": -17.71627,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bitdca",
+   "symbol": "BDCA",
+   "name": "BitDCA",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 39811496,
+   "price": 0.482201,
+   "volume24h": 112289,
+   "vol_to_cap": 0.0028,
+   "chg24h": -2.27013,
+   "chg7d": 4.2,
+   "chg30d": 6.6,
+   "ath_chg": -59.00575,
+   "supply_pct": 57.9,
+   "social": null
+  },
+  {
+   "id": "deep",
+   "symbol": "DEEP",
+   "name": "DeepBook",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 39711641,
+   "price": 0.01588621,
+   "volume24h": 3909888,
+   "vol_to_cap": 0.0985,
+   "chg24h": -0.18291,
+   "chg7d": 12.9,
+   "chg30d": 4.0,
+   "ath_chg": -95.34244,
+   "supply_pct": 25.0,
+   "social": null
+  },
+  {
+   "id": "rocket-pool",
+   "symbol": "RPL",
+   "name": "Rocket Pool",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 39506534,
+   "price": 1.73,
+   "volume24h": 2704774,
+   "vol_to_cap": 0.0685,
+   "chg24h": 2.28511,
+   "chg7d": 6.9,
+   "chg30d": 12.8,
+   "ath_chg": -97.1999,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "cluster-protocol",
+   "symbol": "CP",
+   "name": "CLUSTER PROTOCOL",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 38890095,
+   "price": 0.02848171,
+   "volume24h": 25749507,
+   "vol_to_cap": 0.6621,
+   "chg24h": -9.61185,
+   "chg7d": null,
+   "chg30d": null,
+   "ath_chg": -38.47747,
+   "supply_pct": 27.4,
+   "social": null
+  },
+  {
+   "id": "nvidia-ondo-tokenized-stock",
+   "symbol": "NVDAON",
+   "name": "NVIDIA (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 38800687,
+   "price": 231.58,
+   "volume24h": 962613,
+   "vol_to_cap": 0.0248,
+   "chg24h": 0.39425,
+   "chg7d": 5.8,
+   "chg30d": 5.6,
+   "ath_chg": -4.01971,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "huma-finance",
+   "symbol": "HUMA",
+   "name": "Huma Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "payment-solutions"
+   ],
+   "cap": 38367043,
+   "price": 0.02213351,
+   "volume24h": 4545649,
+   "vol_to_cap": 0.1185,
+   "chg24h": 1.70249,
+   "chg7d": 9.3,
+   "chg30d": 11.4,
+   "ath_chg": -80.8611,
+   "supply_pct": 17.3,
+   "social": null
+  },
+  {
+   "id": "templar",
+   "symbol": "SN3",
+   "name": "τemplar",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 38166800,
+   "price": 7.07,
+   "volume24h": 358202,
+   "vol_to_cap": 0.0094,
+   "chg24h": 3.18861,
+   "chg7d": 0.9,
+   "chg30d": 38.5,
+   "ath_chg": -84.11371,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "propy",
+   "symbol": "PRO",
+   "name": "Propy",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 37873271,
+   "price": 0.378777,
+   "volume24h": 322154,
+   "vol_to_cap": 0.0085,
+   "chg24h": -1.11397,
+   "chg7d": 1.3,
+   "chg30d": 6.7,
+   "ath_chg": -92.64932,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "apex-token-2",
+   "symbol": "APEX",
+   "name": "APEX",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 37569277,
+   "price": 0.256937,
+   "volume24h": 1423270,
+   "vol_to_cap": 0.0379,
+   "chg24h": 3.18101,
+   "chg7d": -0.6,
+   "chg30d": 17.1,
+   "ath_chg": -93.29551,
+   "supply_pct": 29.2,
+   "social": null
+  },
+  {
+   "id": "avantis",
+   "symbol": "AVNT",
+   "name": "Avantis",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 37345105,
+   "price": 0.105943,
+   "volume24h": 4651061,
+   "vol_to_cap": 0.1245,
+   "chg24h": -1.50657,
+   "chg7d": 3.8,
+   "chg30d": 25.9,
+   "ath_chg": -95.98026,
+   "supply_pct": 35.2,
+   "social": null
+  },
+  {
+   "id": "efficientfrontier",
+   "symbol": "SN53",
+   "name": "EfficientFrontier",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 37303321,
+   "price": 6.91,
+   "volume24h": 612147,
+   "vol_to_cap": 0.0164,
+   "chg24h": 0.26501,
+   "chg7d": -5.4,
+   "chg30d": 8.5,
+   "ath_chg": -26.12719,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "velvet",
+   "symbol": "VELVET",
+   "name": "Velvet",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "decentralized-finance-defi"
+   ],
+   "cap": 37052107,
+   "price": 0.079886,
+   "volume24h": 8912068,
+   "vol_to_cap": 0.2405,
+   "chg24h": -2.75979,
+   "chg7d": -19.8,
+   "chg30d": -82.5,
+   "ath_chg": -96.16797,
+   "supply_pct": 46.4,
+   "social": null
+  },
+  {
+   "id": "nasdaq-xstock",
+   "symbol": "QQQX",
+   "name": "Nasdaq xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 36441176,
+   "price": 723.09,
+   "volume24h": 679271,
+   "vol_to_cap": 0.0186,
+   "chg24h": 0.25287,
+   "chg7d": 0.2,
+   "chg30d": 0.3,
+   "ath_chg": -64.11015,
+   "supply_pct": 18.9,
+   "social": null
+  },
+  {
+   "id": "uma",
+   "symbol": "UMA",
+   "name": "UMA",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle"
+   ],
+   "cap": 36188538,
+   "price": 0.397675,
+   "volume24h": 4695512,
+   "vol_to_cap": 0.1298,
+   "chg24h": 1.94081,
+   "chg7d": 7.0,
+   "chg30d": 18.2,
+   "ath_chg": -99.04303,
+   "supply_pct": 70.1,
+   "social": null
+  },
+  {
+   "id": "siacoin",
+   "symbol": "SC",
+   "name": "Siacoin",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 36075499,
+   "price": 0.00072511,
+   "volume24h": 1468655,
+   "vol_to_cap": 0.0407,
+   "chg24h": -0.99794,
+   "chg7d": 18.4,
+   "chg30d": 45.3,
+   "ath_chg": -99.2192,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "folks",
+   "symbol": "FOLKS",
+   "name": "FOLKS",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 35737541,
+   "price": 1.99,
+   "volume24h": 502963,
+   "vol_to_cap": 0.0141,
+   "chg24h": -0.20342,
+   "chg7d": -1.7,
+   "chg30d": 1.1,
+   "ath_chg": -95.93412,
+   "supply_pct": 36.0,
+   "social": null
+  },
+  {
+   "id": "apro",
+   "symbol": "AT",
+   "name": "Apro",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 35697361,
+   "price": 0.15529,
+   "volume24h": 2124669,
+   "vol_to_cap": 0.0595,
+   "chg24h": 1.35048,
+   "chg7d": 14.8,
+   "chg30d": 7.7,
+   "ath_chg": -81.9296,
+   "supply_pct": 23.0,
+   "social": null
+  },
+  {
+   "id": "chainflip",
+   "symbol": "FLIP",
+   "name": "Chainflip",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 35541166,
+   "price": 0.403379,
+   "volume24h": 130933,
+   "vol_to_cap": 0.0037,
+   "chg24h": -0.92536,
+   "chg7d": -10.4,
+   "chg30d": 16.6,
+   "ath_chg": -95.74283,
+   "supply_pct": 99.1,
+   "social": null
+  },
+  {
+   "id": "proprietary-trading-network",
+   "symbol": "SN8",
+   "name": "Vanta Network",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 35233993,
+   "price": 6.79,
+   "volume24h": 192291,
+   "vol_to_cap": 0.0055,
+   "chg24h": 2.47234,
+   "chg7d": -0.1,
+   "chg30d": 15.0,
+   "ath_chg": -73.11175,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "band-protocol",
+   "symbol": "BAND",
+   "name": "Band",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle"
+   ],
+   "cap": 35156226,
+   "price": 0.193372,
+   "volume24h": 1731600,
+   "vol_to_cap": 0.0493,
+   "chg24h": 0.41817,
+   "chg7d": 8.2,
+   "chg30d": 20.8,
+   "ath_chg": -99.15296,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "iota-2",
+   "symbol": "SN9",
+   "name": "iota",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 35056914,
+   "price": 7.2,
+   "volume24h": 112217,
+   "vol_to_cap": 0.0032,
+   "chg24h": 2.86265,
+   "chg7d": 1.0,
+   "chg30d": 3.8,
+   "ath_chg": -64.94582,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "alphabet-xstock",
+   "symbol": "GOOGLX",
+   "name": "Alphabet xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 35056098,
+   "price": 340.23,
+   "volume24h": 2402661,
+   "vol_to_cap": 0.0685,
+   "chg24h": 0.04009,
+   "chg7d": -1.9,
+   "chg30d": -5.3,
+   "ath_chg": -16.67334,
+   "supply_pct": 20.5,
+   "social": null
+  },
+  {
+   "id": "lista",
+   "symbol": "LISTA",
+   "name": "Lista DAO",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "liquid-staking-tokens"
+   ],
+   "cap": 34807655,
+   "price": 0.080882,
+   "volume24h": 4043900,
+   "vol_to_cap": 0.1162,
+   "chg24h": -3.75012,
+   "chg7d": 8.2,
+   "chg30d": 49.2,
+   "ath_chg": -90.40365,
+   "supply_pct": 54.1,
+   "social": null
+  },
+  {
+   "id": "wink",
+   "symbol": "WIN",
+   "name": "WINkLink",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 34649315,
+   "price": 3.487e-05,
+   "volume24h": 21007904,
+   "vol_to_cap": 0.6063,
+   "chg24h": 0.56208,
+   "chg7d": 8.6,
+   "chg30d": 17.5,
+   "ath_chg": -98.7952,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "staked-frax-usd",
+   "symbol": "SFRXUSD",
+   "name": "Frax Staked frxUSD",
+   "band": "5-50",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 34546288,
+   "price": 1.21,
+   "volume24h": 106284,
+   "vol_to_cap": 0.0031,
+   "chg24h": 0.00115,
+   "chg7d": 0.1,
+   "chg30d": 0.4,
+   "ath_chg": -6.60141,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sahara-ai",
+   "symbol": "SAHARA",
+   "name": "Sahara AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 34374500,
+   "price": 0.00939218,
+   "volume24h": 107786936,
+   "vol_to_cap": 3.1357,
+   "chg24h": 2.2171,
+   "chg7d": 9.9,
+   "chg30d": 11.5,
+   "ath_chg": -94.14925,
+   "supply_pct": 36.6,
+   "social": null
+  },
+  {
+   "id": "api3",
+   "symbol": "API3",
+   "name": "Api3",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle"
+   ],
+   "cap": 34185089,
+   "price": 0.235007,
+   "volume24h": 11447479,
+   "vol_to_cap": 0.3349,
+   "chg24h": 0.54979,
+   "chg7d": 1.4,
+   "chg30d": 24.5,
+   "ath_chg": -97.71778,
+   "supply_pct": 79.7,
+   "social": null
+  },
+  {
+   "id": "storx",
+   "symbol": "SRX",
+   "name": "StorX",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 34160860,
+   "price": 0.056221,
+   "volume24h": 775800,
+   "vol_to_cap": 0.0227,
+   "chg24h": -0.02233,
+   "chg7d": -0.6,
+   "chg30d": 8.7,
+   "ath_chg": -98.80113,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "momentum-3",
+   "symbol": "MMT",
+   "name": "Momentum",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 33914991,
+   "price": 0.166248,
+   "volume24h": 3889320,
+   "vol_to_cap": 0.1147,
+   "chg24h": -0.19001,
+   "chg7d": 2.9,
+   "chg30d": -0.3,
+   "ath_chg": -95.8736,
+   "supply_pct": 20.4,
+   "social": null
+  },
+  {
+   "id": "flock-2",
+   "symbol": "FLOCK",
+   "name": "FLOCK",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 33837534,
+   "price": 0.072997,
+   "volume24h": 91396441,
+   "vol_to_cap": 2.701,
+   "chg24h": 32.87706,
+   "chg7d": 143.2,
+   "chg30d": 187.6,
+   "ath_chg": -89.06245,
+   "supply_pct": 45.9,
+   "social": null
+  },
+  {
+   "id": "monerium-eur-money-2",
+   "symbol": "EURE",
+   "name": "Monerium EUR emoney",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 32804848,
+   "price": 1.16,
+   "volume24h": 313927,
+   "vol_to_cap": 0.0096,
+   "chg24h": 0.01281,
+   "chg7d": 0.6,
+   "chg30d": 0.8,
+   "ath_chg": -4.55467,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "invesco-qqq-etf-ondo-tokenized-etf",
+   "symbol": "QQQON",
+   "name": "Invesco QQQ ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 32748324,
+   "price": 722.99,
+   "volume24h": 1391016,
+   "vol_to_cap": 0.0425,
+   "chg24h": 0.16441,
+   "chg7d": 0.1,
+   "chg30d": 0.7,
+   "ath_chg": -3.86275,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "velodrome-finance",
+   "symbol": "VELO",
+   "name": "Velodrome Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 32740784,
+   "price": 0.02509857,
+   "volume24h": 2732049,
+   "vol_to_cap": 0.0834,
+   "chg24h": 3.87938,
+   "chg7d": 14.5,
+   "chg30d": 41.4,
+   "ath_chg": -93.84106,
+   "supply_pct": 50.2,
+   "social": null
+  },
+  {
+   "id": "bancor",
+   "symbol": "BNT",
+   "name": "Bancor Network",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 32550814,
+   "price": 0.324886,
+   "volume24h": 1045492,
+   "vol_to_cap": 0.0321,
+   "chg24h": 0.78142,
+   "chg7d": 2.3,
+   "chg30d": 22.6,
+   "ath_chg": -96.96806,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "tornado-cash",
+   "symbol": "TORN",
+   "name": "Tornado Cash",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 31731128,
+   "price": 6.62,
+   "volume24h": 1351148,
+   "vol_to_cap": 0.0426,
+   "chg24h": 3.87821,
+   "chg7d": 0.7,
+   "chg30d": 13.1,
+   "ath_chg": -98.483,
+   "supply_pct": 47.9,
+   "social": null
+  },
+  {
+   "id": "sandisk-bstocks-tokenized-stock",
+   "symbol": "SNDKB",
+   "name": "SanDisk (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 31462504,
+   "price": 1793.03,
+   "volume24h": 8107527,
+   "vol_to_cap": 0.2577,
+   "chg24h": 1.90994,
+   "chg7d": 19.2,
+   "chg30d": 39.4,
+   "ath_chg": -24.33644,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sweth",
+   "symbol": "SWETH",
+   "name": "Swell Ethereum",
+   "band": "5-50",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 31386237,
+   "price": 2821.06,
+   "volume24h": 188176,
+   "vol_to_cap": 0.006,
+   "chg24h": 1.21802,
+   "chg7d": 1.4,
+   "chg30d": 30.9,
+   "ath_chg": -47.46819,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "alchemist-ai",
+   "symbol": "ALCH",
+   "name": "Alchemist AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 31168891,
+   "price": 0.03117005,
+   "volume24h": 1439039,
+   "vol_to_cap": 0.0462,
+   "chg24h": -1.97107,
+   "chg7d": -2.5,
+   "chg30d": 10.0,
+   "ath_chg": -87.18987,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "orbs",
+   "symbol": "ORBS",
+   "name": "Orbs",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 31139200,
+   "price": 0.00623486,
+   "volume24h": 1731999,
+   "vol_to_cap": 0.0556,
+   "chg24h": 1.64576,
+   "chg7d": 3.3,
+   "chg30d": 15.9,
+   "ath_chg": -98.27022,
+   "supply_pct": 49.9,
+   "social": null
+  },
+  {
+   "id": "world-mobile-token",
+   "symbol": "WMTX",
+   "name": "World Mobile Token",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 30875937,
+   "price": 0.03626254,
+   "volume24h": 601081,
+   "vol_to_cap": 0.0195,
+   "chg24h": -1.04636,
+   "chg7d": 7.6,
+   "chg30d": 22.6,
+   "ath_chg": -96.29873,
+   "supply_pct": 42.6,
+   "social": null
+  },
+  {
+   "id": "spacecoin-2",
+   "symbol": "SPACE",
+   "name": "Spacecoin",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 30546119,
+   "price": 0.00507456,
+   "volume24h": 794264,
+   "vol_to_cap": 0.026,
+   "chg24h": -0.55015,
+   "chg7d": 0.5,
+   "chg30d": -4.8,
+   "ath_chg": -80.50581,
+   "supply_pct": 28.7,
+   "social": null
+  },
+  {
+   "id": "ore",
+   "symbol": "ORE",
+   "name": "ORE",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 30087657,
+   "price": 61.52,
+   "volume24h": 1798247,
+   "vol_to_cap": 0.0598,
+   "chg24h": 1.19425,
+   "chg7d": -19.1,
+   "chg30d": 4.0,
+   "ath_chg": -95.76177,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "iotex",
+   "symbol": "IOTX",
+   "name": "IoTeX",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 29267379,
+   "price": 0.0030999,
+   "volume24h": 10493380,
+   "vol_to_cap": 0.3585,
+   "chg24h": 0.29119,
+   "chg7d": 8.4,
+   "chg30d": 37.3,
+   "ath_chg": -98.78717,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "coindepo",
+   "symbol": "COINDEPO",
+   "name": "COINDEPO",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 29210251,
+   "price": 0.106633,
+   "volume24h": 1548417,
+   "vol_to_cap": 0.053,
+   "chg24h": -2.20347,
+   "chg7d": 3.5,
+   "chg30d": -6.2,
+   "ath_chg": -16.59743,
+   "supply_pct": 27.4,
+   "social": null
+  },
+  {
+   "id": "hims-hers-health-ondo-tokenized-stock",
+   "symbol": "HIMSON",
+   "name": "Hims & Hers Health (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 29113295,
+   "price": 27.57,
+   "volume24h": 1478515,
+   "vol_to_cap": 0.0508,
+   "chg24h": -0.77812,
+   "chg7d": -4.8,
+   "chg30d": -8.3,
+   "ath_chg": -56.95893,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nosana",
+   "symbol": "NOS",
+   "name": "Nosana",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 28911381,
+   "price": 0.289117,
+   "volume24h": 270970,
+   "vol_to_cap": 0.0094,
+   "chg24h": 4.45958,
+   "chg7d": -4.6,
+   "chg30d": 12.1,
+   "ath_chg": -96.3088,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "vana",
+   "symbol": "VANA",
+   "name": "Vana",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 28855639,
+   "price": 0.936891,
+   "volume24h": 1693721,
+   "vol_to_cap": 0.0587,
+   "chg24h": 0.3492,
+   "chg7d": 2.8,
+   "chg30d": 7.5,
+   "ath_chg": -97.34093,
+   "supply_pct": 25.7,
+   "social": null
+  },
+  {
+   "id": "impossible-cloud-network-token",
+   "symbol": "ICNT",
+   "name": "Impossible Cloud Network Token",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 28576085,
+   "price": 0.11294,
+   "volume24h": 883805,
+   "vol_to_cap": 0.0309,
+   "chg24h": -3.15806,
+   "chg7d": 4.2,
+   "chg30d": -4.4,
+   "ath_chg": -80.89203,
+   "supply_pct": 36.1,
+   "social": null
+  },
+  {
+   "id": "chia",
+   "symbol": "XCH",
+   "name": "Chia",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 28508066,
+   "price": 1.51,
+   "volume24h": 660749,
+   "vol_to_cap": 0.0232,
+   "chg24h": 5.73126,
+   "chg7d": 5.8,
+   "chg30d": 9.9,
+   "ath_chg": -99.90847,
+   "supply_pct": 53.6,
+   "social": null
+  },
+  {
+   "id": "mantra",
+   "symbol": "MANTRA",
+   "name": "MANTRA",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 28488960,
+   "price": 0.00443335,
+   "volume24h": 2609067,
+   "vol_to_cap": 0.0916,
+   "chg24h": -1.47302,
+   "chg7d": 2.2,
+   "chg30d": -17.8,
+   "ath_chg": -83.12642,
+   "supply_pct": 79.1,
+   "social": null
+  },
+  {
+   "id": "orochi-network",
+   "symbol": "ON",
+   "name": "Orochi Network",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 28441336,
+   "price": 0.197152,
+   "volume24h": 1421170,
+   "vol_to_cap": 0.05,
+   "chg24h": -8.69773,
+   "chg7d": -21.4,
+   "chg30d": -54.0,
+   "ath_chg": -55.88948,
+   "supply_pct": 20.6,
+   "social": null
+  },
+  {
+   "id": "osmosis",
+   "symbol": "OSMO",
+   "name": "Osmosis",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 28037499,
+   "price": 0.03561423,
+   "volume24h": 2289231,
+   "vol_to_cap": 0.0816,
+   "chg24h": 1.27646,
+   "chg7d": 4.3,
+   "chg30d": 25.1,
+   "ath_chg": -99.6834,
+   "supply_pct": 80.8,
+   "social": null
+  },
+  {
+   "id": "power-ledger",
+   "symbol": "POWR",
+   "name": "Powerledger",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 28010426,
+   "price": 0.04926418,
+   "volume24h": 416702,
+   "vol_to_cap": 0.0149,
+   "chg24h": 1.16839,
+   "chg7d": 4.1,
+   "chg30d": 25.1,
+   "ath_chg": -97.39482,
+   "supply_pct": 56.9,
+   "social": null
+  },
+  {
+   "id": "microstrategy-ondo-tokenized-stock",
+   "symbol": "MSTRON",
+   "name": "MicroStrategy (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 27845457,
+   "price": 144.85,
+   "volume24h": 1633010,
+   "vol_to_cap": 0.0586,
+   "chg24h": 1.74151,
+   "chg7d": 12.1,
+   "chg30d": 47.4,
+   "ath_chg": -60.06169,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "frax-share",
+   "symbol": "FRAX",
+   "name": "Frax (prev. FXS)",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27783070,
+   "price": 0.296768,
+   "volume24h": 333438,
+   "vol_to_cap": 0.012,
+   "chg24h": 0.55792,
+   "chg7d": -0.2,
+   "chg30d": -4.8,
+   "ath_chg": -99.30659,
+   "supply_pct": 93.9,
+   "social": null
+  },
+  {
+   "id": "ai-powered-finance",
+   "symbol": "AIPF",
+   "name": "AI Powered Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27741440,
+   "price": 0.406143,
+   "volume24h": 182487,
+   "vol_to_cap": 0.0066,
+   "chg24h": -1.8605,
+   "chg7d": -18.1,
+   "chg30d": -47.2,
+   "ath_chg": -81.77075,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "iexec-rlc",
+   "symbol": "RLC",
+   "name": "iExec RLC",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin",
+    "oracle"
+   ],
+   "cap": 27736156,
+   "price": 0.318536,
+   "volume24h": 1211661,
+   "vol_to_cap": 0.0437,
+   "chg24h": -1.47855,
+   "chg7d": 1.6,
+   "chg30d": 14.1,
+   "ath_chg": -97.94634,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "metya",
+   "symbol": "MY",
+   "name": "MetYa",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 27680823,
+   "price": 0.02804487,
+   "volume24h": 105849,
+   "vol_to_cap": 0.0038,
+   "chg24h": 0.09976,
+   "chg7d": -5.7,
+   "chg30d": -2.5,
+   "ath_chg": -94.19584,
+   "supply_pct": 99.2,
+   "social": null
+  },
+  {
+   "id": "nova-3",
+   "symbol": "SN68",
+   "name": "NOVA",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 27637480,
+   "price": 5.49,
+   "volume24h": 197825,
+   "vol_to_cap": 0.0072,
+   "chg24h": 3.56401,
+   "chg7d": 3.4,
+   "chg30d": 16.2,
+   "ath_chg": -60.9144,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "monerium-eur-money",
+   "symbol": "EURE",
+   "name": "Monerium EUR emoney [OLD]",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27522632,
+   "price": 1.16,
+   "volume24h": 269579,
+   "vol_to_cap": 0.0098,
+   "chg24h": -0.04479,
+   "chg7d": 0.5,
+   "chg30d": 0.8,
+   "ath_chg": -4.15519,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "zerobase",
+   "symbol": "ZBT",
+   "name": "ZEROBASE",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27472497,
+   "price": 0.085032,
+   "volume24h": 2433762,
+   "vol_to_cap": 0.0886,
+   "chg24h": -0.00098,
+   "chg7d": 1.1,
+   "chg30d": -30.3,
+   "ath_chg": -91.70517,
+   "supply_pct": 32.3,
+   "social": null
+  },
+  {
+   "id": "renzo",
+   "symbol": "REZ",
+   "name": "Renzo",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27320726,
+   "price": 0.00308505,
+   "volume24h": 5981761,
+   "vol_to_cap": 0.2189,
+   "chg24h": 0.20797,
+   "chg7d": 5.7,
+   "chg30d": 16.8,
+   "ath_chg": -98.89112,
+   "supply_pct": 90.2,
+   "social": null
+  },
+  {
+   "id": "block-street",
+   "symbol": "BSB",
+   "name": "Block Street",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27267095,
+   "price": 0.115389,
+   "volume24h": 4815978,
+   "vol_to_cap": 0.1766,
+   "chg24h": 5.7115,
+   "chg7d": 7.2,
+   "chg30d": -26.3,
+   "ath_chg": -94.20292,
+   "supply_pct": 23.6,
+   "social": null
+  },
+  {
+   "id": "teller",
+   "symbol": "DEBIT",
+   "name": "Teller",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 27176329,
+   "price": 1.58,
+   "volume24h": 197966137,
+   "vol_to_cap": 7.2845,
+   "chg24h": -10.3414,
+   "chg7d": 0.8,
+   "chg30d": null,
+   "ath_chg": -27.97782,
+   "supply_pct": 17.2,
+   "social": null
+  },
+  {
+   "id": "staked-zig",
+   "symbol": "STZIG",
+   "name": "Staked ZIG",
+   "band": "5-50",
+   "categories": [
+    "liquid-staking-tokens"
+   ],
+   "cap": 27016166,
+   "price": 0.054019,
+   "volume24h": 596789,
+   "vol_to_cap": 0.0221,
+   "chg24h": 18.97863,
+   "chg7d": 27.1,
+   "chg30d": 27.4,
+   "ath_chg": -13.75355,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "alphabet-bstocks-tokenized-stock",
+   "symbol": "GOOGLB",
+   "name": "Alphabet (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 26929408,
+   "price": 339.78,
+   "volume24h": 5175823,
+   "vol_to_cap": 0.1922,
+   "chg24h": 0.1057,
+   "chg7d": -1.8,
+   "chg30d": -5.3,
+   "ath_chg": -11.41939,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "openledger-2",
+   "symbol": "OPEN",
+   "name": "OpenLedger",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 26918229,
+   "price": 0.124853,
+   "volume24h": 3955534,
+   "vol_to_cap": 0.1469,
+   "chg24h": -0.80272,
+   "chg7d": -17.0,
+   "chg30d": -40.6,
+   "ath_chg": -93.13441,
+   "supply_pct": 21.6,
+   "social": null
+  },
+  {
+   "id": "home",
+   "symbol": "HOME",
+   "name": "HOME",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 26585047,
+   "price": 0.0061603,
+   "volume24h": 5629852,
+   "vol_to_cap": 0.2118,
+   "chg24h": 0.66748,
+   "chg7d": -1.4,
+   "chg30d": -34.8,
+   "ath_chg": -91.75957,
+   "supply_pct": 43.1,
+   "social": null
+  },
+  {
+   "id": "gensyn",
+   "symbol": "AI",
+   "name": "Gensyn",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 26475927,
+   "price": 0.02029488,
+   "volume24h": 2378981,
+   "vol_to_cap": 0.0899,
+   "chg24h": 1.56651,
+   "chg7d": 0.0,
+   "chg30d": -6.4,
+   "ath_chg": -81.0872,
+   "supply_pct": 13.0,
+   "social": null
+  },
+  {
+   "id": "fogo",
+   "symbol": "FOGO",
+   "name": "Fogo",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 26088561,
+   "price": 0.0071553,
+   "volume24h": 1054091,
+   "vol_to_cap": 0.0404,
+   "chg24h": -1.37058,
+   "chg7d": -5.1,
+   "chg30d": -15.8,
+   "ath_chg": -88.56043,
+   "supply_pct": 37.1,
+   "social": null
+  },
+  {
+   "id": "nillion",
+   "symbol": "NIL",
+   "name": "Nillion",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 26011935,
+   "price": 0.051639,
+   "volume24h": 9354875,
+   "vol_to_cap": 0.3596,
+   "chg24h": -0.47147,
+   "chg7d": -6.0,
+   "chg30d": 46.4,
+   "ath_chg": -94.24362,
+   "supply_pct": 49.9,
+   "social": null
+  },
+  {
+   "id": "robo-token-2",
+   "symbol": "ROBO",
+   "name": "Fabric Protocol",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 25880812,
+   "price": 0.0115965,
+   "volume24h": 3762345,
+   "vol_to_cap": 0.1454,
+   "chg24h": 1.14172,
+   "chg7d": -11.1,
+   "chg30d": -18.9,
+   "ath_chg": -80.89988,
+   "supply_pct": 22.3,
+   "social": null
+  },
+  {
+   "id": "swarm-network",
+   "symbol": "TRUTH",
+   "name": "Swarm Network",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 25725461,
+   "price": 0.01233815,
+   "volume24h": 857510,
+   "vol_to_cap": 0.0333,
+   "chg24h": 0.07047,
+   "chg7d": -3.7,
+   "chg30d": -6.4,
+   "ath_chg": -75.36259,
+   "supply_pct": 20.9,
+   "social": null
+  },
+  {
+   "id": "pundi-x-2",
+   "symbol": "PUNDIX",
+   "name": "Pundi X",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 25592243,
+   "price": 0.098977,
+   "volume24h": 1135957,
+   "vol_to_cap": 0.0444,
+   "chg24h": 2.20715,
+   "chg7d": 7.7,
+   "chg30d": 27.6,
+   "ath_chg": -99.01696,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "auction",
+   "symbol": "AUCTION",
+   "name": "Bounce",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 25529939,
+   "price": 3.43,
+   "volume24h": 5773941,
+   "vol_to_cap": 0.2262,
+   "chg24h": -0.33292,
+   "chg7d": -7.5,
+   "chg30d": 14.7,
+   "ath_chg": -95.12883,
+   "supply_pct": 97.4,
+   "social": null
+  },
+  {
+   "id": "gm-3",
+   "symbol": "SN28",
+   "name": "gm",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 25407385,
+   "price": 5.49,
+   "volume24h": 647323,
+   "vol_to_cap": 0.0255,
+   "chg24h": -0.29111,
+   "chg7d": 21.7,
+   "chg30d": 80.2,
+   "ath_chg": -14.66305,
+   "supply_pct": 22.0,
+   "social": null
+  },
+  {
+   "id": "ishares-silver-trust-ondo-tokenized-stock",
+   "symbol": "SLVON",
+   "name": "iShares Silver Trust (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 25366163,
+   "price": 59.67,
+   "volume24h": 1647188,
+   "vol_to_cap": 0.0649,
+   "chg24h": 0.49697,
+   "chg7d": -1.3,
+   "chg30d": 3.3,
+   "ath_chg": -45.5739,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "victoria-vr",
+   "symbol": "VR",
+   "name": "Victoria VR",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 25210655,
+   "price": 0.00150063,
+   "volume24h": 646532,
+   "vol_to_cap": 0.0256,
+   "chg24h": -0.13823,
+   "chg7d": -0.9,
+   "chg30d": 1.5,
+   "ath_chg": -99.75637,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "openai-republic-pre-ipo",
+   "symbol": "PREOPAI",
+   "name": "OpenAI (Republic Pre-IPO)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 24999112,
+   "price": 860.95,
+   "volume24h": 315278,
+   "vol_to_cap": 0.0126,
+   "chg24h": -0.47209,
+   "chg7d": 12.5,
+   "chg30d": 20.1,
+   "ath_chg": -16.7319,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "kyber-network-crystal",
+   "symbol": "KNC",
+   "name": "Kyber Network Crystal",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 24777021,
+   "price": 0.118401,
+   "volume24h": 10770113,
+   "vol_to_cap": 0.4347,
+   "chg24h": 0.58849,
+   "chg7d": 0.3,
+   "chg30d": 15.8,
+   "ath_chg": -97.92101,
+   "supply_pct": 86.8,
+   "social": null
+  },
+  {
+   "id": "bankercoin-2",
+   "symbol": "BNKR",
+   "name": "BankrCoin",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 24677935,
+   "price": 0.00024673,
+   "volume24h": 1125081,
+   "vol_to_cap": 0.0456,
+   "chg24h": 1.02016,
+   "chg7d": 0.0,
+   "chg30d": -30.2,
+   "ath_chg": -79.4556,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "yield-basis",
+   "symbol": "YB",
+   "name": "Yield Basis",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 24423034,
+   "price": 0.095519,
+   "volume24h": 6827355,
+   "vol_to_cap": 0.2795,
+   "chg24h": -3.36465,
+   "chg7d": -0.4,
+   "chg30d": 38.7,
+   "ath_chg": -88.33021,
+   "supply_pct": 34.1,
+   "social": null
+  },
+  {
+   "id": "stargate-finance",
+   "symbol": "STG",
+   "name": "Stargate Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 24166921,
+   "price": 0.171793,
+   "volume24h": 9882372,
+   "vol_to_cap": 0.4089,
+   "chg24h": 2.14831,
+   "chg7d": 1.8,
+   "chg30d": 18.9,
+   "ath_chg": -95.85188,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "openeden",
+   "symbol": "EDEN",
+   "name": "OpenEden",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 24114750,
+   "price": 0.05712,
+   "volume24h": 3924274,
+   "vol_to_cap": 0.1627,
+   "chg24h": 0.71108,
+   "chg7d": -10.1,
+   "chg30d": 38.9,
+   "ath_chg": -95.64897,
+   "supply_pct": 42.2,
+   "social": null
+  },
+  {
+   "id": "carv",
+   "symbol": "CARV",
+   "name": "CARV",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 24057397,
+   "price": 0.03628599,
+   "volume24h": 825187,
+   "vol_to_cap": 0.0343,
+   "chg24h": 2.54812,
+   "chg7d": 3.6,
+   "chg30d": 22.1,
+   "ath_chg": -97.33892,
+   "supply_pct": 66.3,
+   "social": null
+  },
+  {
+   "id": "sk-hynix-bstocks-tokenized-stock",
+   "symbol": "SKHYB",
+   "name": "SK Hynix (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 23767338,
+   "price": 177.53,
+   "volume24h": 1963212,
+   "vol_to_cap": 0.0826,
+   "chg24h": 0.96963,
+   "chg7d": 7.9,
+   "chg30d": 25.0,
+   "ath_chg": -9.01372,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "collect-on-fanable",
+   "symbol": "COLLECT",
+   "name": "Collect on Fanable",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 23645496,
+   "price": 0.0439983,
+   "volume24h": 22001693,
+   "vol_to_cap": 0.9305,
+   "chg24h": -45.00282,
+   "chg7d": -31.6,
+   "chg30d": -11.1,
+   "ath_chg": -62.07619,
+   "supply_pct": 17.9,
+   "social": null
+  },
+  {
+   "id": "liquity",
+   "symbol": "LQTY",
+   "name": "Liquity",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 23583884,
+   "price": 0.238746,
+   "volume24h": 2338712,
+   "vol_to_cap": 0.0992,
+   "chg24h": 0.44508,
+   "chg7d": 3.7,
+   "chg30d": 28.6,
+   "ath_chg": -99.83752,
+   "supply_pct": 98.8,
+   "social": null
+  },
+  {
+   "id": "energy-web-token",
+   "symbol": "EWT",
+   "name": "Energy Web Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 23506340,
+   "price": 0.289968,
+   "volume24h": 329796,
+   "vol_to_cap": 0.014,
+   "chg24h": 7.22873,
+   "chg7d": 5.9,
+   "chg30d": 3.4,
+   "ath_chg": -98.72109,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "woo-network",
+   "symbol": "WOO",
+   "name": "WOO",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 23098267,
+   "price": 0.01222508,
+   "volume24h": 27923083,
+   "vol_to_cap": 1.2089,
+   "chg24h": 4.04224,
+   "chg7d": 7.3,
+   "chg30d": 6.6,
+   "ath_chg": -99.31254,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "opengradient",
+   "symbol": "OPG",
+   "name": "OpenGradient",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 22739799,
+   "price": 0.102502,
+   "volume24h": 6972160,
+   "vol_to_cap": 0.3066,
+   "chg24h": -0.90161,
+   "chg7d": 6.4,
+   "chg30d": 10.3,
+   "ath_chg": -78.71686,
+   "supply_pct": 22.2,
+   "social": null
+  },
+  {
+   "id": "cetus-protocol",
+   "symbol": "CETUS",
+   "name": "Cetus Protocol",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 22451756,
+   "price": 0.02336661,
+   "volume24h": 1518384,
+   "vol_to_cap": 0.0676,
+   "chg24h": -3.78885,
+   "chg7d": -1.3,
+   "chg30d": 33.0,
+   "ath_chg": -95.20845,
+   "supply_pct": 96.1,
+   "social": null
+  },
+  {
+   "id": "scandic-coin",
+   "symbol": "SNC",
+   "name": "Scandic Coin",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 22318258,
+   "price": 0.17699,
+   "volume24h": 167608,
+   "vol_to_cap": 0.0075,
+   "chg24h": 0.18178,
+   "chg7d": 0.9,
+   "chg30d": 10.3,
+   "ath_chg": -0.96247,
+   "supply_pct": 12.6,
+   "social": null
+  },
+  {
+   "id": "aevo-exchange",
+   "symbol": "AEVO",
+   "name": "Aevo",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 22160932,
+   "price": 0.02375919,
+   "volume24h": 14184749,
+   "vol_to_cap": 0.6401,
+   "chg24h": 0.58167,
+   "chg7d": 5.8,
+   "chg30d": 20.9,
+   "ath_chg": -99.3675,
+   "supply_pct": 93.3,
+   "social": null
+  },
+  {
+   "id": "aixbt",
+   "symbol": "AIXBT",
+   "name": "aixbt",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 22160266,
+   "price": 0.0221604,
+   "volume24h": 5447751,
+   "vol_to_cap": 0.2458,
+   "chg24h": 0.41717,
+   "chg7d": 4.3,
+   "chg30d": 27.3,
+   "ath_chg": -97.64896,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "janction",
+   "symbol": "JCT",
+   "name": "Janction",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 22141405,
+   "price": 0.00192696,
+   "volume24h": 2108481,
+   "vol_to_cap": 0.0952,
+   "chg24h": 11.65651,
+   "chg7d": 4.4,
+   "chg30d": -57.9,
+   "ath_chg": -81.78565,
+   "supply_pct": 23.0,
+   "social": null
+  },
+  {
+   "id": "perle",
+   "symbol": "PRL",
+   "name": "Perle",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 22028904,
+   "price": 0.125791,
+   "volume24h": 2760571,
+   "vol_to_cap": 0.1253,
+   "chg24h": -2.8806,
+   "chg7d": -30.3,
+   "chg30d": -54.3,
+   "ath_chg": -73.10775,
+   "supply_pct": 17.5,
+   "social": null
+  },
+  {
+   "id": "usual",
+   "symbol": "USUAL",
+   "name": "Usual",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 21904833,
+   "price": 0.01137599,
+   "volume24h": 1369807,
+   "vol_to_cap": 0.0625,
+   "chg24h": -1.62095,
+   "chg7d": -2.7,
+   "chg30d": 25.4,
+   "ath_chg": -99.29355,
+   "supply_pct": 99.2,
+   "social": null
+  },
+  {
+   "id": "pha",
+   "symbol": "PHA",
+   "name": "PHALA",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin",
+    "oracle"
+   ],
+   "cap": 21840704,
+   "price": 0.02601711,
+   "volume24h": 6435881,
+   "vol_to_cap": 0.2947,
+   "chg24h": 1.35836,
+   "chg7d": 2.0,
+   "chg30d": 20.8,
+   "ath_chg": -98.12915,
+   "supply_pct": 84.0,
+   "social": null
+  },
+  {
+   "id": "zelcash",
+   "symbol": "FLUX",
+   "name": "Flux",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 21671817,
+   "price": 0.051773,
+   "volume24h": 2877065,
+   "vol_to_cap": 0.1328,
+   "chg24h": 1.69909,
+   "chg7d": 6.5,
+   "chg30d": 31.3,
+   "ath_chg": -98.44332,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "mey-network",
+   "symbol": "MEY",
+   "name": "Mey Network",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 21534998,
+   "price": 0.06511,
+   "volume24h": 244007,
+   "vol_to_cap": 0.0113,
+   "chg24h": 6.75272,
+   "chg7d": 35.1,
+   "chg30d": 57.7,
+   "ath_chg": -86.75676,
+   "supply_pct": 14.4,
+   "social": null
+  },
+  {
+   "id": "okzoo",
+   "symbol": "AIOT",
+   "name": "OKZOO",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 21395861,
+   "price": 0.04076321,
+   "volume24h": 437580,
+   "vol_to_cap": 0.0205,
+   "chg24h": -1.92543,
+   "chg7d": 0.8,
+   "chg30d": 3.6,
+   "ath_chg": -97.96033,
+   "supply_pct": 52.5,
+   "social": null
+  },
+  {
+   "id": "chaingpt",
+   "symbol": "CGPT",
+   "name": "ChainGPT",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 21357387,
+   "price": 0.02139803,
+   "volume24h": 1862878,
+   "vol_to_cap": 0.0872,
+   "chg24h": 4.66581,
+   "chg7d": 5.4,
+   "chg30d": 10.1,
+   "ath_chg": -96.15004,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sodax",
+   "symbol": "SODA",
+   "name": "SODAX",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 20994710,
+   "price": 0.01400086,
+   "volume24h": 179904,
+   "vol_to_cap": 0.0086,
+   "chg24h": -36.35924,
+   "chg7d": 10.6,
+   "chg30d": -39.9,
+   "ath_chg": -85.46942,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "gradients",
+   "symbol": "SN56",
+   "name": "Gradients",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 20949896,
+   "price": 4.11,
+   "volume24h": 1052453,
+   "vol_to_cap": 0.0502,
+   "chg24h": 5.9339,
+   "chg7d": 5.7,
+   "chg30d": 22.0,
+   "ath_chg": -89.56178,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "hippius",
+   "symbol": "SN75",
+   "name": "Hippius",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 20735626,
+   "price": 4.38,
+   "volume24h": 168329,
+   "vol_to_cap": 0.0081,
+   "chg24h": 2.86896,
+   "chg7d": 4.0,
+   "chg30d": 13.7,
+   "ath_chg": -55.49914,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "tronbank",
+   "symbol": "TBK",
+   "name": "TronBank",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 20464138,
+   "price": 0.301638,
+   "volume24h": 196050,
+   "vol_to_cap": 0.0096,
+   "chg24h": -0.1931,
+   "chg7d": -1.2,
+   "chg30d": -51.1,
+   "ath_chg": -89.88029,
+   "supply_pct": 7.0,
+   "social": null
+  },
+  {
+   "id": "tiger-alpha",
+   "symbol": "SN107",
+   "name": "Tiger Alpha",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 20388651,
+   "price": 13.05,
+   "volume24h": 790489,
+   "vol_to_cap": 0.0388,
+   "chg24h": 2.64366,
+   "chg7d": -9.7,
+   "chg30d": 9.2,
+   "ath_chg": -30.59163,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "clearpool",
+   "symbol": "CPOOL",
+   "name": "Clearpool",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 20292544,
+   "price": 0.02029543,
+   "volume24h": 603429,
+   "vol_to_cap": 0.0297,
+   "chg24h": 0.72622,
+   "chg7d": -4.3,
+   "chg30d": 13.6,
+   "ath_chg": -99.20465,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "everipedia",
+   "symbol": "IQ",
+   "name": "IQ",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 20128140,
+   "price": 0.00073382,
+   "volume24h": 552024,
+   "vol_to_cap": 0.0274,
+   "chg24h": 3.04517,
+   "chg7d": 9.3,
+   "chg30d": 12.9,
+   "ath_chg": -98.98619,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bonfida",
+   "symbol": "FIDA",
+   "name": "Bonfida",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 20041826,
+   "price": 0.02023537,
+   "volume24h": 4321513,
+   "vol_to_cap": 0.2156,
+   "chg24h": 3.71544,
+   "chg7d": 2.6,
+   "chg30d": 10.7,
+   "ath_chg": -99.89222,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "lumia",
+   "symbol": "LUMIA",
+   "name": "Lumia",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 20001054,
+   "price": 0.083701,
+   "volume24h": 1772262,
+   "vol_to_cap": 0.0886,
+   "chg24h": -0.17295,
+   "chg7d": -2.0,
+   "chg30d": 11.5,
+   "ath_chg": -96.64438,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "alphabet-class-a-ondo-tokenized-stock",
+   "symbol": "GOOGLON",
+   "name": "Alphabet Class A (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 19813817,
+   "price": 340.47,
+   "volume24h": 7056493,
+   "vol_to_cap": 0.3561,
+   "chg24h": 0.00253,
+   "chg7d": -1.6,
+   "chg30d": -5.4,
+   "ath_chg": -16.46141,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "pippin",
+   "symbol": "PIPPIN",
+   "name": "pippin",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 19786729,
+   "price": 0.01978613,
+   "volume24h": 2465909,
+   "vol_to_cap": 0.1246,
+   "chg24h": -1.53017,
+   "chg7d": 8.9,
+   "chg30d": 17.7,
+   "ath_chg": -97.79468,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "semicon-bull-3x-etf-bstocks-tokenized-stock",
+   "symbol": "SOXLB",
+   "name": "Semicon Bull 3X ETF (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 19666565,
+   "price": 121.28,
+   "volume24h": 3128403,
+   "vol_to_cap": 0.1591,
+   "chg24h": 4.39672,
+   "chg7d": 6.7,
+   "chg30d": -11.3,
+   "ath_chg": -40.63557,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "roll-2",
+   "symbol": "ROLL",
+   "name": "ROLL",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 19441028,
+   "price": 0.125353,
+   "volume24h": 260634,
+   "vol_to_cap": 0.0134,
+   "chg24h": -1.62444,
+   "chg7d": -3.3,
+   "chg30d": -12.9,
+   "ath_chg": -31.75464,
+   "supply_pct": 15.5,
+   "social": null
+  },
+  {
+   "id": "spy-bstocks-tokenized-stock",
+   "symbol": "SPYB",
+   "name": "SPY (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 19300797,
+   "price": 769.14,
+   "volume24h": 4969795,
+   "vol_to_cap": 0.2575,
+   "chg24h": -0.34761,
+   "chg7d": -0.1,
+   "chg30d": 0.1,
+   "ath_chg": -1.326,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "roundhill-memory-etf-bstocks-tokenized-stock",
+   "symbol": "DRAMB",
+   "name": "Roundhill Memory ETF (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 19265091,
+   "price": 60.29,
+   "volume24h": 879867,
+   "vol_to_cap": 0.0457,
+   "chg24h": 0.90921,
+   "chg7d": 6.5,
+   "chg30d": 17.5,
+   "ath_chg": -8.92905,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "cyberconnect",
+   "symbol": "CYBER",
+   "name": "CYBER",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 19185884,
+   "price": 0.314255,
+   "volume24h": 6249964,
+   "vol_to_cap": 0.3258,
+   "chg24h": 1.45545,
+   "chg7d": -0.1,
+   "chg30d": 1.7,
+   "ath_chg": -98.00952,
+   "supply_pct": 61.1,
+   "social": null
+  },
+  {
+   "id": "bitcast",
+   "symbol": "SN93",
+   "name": "Bitcast",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 19182713,
+   "price": 4.87,
+   "volume24h": 809981,
+   "vol_to_cap": 0.0422,
+   "chg24h": 8.0668,
+   "chg7d": 13.8,
+   "chg30d": 144.3,
+   "ath_chg": -57.66595,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-20-year-treasury-bond-etf-ondo-tokenized-etf",
+   "symbol": "TLTON",
+   "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 19140948,
+   "price": 86.01,
+   "volume24h": 837672,
+   "vol_to_cap": 0.0438,
+   "chg24h": 0.26451,
+   "chg7d": -0.3,
+   "chg30d": 0.2,
+   "ath_chg": -9.97434,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "quantixai",
+   "symbol": "QFI",
+   "name": "Quantix Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18988579,
+   "price": 18.99,
+   "volume24h": 153375,
+   "vol_to_cap": 0.0081,
+   "chg24h": -0.04237,
+   "chg7d": -14.3,
+   "chg30d": -66.9,
+   "ath_chg": -82.67538,
+   "supply_pct": 25.0,
+   "social": null
+  },
+  {
+   "id": "zest-protocol",
+   "symbol": "ZEST",
+   "name": "Zest Protocol",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18964867,
+   "price": 0.129895,
+   "volume24h": 1900033,
+   "vol_to_cap": 0.1002,
+   "chg24h": 5.53245,
+   "chg7d": -7.1,
+   "chg30d": -36.1,
+   "ath_chg": -62.52838,
+   "supply_pct": 14.6,
+   "social": null
+  },
+  {
+   "id": "halo-4",
+   "symbol": "HALO",
+   "name": "Halo",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 18827412,
+   "price": 0.062811,
+   "volume24h": 139131,
+   "vol_to_cap": 0.0074,
+   "chg24h": 1.61309,
+   "chg7d": 1.4,
+   "chg30d": 33.1,
+   "ath_chg": -12.73914,
+   "supply_pct": 30.0,
+   "social": null
+  },
+  {
+   "id": "tx",
+   "symbol": "TX",
+   "name": "tx",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 18674280,
+   "price": 0.00203076,
+   "volume24h": 152062,
+   "vol_to_cap": 0.0081,
+   "chg24h": -8.80468,
+   "chg7d": 12.8,
+   "chg30d": 2.9,
+   "ath_chg": -94.62414,
+   "supply_pct": 9.0,
+   "social": null
+  },
+  {
+   "id": "definitive",
+   "symbol": "EDGE",
+   "name": "Definitive",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18610627,
+   "price": 0.070565,
+   "volume24h": 1581680,
+   "vol_to_cap": 0.085,
+   "chg24h": -0.91576,
+   "chg7d": 1.4,
+   "chg30d": 14.5,
+   "ath_chg": -91.83101,
+   "supply_pct": 26.4,
+   "social": null
+  },
+  {
+   "id": "dkargo",
+   "symbol": "DKA",
+   "name": "dKargo",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 18516576,
+   "price": 0.00370332,
+   "volume24h": 208691,
+   "vol_to_cap": 0.0113,
+   "chg24h": 2.43824,
+   "chg7d": 2.4,
+   "chg30d": 12.2,
+   "ath_chg": -99.47381,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "grvt",
+   "symbol": "GRVT",
+   "name": "GRVT Token",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18396222,
+   "price": 0.160909,
+   "volume24h": 3928121,
+   "vol_to_cap": 0.2135,
+   "chg24h": -0.81363,
+   "chg7d": -4.4,
+   "chg30d": -46.4,
+   "ath_chg": -64.5937,
+   "supply_pct": 11.4,
+   "social": null
+  },
+  {
+   "id": "pocket-network",
+   "symbol": "POKT",
+   "name": "Pocket Network",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 18311535,
+   "price": 0.00771056,
+   "volume24h": 290986,
+   "vol_to_cap": 0.0159,
+   "chg24h": -0.51547,
+   "chg7d": 6.8,
+   "chg30d": 10.0,
+   "ath_chg": -99.7524,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "adshares",
+   "symbol": "ADS",
+   "name": "Adshares",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18233789,
+   "price": 0.470551,
+   "volume24h": 201196,
+   "vol_to_cap": 0.011,
+   "chg24h": 0.5799,
+   "chg7d": 1.4,
+   "chg30d": 16.1,
+   "ath_chg": -91.77213,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sanctum-2",
+   "symbol": "CLOUD",
+   "name": "Cloud",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18187069,
+   "price": 0.02983638,
+   "volume24h": 110505,
+   "vol_to_cap": 0.0061,
+   "chg24h": -0.22596,
+   "chg7d": 19.7,
+   "chg30d": 38.3,
+   "ath_chg": -95.22749,
+   "supply_pct": 61.0,
+   "social": null
+  },
+  {
+   "id": "the-innovation-game",
+   "symbol": "TIG",
+   "name": "The Innovation Game",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 18051525,
+   "price": 0.591176,
+   "volume24h": 455527,
+   "vol_to_cap": 0.0252,
+   "chg24h": -4.31447,
+   "chg7d": -21.4,
+   "chg30d": -35.4,
+   "ath_chg": -86.26762,
+   "supply_pct": 61.3,
+   "social": null
+  },
+  {
+   "id": "dodo",
+   "symbol": "DODO",
+   "name": "DODO",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 18005295,
+   "price": 0.01800992,
+   "volume24h": 3967346,
+   "vol_to_cap": 0.2203,
+   "chg24h": 0.86655,
+   "chg7d": -9.8,
+   "chg30d": -12.3,
+   "ath_chg": -99.78501,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "marvell-technology-ondo-tokenized-stock",
+   "symbol": "MRVLON",
+   "name": "Marvell Technology (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 17967928,
+   "price": 222.14,
+   "volume24h": 1802307,
+   "vol_to_cap": 0.1003,
+   "chg24h": 0.29817,
+   "chg7d": 2.2,
+   "chg30d": 2.3,
+   "ath_chg": -34.81845,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "tesla-bstocks-tokenized-stock",
+   "symbol": "TSLAB",
+   "name": "Tesla (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 17943175,
+   "price": 356.29,
+   "volume24h": 3584979,
+   "vol_to_cap": 0.1998,
+   "chg24h": 0.26877,
+   "chg7d": 1.4,
+   "chg30d": 11.0,
+   "ath_chg": -18.17306,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bless-2",
+   "symbol": "BLESS",
+   "name": "Bless",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 17735857,
+   "price": 0.0096303,
+   "volume24h": 1723372,
+   "vol_to_cap": 0.0972,
+   "chg24h": 1.85459,
+   "chg7d": -13.5,
+   "chg30d": -26.0,
+   "ath_chg": -95.58517,
+   "supply_pct": 18.4,
+   "social": null
+  },
+  {
+   "id": "unit-00-rei",
+   "symbol": "REI",
+   "name": "Rei",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 17594447,
+   "price": 0.01759403,
+   "volume24h": 321826,
+   "vol_to_cap": 0.0183,
+   "chg24h": 5.68887,
+   "chg7d": -16.5,
+   "chg30d": -35.6,
+   "ath_chg": -91.96521,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spdr-s-p-500-etf-trust-robinhood-tokenized-stock",
+   "symbol": "SPY",
+   "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 17452768,
+   "price": 773.19,
+   "volume24h": 84022223,
+   "vol_to_cap": 4.8143,
+   "chg24h": 0.14513,
+   "chg7d": -0.2,
+   "chg30d": 0.3,
+   "ath_chg": -0.84271,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-core-msci-eafe-etf-ondo-tokenized-etf",
+   "symbol": "IEFAON",
+   "name": "iShares Core MSCI EAFE ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 17208615,
+   "price": 101.11,
+   "volume24h": 844048,
+   "vol_to_cap": 0.049,
+   "chg24h": -0.20726,
+   "chg7d": -1.7,
+   "chg30d": -1.8,
+   "ath_chg": -5.8518,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "redteam",
+   "symbol": "SN61",
+   "name": "RedTeam",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 17165393,
+   "price": 3.29,
+   "volume24h": 635768,
+   "vol_to_cap": 0.037,
+   "chg24h": 6.85762,
+   "chg7d": 44.2,
+   "chg30d": 171.4,
+   "ath_chg": -0.23766,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dia-data",
+   "symbol": "DIA",
+   "name": "DIA",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "oracle",
+    "real-world-assets-rwa"
+   ],
+   "cap": 17116060,
+   "price": 0.142986,
+   "volume24h": 2555686,
+   "vol_to_cap": 0.1493,
+   "chg24h": -0.69939,
+   "chg7d": 1.0,
+   "chg30d": 20.5,
+   "ath_chg": -97.50421,
+   "supply_pct": 70.9,
+   "social": null
+  },
+  {
+   "id": "coinbase-bstocks-tokenized-stock",
+   "symbol": "COINB",
+   "name": "Coinbase (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 16849185,
+   "price": 186.46,
+   "volume24h": 1041671,
+   "vol_to_cap": 0.0618,
+   "chg24h": 0.72693,
+   "chg7d": 3.6,
+   "chg30d": 26.5,
+   "ath_chg": -4.79372,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "myx-finance",
+   "symbol": "MYX",
+   "name": "MYX Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 16845878,
+   "price": 0.071739,
+   "volume24h": 6719415,
+   "vol_to_cap": 0.3989,
+   "chg24h": -1.27609,
+   "chg7d": 0.9,
+   "chg30d": -2.9,
+   "ath_chg": -99.62311,
+   "supply_pct": 23.5,
+   "social": null
+  },
+  {
+   "id": "solstice",
+   "symbol": "SLX",
+   "name": "Solstice",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 16829749,
+   "price": 0.06931,
+   "volume24h": 1938037,
+   "vol_to_cap": 0.1152,
+   "chg24h": -1.44217,
+   "chg7d": -3.2,
+   "chg30d": -8.2,
+   "ath_chg": -89.46917,
+   "supply_pct": 24.3,
+   "social": null
+  },
+  {
+   "id": "synfutures",
+   "symbol": "F",
+   "name": "SynFutures",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 16667176,
+   "price": 0.00341767,
+   "volume24h": 877046,
+   "vol_to_cap": 0.0526,
+   "chg24h": 0.05039,
+   "chg7d": 5.6,
+   "chg30d": 20.5,
+   "ath_chg": -98.22282,
+   "supply_pct": 48.8,
+   "social": null
+  },
+  {
+   "id": "intel-ondo-tokenized-stock",
+   "symbol": "INTCON",
+   "name": "Intel (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 16589216,
+   "price": 96.67,
+   "volume24h": 940633,
+   "vol_to_cap": 0.0567,
+   "chg24h": 0.76025,
+   "chg7d": 6.7,
+   "chg30d": -3.5,
+   "ath_chg": -64.9684,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "realio-network",
+   "symbol": "RIO",
+   "name": "Realio Network Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 16416679,
+   "price": 0.0496884,
+   "volume24h": 233705,
+   "vol_to_cap": 0.0142,
+   "chg24h": 4.41763,
+   "chg7d": 11.5,
+   "chg30d": 41.3,
+   "ath_chg": -99.02972,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nym",
+   "symbol": "NYM",
+   "name": "Nym",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 16399244,
+   "price": 0.01949612,
+   "volume24h": 559757,
+   "vol_to_cap": 0.0341,
+   "chg24h": 8.89612,
+   "chg7d": 18.1,
+   "chg30d": 10.6,
+   "ath_chg": -99.66173,
+   "supply_pct": 84.1,
+   "social": null
+  },
+  {
+   "id": "codatta",
+   "symbol": "XNY",
+   "name": "Codatta",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 16346679,
+   "price": 0.00653839,
+   "volume24h": 850799,
+   "vol_to_cap": 0.052,
+   "chg24h": 1.71502,
+   "chg7d": -6.1,
+   "chg30d": -6.0,
+   "ath_chg": -77.0108,
+   "supply_pct": 25.0,
+   "social": null
+  },
+  {
+   "id": "seda-2",
+   "symbol": "SEDA",
+   "name": "SEDA",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 16312919,
+   "price": 0.02149016,
+   "volume24h": 928009,
+   "vol_to_cap": 0.0569,
+   "chg24h": 0.39017,
+   "chg7d": -6.7,
+   "chg30d": 4.1,
+   "ath_chg": -91.847,
+   "supply_pct": 74.2,
+   "social": null
+  },
+  {
+   "id": "tesla-ondo-tokenized-stock",
+   "symbol": "TSLAON",
+   "name": "Tesla (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 16289399,
+   "price": 356.68,
+   "volume24h": 1916090,
+   "vol_to_cap": 0.1176,
+   "chg24h": 0.52945,
+   "chg7d": 1.5,
+   "chg30d": 10.9,
+   "ath_chg": -28.27832,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nvidia-bstocks",
+   "symbol": "NVDAB",
+   "name": "NVIDIA (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 16176568,
+   "price": 231.68,
+   "volume24h": 5426706,
+   "vol_to_cap": 0.3355,
+   "chg24h": 0.50017,
+   "chg7d": 5.9,
+   "chg30d": 5.7,
+   "ath_chg": -1.21336,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "delysium",
+   "symbol": "AGI",
+   "name": "Delysium",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 16147287,
+   "price": 0.00616964,
+   "volume24h": 2077088,
+   "vol_to_cap": 0.1286,
+   "chg24h": 2.03144,
+   "chg7d": -3.8,
+   "chg30d": 93.7,
+   "ath_chg": -99.08195,
+   "supply_pct": 87.0,
+   "social": null
+  },
+  {
+   "id": "based-one",
+   "symbol": "BASED",
+   "name": "Based",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 15965065,
+   "price": 0.067939,
+   "volume24h": 5834979,
+   "vol_to_cap": 0.3655,
+   "chg24h": -2.80691,
+   "chg7d": -5.3,
+   "chg30d": -15.0,
+   "ath_chg": -78.87409,
+   "supply_pct": 23.5,
+   "social": null
+  },
+  {
+   "id": "magic",
+   "symbol": "MAGIC",
+   "name": "Treasure",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 15846580,
+   "price": 0.04701271,
+   "volume24h": 1743006,
+   "vol_to_cap": 0.11,
+   "chg24h": 2.54452,
+   "chg7d": -11.8,
+   "chg30d": 12.1,
+   "ath_chg": -99.25655,
+   "supply_pct": 97.0,
+   "social": null
+  },
+  {
+   "id": "savings-crvusd",
+   "symbol": "SCRVUSD",
+   "name": "Savings crvUSD",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 15769295,
+   "price": 1.11,
+   "volume24h": 1293212,
+   "vol_to_cap": 0.082,
+   "chg24h": -0.00777,
+   "chg7d": 0.0,
+   "chg30d": 0.2,
+   "ath_chg": -14.58287,
+   "supply_pct": 99.8,
+   "social": null
+  },
+  {
+   "id": "chromaway",
+   "symbol": "CHR",
+   "name": "Chromia",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "real-world-assets-rwa"
+   ],
+   "cap": 15702973,
+   "price": 0.01610834,
+   "volume24h": 14667883,
+   "vol_to_cap": 0.9341,
+   "chg24h": 1.29167,
+   "chg7d": 6.7,
+   "chg30d": 21.9,
+   "ath_chg": -98.91932,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bob-build-on-bitcoin",
+   "symbol": "BOB",
+   "name": "BOB (Build on Bitcoin)",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 15696892,
+   "price": 0.00473294,
+   "volume24h": 388903,
+   "vol_to_cap": 0.0248,
+   "chg24h": -1.99663,
+   "chg7d": -0.6,
+   "chg30d": 18.3,
+   "ath_chg": -83.84173,
+   "supply_pct": 33.2,
+   "social": null
+  },
+  {
+   "id": "solayer",
+   "symbol": "LAYER",
+   "name": "Solayer",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 15654286,
+   "price": 0.074551,
+   "volume24h": 9841590,
+   "vol_to_cap": 0.6287,
+   "chg24h": 6.79898,
+   "chg7d": 6.2,
+   "chg30d": 19.2,
+   "ath_chg": -97.8027,
+   "supply_pct": 21.0,
+   "social": null
+  },
+  {
+   "id": "mira-3",
+   "symbol": "MIRA",
+   "name": "Mira",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 15554512,
+   "price": 0.04674147,
+   "volume24h": 1460116,
+   "vol_to_cap": 0.0939,
+   "chg24h": 0.09797,
+   "chg7d": 7.9,
+   "chg30d": 11.4,
+   "ath_chg": -98.25476,
+   "supply_pct": 33.3,
+   "social": null
+  },
+  {
+   "id": "sapien-2",
+   "symbol": "SAPIEN",
+   "name": "Sapien",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 15522121,
+   "price": 0.081864,
+   "volume24h": 1517972,
+   "vol_to_cap": 0.0978,
+   "chg24h": -0.32857,
+   "chg7d": 0.6,
+   "chg30d": 1.0,
+   "ath_chg": -84.73906,
+   "supply_pct": 19.0,
+   "social": null
+  },
+  {
+   "id": "zentry",
+   "symbol": "ZENT",
+   "name": "Zentry",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 15496828,
+   "price": 0.00193477,
+   "volume24h": 371258,
+   "vol_to_cap": 0.024,
+   "chg24h": -1.6858,
+   "chg7d": 3.3,
+   "chg30d": 8.5,
+   "ath_chg": -95.73064,
+   "supply_pct": 82.5,
+   "social": null
+  },
+  {
+   "id": "nvidia-robinhood-tokenized-stock",
+   "symbol": "NVDA",
+   "name": "NVIDIA • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 15257979,
+   "price": 231.61,
+   "volume24h": 38912879,
+   "vol_to_cap": 2.5503,
+   "chg24h": 0.38477,
+   "chg7d": 5.4,
+   "chg30d": 5.7,
+   "ath_chg": -1.06441,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bluwhale",
+   "symbol": "BLUAI",
+   "name": "Bluwhale",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 15104451,
+   "price": 0.01230204,
+   "volume24h": 2187845,
+   "vol_to_cap": 0.1448,
+   "chg24h": -2.3932,
+   "chg7d": -6.5,
+   "chg30d": -3.1,
+   "ath_chg": -66.84515,
+   "supply_pct": 12.3,
+   "social": null
+  },
+  {
+   "id": "coin98",
+   "symbol": "C98",
+   "name": "Coin98",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14985744,
+   "price": 0.01498653,
+   "volume24h": 8654966,
+   "vol_to_cap": 0.5775,
+   "chg24h": 0.24941,
+   "chg7d": -0.2,
+   "chg30d": -12.5,
+   "ath_chg": -99.76654,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "yei-finance",
+   "symbol": "CLO",
+   "name": "Yei Finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14797570,
+   "price": 0.114598,
+   "volume24h": 4381997,
+   "vol_to_cap": 0.2961,
+   "chg24h": -4.32756,
+   "chg7d": -7.0,
+   "chg30d": -7.7,
+   "ath_chg": -87.4076,
+   "supply_pct": 12.9,
+   "social": null
+  },
+  {
+   "id": "epic-chain",
+   "symbol": "EPIC",
+   "name": "Epic Chain",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions",
+    "real-world-assets-rwa"
+   ],
+   "cap": 14757558,
+   "price": 0.438559,
+   "volume24h": 27452033,
+   "vol_to_cap": 1.8602,
+   "chg24h": 17.53723,
+   "chg7d": 30.3,
+   "chg30d": -60.2,
+   "ath_chg": -86.28312,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "katana-network-token",
+   "symbol": "KAT",
+   "name": "Katana",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14682861,
+   "price": 0.0046286,
+   "volume24h": 3132832,
+   "vol_to_cap": 0.2134,
+   "chg24h": -2.0301,
+   "chg7d": -0.4,
+   "chg30d": 2.1,
+   "ath_chg": -84.29286,
+   "supply_pct": 31.7,
+   "social": null
+  },
+  {
+   "id": "ridges-ai",
+   "symbol": "SN62",
+   "name": "Ridges AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 14652455,
+   "price": 2.78,
+   "volume24h": 427622,
+   "vol_to_cap": 0.0292,
+   "chg24h": -0.46005,
+   "chg7d": 5.6,
+   "chg30d": 9.2,
+   "ath_chg": -92.92415,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "joe",
+   "symbol": "JOE",
+   "name": "JOE",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14617974,
+   "price": 0.0319741,
+   "volume24h": 4527913,
+   "vol_to_cap": 0.3097,
+   "chg24h": 1.50197,
+   "chg7d": 1.1,
+   "chg30d": 26.2,
+   "ath_chg": -99.37147,
+   "supply_pct": 91.5,
+   "social": null
+  },
+  {
+   "id": "recall",
+   "symbol": "RECALL",
+   "name": "Recall",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 14612790,
+   "price": 0.0418926,
+   "volume24h": 647105,
+   "vol_to_cap": 0.0443,
+   "chg24h": 0.49667,
+   "chg7d": -11.8,
+   "chg30d": -2.2,
+   "ath_chg": -94.89792,
+   "supply_pct": 34.9,
+   "social": null
+  },
+  {
+   "id": "spell-token",
+   "symbol": "SPELL",
+   "name": "Spell",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14587698,
+   "price": 8.506e-05,
+   "volume24h": 1133668,
+   "vol_to_cap": 0.0777,
+   "chg24h": 0.0565,
+   "chg7d": 1.8,
+   "chg30d": 8.8,
+   "ath_chg": -99.75741,
+   "supply_pct": 87.5,
+   "social": null
+  },
+  {
+   "id": "strategy-stretch-preferred-ondo-tokenized",
+   "symbol": "STRCON",
+   "name": "Strategy Stretch Preferred (Ondo Tokenized)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 14421974,
+   "price": 102.75,
+   "volume24h": 788802,
+   "vol_to_cap": 0.0547,
+   "chg24h": 0.01319,
+   "chg7d": 0.8,
+   "chg30d": 5.4,
+   "ath_chg": -0.23921,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "humidifi",
+   "symbol": "WET",
+   "name": "HumidiFi",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14395688,
+   "price": 0.062597,
+   "volume24h": 650824,
+   "vol_to_cap": 0.0452,
+   "chg24h": 0.92352,
+   "chg7d": 2.3,
+   "chg30d": -8.1,
+   "ath_chg": -81.21174,
+   "supply_pct": 23.0,
+   "social": null
+  },
+  {
+   "id": "ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf",
+   "symbol": "AGGON",
+   "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 14323170,
+   "price": 101.21,
+   "volume24h": 168300,
+   "vol_to_cap": 0.0118,
+   "chg24h": 0.19682,
+   "chg7d": 0.6,
+   "chg30d": 0.3,
+   "ath_chg": -6.19348,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "orderly-network",
+   "symbol": "ORDER",
+   "name": "Orderly",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 14145472,
+   "price": 0.03447977,
+   "volume24h": 2903054,
+   "vol_to_cap": 0.2052,
+   "chg24h": -0.45469,
+   "chg7d": 0.0,
+   "chg30d": 17.3,
+   "ath_chg": -92.98533,
+   "supply_pct": 41.0,
+   "social": null
+  },
+  {
+   "id": "radicle",
+   "symbol": "RAD",
+   "name": "Radworks",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 14077453,
+   "price": 0.238109,
+   "volume24h": 907866,
+   "vol_to_cap": 0.0645,
+   "chg24h": 0.41897,
+   "chg7d": 1.4,
+   "chg30d": 14.9,
+   "ath_chg": -99.13745,
+   "supply_pct": 59.1,
+   "social": null
+  },
+  {
+   "id": "hieswap-bridged-usdt-fonchain",
+   "symbol": "USDT",
+   "name": "HieSwap Bridged USDT (FONChain)",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13999532,
+   "price": 0.999967,
+   "volume24h": 150633,
+   "vol_to_cap": 0.0108,
+   "chg24h": -0.0124,
+   "chg7d": 0.0,
+   "chg30d": 0.1,
+   "ath_chg": -0.03464,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spacex-republic-pre-ipo",
+   "symbol": "PRESPCX",
+   "name": "SpaceX (Republic Pre-IPO)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 13994772,
+   "price": 147.39,
+   "volume24h": 576370,
+   "vol_to_cap": 0.0412,
+   "chg24h": 0.05817,
+   "chg7d": 5.1,
+   "chg30d": 26.8,
+   "ath_chg": -84.44056,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "orbio-so",
+   "symbol": "ORBIO",
+   "name": "Orbio.so",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 13971817,
+   "price": 0.01470706,
+   "volume24h": 2972683,
+   "vol_to_cap": 0.2128,
+   "chg24h": 131.5916,
+   "chg7d": null,
+   "chg30d": null,
+   "ath_chg": -0.00081,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dolomite",
+   "symbol": "DOLO",
+   "name": "Dolomite",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13929835,
+   "price": 0.02727792,
+   "volume24h": 4461525,
+   "vol_to_cap": 0.3203,
+   "chg24h": 0.4055,
+   "chg7d": 3.4,
+   "chg30d": 20.9,
+   "ath_chg": -92.55565,
+   "supply_pct": 51.2,
+   "social": null
+  },
+  {
+   "id": "infinity-ground",
+   "symbol": "AIN",
+   "name": "Infinity Ground",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 13742279,
+   "price": 0.074163,
+   "volume24h": 1460757,
+   "vol_to_cap": 0.1063,
+   "chg24h": 2.59784,
+   "chg7d": 7.3,
+   "chg30d": -2.7,
+   "ath_chg": -63.55429,
+   "supply_pct": 18.5,
+   "social": null
+  },
+  {
+   "id": "infinex-2",
+   "symbol": "INX",
+   "name": "Infinex",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13718517,
+   "price": 0.00687895,
+   "volume24h": 1346880,
+   "vol_to_cap": 0.0982,
+   "chg24h": -4.46793,
+   "chg7d": -2.2,
+   "chg30d": -6.6,
+   "ath_chg": -79.39916,
+   "supply_pct": 19.9,
+   "social": null
+  },
+  {
+   "id": "chex-token",
+   "symbol": "CHEX",
+   "name": "Chintai",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 13682720,
+   "price": 0.01095492,
+   "volume24h": 156413,
+   "vol_to_cap": 0.0114,
+   "chg24h": -2.02246,
+   "chg7d": 2.4,
+   "chg30d": 1.3,
+   "ath_chg": -98.63803,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "proton-loan",
+   "symbol": "LOAN",
+   "name": "Loan Protocol",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13611687,
+   "price": 0.00040452,
+   "volume24h": 124825,
+   "vol_to_cap": 0.0092,
+   "chg24h": 0.33661,
+   "chg7d": 3.2,
+   "chg30d": -0.6,
+   "ath_chg": -85.4904,
+   "supply_pct": 29.8,
+   "social": null
+  },
+  {
+   "id": "up-2",
+   "symbol": "UP",
+   "name": "up",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13454692,
+   "price": 0.668688,
+   "volume24h": 2136591,
+   "vol_to_cap": 0.1588,
+   "chg24h": 11.06302,
+   "chg7d": 63.8,
+   "chg30d": 772.7,
+   "ath_chg": -57.80479,
+   "supply_pct": 4.0,
+   "social": null
+  },
+  {
+   "id": "termmax",
+   "symbol": "TMX",
+   "name": "TermMax",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 13410381,
+   "price": 0.087766,
+   "volume24h": 15722226,
+   "vol_to_cap": 1.1724,
+   "chg24h": -7.05648,
+   "chg7d": -29.3,
+   "chg30d": null,
+   "ath_chg": -57.04271,
+   "supply_pct": 15.3,
+   "social": null
+  },
+  {
+   "id": "airtor-protocol",
+   "symbol": "ANYONE",
+   "name": "ANyONe Protocol",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 13352561,
+   "price": 0.14054,
+   "volume24h": 648185,
+   "vol_to_cap": 0.0485,
+   "chg24h": -7.93553,
+   "chg7d": 42.4,
+   "chg30d": 181.9,
+   "ath_chg": -96.45913,
+   "supply_pct": 95.0,
+   "social": null
+  },
+  {
+   "id": "lagrange",
+   "symbol": "LA",
+   "name": "Lagrange",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 13243049,
+   "price": 0.068644,
+   "volume24h": 7294641,
+   "vol_to_cap": 0.5508,
+   "chg24h": 0.02919,
+   "chg7d": 18.3,
+   "chg30d": 41.3,
+   "ath_chg": -96.01408,
+   "supply_pct": 19.3,
+   "social": null
+  },
+  {
+   "id": "credible-finance",
+   "symbol": "CRED",
+   "name": "Credible Finance",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 13064645,
+   "price": 0.576466,
+   "volume24h": 379025,
+   "vol_to_cap": 0.029,
+   "chg24h": -6.51512,
+   "chg7d": -3.1,
+   "chg30d": -1.2,
+   "ath_chg": -44.69266,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bitquant",
+   "symbol": "SN15",
+   "name": "ORO",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12977813,
+   "price": 7.96,
+   "volume24h": 821144,
+   "vol_to_cap": 0.0633,
+   "chg24h": -1.34419,
+   "chg7d": -4.2,
+   "chg30d": 105.9,
+   "ath_chg": -27.66236,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "origin-protocol",
+   "symbol": "OGN",
+   "name": "Origin Token",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 12897149,
+   "price": 0.01887194,
+   "volume24h": 1022899,
+   "vol_to_cap": 0.0793,
+   "chg24h": 0.28086,
+   "chg7d": 1.6,
+   "chg30d": 18.0,
+   "ath_chg": -99.43703,
+   "supply_pct": 48.5,
+   "social": null
+  },
+  {
+   "id": "stbl",
+   "symbol": "STBL",
+   "name": "STBL",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi",
+    "real-world-assets-rwa"
+   ],
+   "cap": 12838653,
+   "price": 0.02568399,
+   "volume24h": 2095499,
+   "vol_to_cap": 0.1632,
+   "chg24h": -1.30581,
+   "chg7d": -8.1,
+   "chg30d": 2.4,
+   "ath_chg": -95.71341,
+   "supply_pct": 5.0,
+   "social": null
+  },
+  {
+   "id": "tokenbot-2",
+   "symbol": "CLANKER",
+   "name": "tokenbot",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12811508,
+   "price": 12.99,
+   "volume24h": 1299430,
+   "vol_to_cap": 0.1014,
+   "chg24h": 2.77889,
+   "chg7d": 4.2,
+   "chg30d": 4.4,
+   "ath_chg": -90.90691,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "apple-xstock",
+   "symbol": "AAPLX",
+   "name": "Apple xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 12807272,
+   "price": 322.52,
+   "volume24h": 2904427,
+   "vol_to_cap": 0.2268,
+   "chg24h": 0.19759,
+   "chg7d": 0.2,
+   "chg30d": 3.2,
+   "ath_chg": -6.551,
+   "supply_pct": 6.2,
+   "social": null
+  },
+  {
+   "id": "ishares-core-s-p-total-us-stock-market-etf-ondo-tokenized-etf",
+   "symbol": "ITOTON",
+   "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 12799434,
+   "price": 169.5,
+   "volume24h": 736120,
+   "vol_to_cap": 0.0575,
+   "chg24h": -0.0188,
+   "chg7d": -0.8,
+   "chg30d": 0.4,
+   "ath_chg": -2.74403,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "h2o-2",
+   "symbol": "H2O",
+   "name": "H2O",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 12790444,
+   "price": 5.75,
+   "volume24h": 351916,
+   "vol_to_cap": 0.0275,
+   "chg24h": 1.07879,
+   "chg7d": 1.6,
+   "chg30d": 13.5,
+   "ath_chg": -75.26022,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "shopinx",
+   "symbol": "SPX",
+   "name": "ShopinX",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 12774127,
+   "price": 0.051078,
+   "volume24h": 1344134,
+   "vol_to_cap": 0.1052,
+   "chg24h": 5.30325,
+   "chg7d": -13.8,
+   "chg30d": null,
+   "ath_chg": -22.55398,
+   "supply_pct": 25.0,
+   "social": null
+  },
+  {
+   "id": "storj",
+   "symbol": "STORJ",
+   "name": "Storj",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 12753098,
+   "price": 0.03000012,
+   "volume24h": 6890328,
+   "vol_to_cap": 0.5403,
+   "chg24h": -0.06093,
+   "chg7d": -16.1,
+   "chg30d": -32.6,
+   "ath_chg": -99.21185,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "saffron-finance",
+   "symbol": "SFI",
+   "name": "saffron.finance",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 12750426,
+   "price": 159.19,
+   "volume24h": 168948,
+   "vol_to_cap": 0.0133,
+   "chg24h": 26.19908,
+   "chg7d": -8.3,
+   "chg30d": 10.4,
+   "ath_chg": -95.44715,
+   "supply_pct": 80.1,
+   "social": null
+  },
+  {
+   "id": "sofi-technologies-ondo-tokenized-stock",
+   "symbol": "SOFION",
+   "name": "SoFi Technologies (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 12655624,
+   "price": 18.07,
+   "volume24h": 150526,
+   "vol_to_cap": 0.0119,
+   "chg24h": -0.0121,
+   "chg7d": -0.1,
+   "chg30d": 0.0,
+   "ath_chg": -33.6843,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nineteen-ai",
+   "symbol": "SN19",
+   "name": "Blockmachine",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12452348,
+   "price": 2.54,
+   "volume24h": 130349,
+   "vol_to_cap": 0.0105,
+   "chg24h": 3.15746,
+   "chg7d": 0.6,
+   "chg30d": 23.4,
+   "ath_chg": -85.17791,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bone-shibaswap",
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap",
+   "band": "5-50",
+   "categories": [
+    "decentralized-finance-defi"
+   ],
+   "cap": 12379803,
+   "price": 0.04837564,
+   "volume24h": 1614538,
+   "vol_to_cap": 0.1304,
+   "chg24h": 2.8323,
+   "chg7d": -0.9,
+   "chg30d": 10.0,
+   "ath_chg": -99.6878,
+   "supply_pct": 99.9,
+   "social": null
+  },
+  {
+   "id": "elsa",
+   "symbol": "ELSA",
+   "name": "Elsa",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12256702,
+   "price": 0.053529,
+   "volume24h": 10220028,
+   "vol_to_cap": 0.8338,
+   "chg24h": 0.99599,
+   "chg7d": 16.1,
+   "chg30d": -0.8,
+   "ath_chg": -86.63185,
+   "supply_pct": 22.9,
+   "social": null
+  },
+  {
+   "id": "coinbase-xstock",
+   "symbol": "COINX",
+   "name": "Coinbase xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 12236289,
+   "price": 186.29,
+   "volume24h": 1930560,
+   "vol_to_cap": 0.1578,
+   "chg24h": 0.62924,
+   "chg7d": 3.6,
+   "chg30d": 26.2,
+   "ath_chg": -58.06969,
+   "supply_pct": 8.4,
+   "social": null
+  },
+  {
+   "id": "griffain",
+   "symbol": "GRIFFAIN",
+   "name": "GRIFFAIN",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12193476,
+   "price": 0.01219197,
+   "volume24h": 3764133,
+   "vol_to_cap": 0.3087,
+   "chg24h": -0.74612,
+   "chg7d": -0.8,
+   "chg30d": 25.1,
+   "ath_chg": -98.04888,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "infinit",
+   "symbol": "IN",
+   "name": "INFINIT",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 12059954,
+   "price": 0.03494459,
+   "volume24h": 1766157,
+   "vol_to_cap": 0.1464,
+   "chg24h": 0.15762,
+   "chg7d": 5.9,
+   "chg30d": 5.5,
+   "ath_chg": -88.99229,
+   "supply_pct": 34.5,
+   "social": null
+  },
+  {
+   "id": "dolphin-2",
+   "symbol": "POD",
+   "name": "Dolphin",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 11976536,
+   "price": 0.264052,
+   "volume24h": 1631674,
+   "vol_to_cap": 0.1362,
+   "chg24h": -17.05018,
+   "chg7d": -33.7,
+   "chg30d": -28.2,
+   "ath_chg": -56.72843,
+   "supply_pct": 9.1,
+   "social": null
+  },
+  {
+   "id": "robinhood-xstock",
+   "symbol": "HOODX",
+   "name": "Robinhood xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11846661,
+   "price": 125.57,
+   "volume24h": 2518032,
+   "vol_to_cap": 0.2126,
+   "chg24h": 3.17694,
+   "chg7d": 17.5,
+   "chg30d": 36.9,
+   "ath_chg": -76.44708,
+   "supply_pct": 4.9,
+   "social": null
+  },
+  {
+   "id": "openserv",
+   "symbol": "SERV",
+   "name": "OpenServ",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 11693460,
+   "price": 0.01519347,
+   "volume24h": 960174,
+   "vol_to_cap": 0.0821,
+   "chg24h": -11.39367,
+   "chg7d": -33.9,
+   "chg30d": -43.9,
+   "ath_chg": -89.06967,
+   "supply_pct": 77.0,
+   "social": null
+  },
+  {
+   "id": "alethea-artificial-liquid-intelligence-token",
+   "symbol": "ALI",
+   "name": "Artificial Liquid Intelligence",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 11630704,
+   "price": 0.00123985,
+   "volume24h": 152681,
+   "vol_to_cap": 0.0131,
+   "chg24h": 2.78303,
+   "chg7d": 2.6,
+   "chg30d": 17.0,
+   "ath_chg": -99.38412,
+   "supply_pct": 95.0,
+   "social": null
+  },
+  {
+   "id": "ishares-msci-eafe-etf-ondo-tokenized-etf",
+   "symbol": "EFAON",
+   "name": "iShares MSCI EAFE ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11596680,
+   "price": 110.86,
+   "volume24h": 529144,
+   "vol_to_cap": 0.0456,
+   "chg24h": -0.03429,
+   "chg7d": -0.5,
+   "chg30d": 1.0,
+   "ath_chg": -3.74287,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "kernel-2",
+   "symbol": "KERNEL",
+   "name": "KernelDAO",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11592613,
+   "price": 0.04030001,
+   "volume24h": 4182907,
+   "vol_to_cap": 0.3608,
+   "chg24h": -0.74405,
+   "chg7d": 3.8,
+   "chg30d": 22.1,
+   "ath_chg": -91.48344,
+   "supply_pct": 28.8,
+   "social": null
+  },
+  {
+   "id": "olaxbt",
+   "symbol": "AIO",
+   "name": "OlaXBT",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 11351006,
+   "price": 0.04929925,
+   "volume24h": 1173912,
+   "vol_to_cap": 0.1034,
+   "chg24h": -3.05406,
+   "chg7d": -8.2,
+   "chg30d": 15.8,
+   "ath_chg": -79.02031,
+   "supply_pct": 23.0,
+   "social": null
+  },
+  {
+   "id": "lava-network",
+   "symbol": "LAVA",
+   "name": "Lava Network",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 11285190,
+   "price": 0.01905349,
+   "volume24h": 632242,
+   "vol_to_cap": 0.056,
+   "chg24h": 0.0204,
+   "chg7d": -5.0,
+   "chg30d": 16.6,
+   "ath_chg": -92.32481,
+   "supply_pct": 61.8,
+   "social": null
+  },
+  {
+   "id": "kaio",
+   "symbol": "KAIO",
+   "name": "KAIO",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11198093,
+   "price": 0.01643757,
+   "volume24h": 533547,
+   "vol_to_cap": 0.0476,
+   "chg24h": 3.8732,
+   "chg7d": -4.7,
+   "chg30d": -12.8,
+   "ath_chg": -93.59464,
+   "supply_pct": 6.8,
+   "social": null
+  },
+  {
+   "id": "ishares-tips-bond-etf-ondo-tokenized-etf",
+   "symbol": "TIPON",
+   "name": "iShares TIPS Bond ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11161837,
+   "price": 111.37,
+   "volume24h": 509922,
+   "vol_to_cap": 0.0457,
+   "chg24h": 0.2066,
+   "chg7d": -0.5,
+   "chg30d": 0.6,
+   "ath_chg": -16.14404,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "meta-platforms-ondo-tokenized-stock",
+   "symbol": "METAON",
+   "name": "Meta Platforms (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 11034233,
+   "price": 615.69,
+   "volume24h": 1186032,
+   "vol_to_cap": 0.1075,
+   "chg24h": 0.14804,
+   "chg7d": 6.0,
+   "chg30d": 3.9,
+   "ath_chg": -21.93975,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "mainframe-2",
+   "symbol": "SN25",
+   "name": "Mainframe",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 10997721,
+   "price": 2.21,
+   "volume24h": 133930,
+   "vol_to_cap": 0.0122,
+   "chg24h": 0.5463,
+   "chg7d": 1.2,
+   "chg30d": 4.9,
+   "ath_chg": -57.60251,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "verified-emeralds",
+   "symbol": "VEREM",
+   "name": "Verified Emeralds",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10984612,
+   "price": 4.39,
+   "volume24h": 173196,
+   "vol_to_cap": 0.0158,
+   "chg24h": 4.21745,
+   "chg7d": -8.3,
+   "chg30d": 93.8,
+   "ath_chg": -98.8757,
+   "supply_pct": 5.0,
+   "social": null
+  },
+  {
+   "id": "origyn-foundation",
+   "symbol": "OGY",
+   "name": "ORIGYN",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10880542,
+   "price": 0.00134025,
+   "volume24h": 134504,
+   "vol_to_cap": 0.0124,
+   "chg24h": 1.11691,
+   "chg7d": 4.4,
+   "chg30d": 50.3,
+   "ath_chg": -97.06059,
+   "supply_pct": 77.9,
+   "social": null
+  },
+  {
+   "id": "secret",
+   "symbol": "SCRT",
+   "name": "Secret",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 10729794,
+   "price": 0.00738087,
+   "volume24h": 1077207,
+   "vol_to_cap": 0.1004,
+   "chg24h": -1.31773,
+   "chg7d": -32.0,
+   "chg30d": -78.5,
+   "ath_chg": -99.92893,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "pdd-holdings-ondo-tokenized",
+   "symbol": "PDDON",
+   "name": "PDD Holdings (Ondo Tokenized)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10574820,
+   "price": 81.89,
+   "volume24h": 474650,
+   "vol_to_cap": 0.0449,
+   "chg24h": 0.24076,
+   "chg7d": -5.0,
+   "chg30d": -8.9,
+   "ath_chg": -33.16561,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "trusta-ai",
+   "symbol": "TA",
+   "name": "Trusta AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 10550281,
+   "price": 0.058614,
+   "volume24h": 353054,
+   "vol_to_cap": 0.0335,
+   "chg24h": -2.87741,
+   "chg7d": -8.4,
+   "chg30d": -6.9,
+   "ath_chg": -84.11647,
+   "supply_pct": 18.0,
+   "social": null
+  },
+  {
+   "id": "opinion",
+   "symbol": "OPN",
+   "name": "Opinion",
+   "band": "5-50",
+   "categories": [
+    "prediction-markets"
+   ],
+   "cap": 10456406,
+   "price": 0.057568,
+   "volume24h": 2426134,
+   "vol_to_cap": 0.232,
+   "chg24h": 2.89937,
+   "chg7d": 5.6,
+   "chg30d": 8.5,
+   "ath_chg": -87.60858,
+   "supply_pct": 18.2,
+   "social": null
+  },
+  {
+   "id": "elysia",
+   "symbol": "EL",
+   "name": "ELYSIA",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10340538,
+   "price": 0.00151993,
+   "volume24h": 144565,
+   "vol_to_cap": 0.014,
+   "chg24h": 0.42778,
+   "chg7d": -1.7,
+   "chg30d": 42.1,
+   "ath_chg": -97.80053,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf",
+   "symbol": "IEMGON",
+   "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10303124,
+   "price": 85.41,
+   "volume24h": 775190,
+   "vol_to_cap": 0.0752,
+   "chg24h": -0.03658,
+   "chg7d": 2.5,
+   "chg30d": 4.9,
+   "ath_chg": -34.22263,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-gold-trust-ondo-tokenized-stock",
+   "symbol": "IAUON",
+   "name": "iShares Gold Trust (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10294599,
+   "price": 83.33,
+   "volume24h": 576630,
+   "vol_to_cap": 0.056,
+   "chg24h": 0.18467,
+   "chg7d": -0.5,
+   "chg30d": 3.0,
+   "ath_chg": -78.83854,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spacex-ondo-tokenized-stock",
+   "symbol": "SPCXON",
+   "name": "SpaceX (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10288356,
+   "price": 150.57,
+   "volume24h": 838699,
+   "vol_to_cap": 0.0815,
+   "chg24h": 1.00554,
+   "chg7d": 7.1,
+   "chg30d": 29.2,
+   "ath_chg": -37.17239,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "truth-2",
+   "symbol": "PRD",
+   "name": "PRDCTR",
+   "band": "5-50",
+   "categories": [
+    "prediction-markets"
+   ],
+   "cap": 10203958,
+   "price": 0.0008522,
+   "volume24h": 813848,
+   "vol_to_cap": 0.0798,
+   "chg24h": -2.27039,
+   "chg7d": 17.2,
+   "chg30d": 97.8,
+   "ath_chg": -16.15183,
+   "supply_pct": 12.6,
+   "social": null
+  },
+  {
+   "id": "aeon-3",
+   "symbol": "AEON",
+   "name": "AEON",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 10071271,
+   "price": 0.053577,
+   "volume24h": 6488117,
+   "vol_to_cap": 0.6442,
+   "chg24h": -0.44528,
+   "chg7d": -17.9,
+   "chg30d": -4.4,
+   "ath_chg": -71.41861,
+   "supply_pct": 18.8,
+   "social": null
+  },
+  {
+   "id": "gold-xstock",
+   "symbol": "GLDX",
+   "name": "Gold xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 10045419,
+   "price": 406.24,
+   "volume24h": 4580667,
+   "vol_to_cap": 0.456,
+   "chg24h": -0.14849,
+   "chg7d": -0.8,
+   "chg30d": 2.8,
+   "ath_chg": -20.46567,
+   "supply_pct": 7.5,
+   "social": null
+  },
+  {
+   "id": "kled-ai",
+   "symbol": "KLED",
+   "name": "Kled AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 10023391,
+   "price": 0.01002576,
+   "volume24h": 586288,
+   "vol_to_cap": 0.0585,
+   "chg24h": 6.44571,
+   "chg7d": -7.7,
+   "chg30d": -7.1,
+   "ath_chg": -82.14878,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ix-swap",
+   "symbol": "IXS",
+   "name": "IXS",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "real-world-assets-rwa"
+   ],
+   "cap": 9992274,
+   "price": 0.055513,
+   "volume24h": 124939,
+   "vol_to_cap": 0.0125,
+   "chg24h": 5.74996,
+   "chg7d": -11.0,
+   "chg30d": -6.7,
+   "ath_chg": -93.3197,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dippy",
+   "symbol": "SN11",
+   "name": "Dippy",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9959620,
+   "price": 2.1,
+   "volume24h": 715748,
+   "vol_to_cap": 0.0719,
+   "chg24h": 10.56205,
+   "chg7d": 8.4,
+   "chg30d": 11.4,
+   "ath_chg": -75.08931,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "chainbase",
+   "symbol": "C",
+   "name": "Chainbase",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9838692,
+   "price": 0.061596,
+   "volume24h": 752475,
+   "vol_to_cap": 0.0765,
+   "chg24h": 1.15594,
+   "chg7d": -0.8,
+   "chg30d": 11.7,
+   "ath_chg": -88.16605,
+   "supply_pct": 16.0,
+   "social": null
+  },
+  {
+   "id": "limitless-3",
+   "symbol": "LMTS",
+   "name": "Limitless",
+   "band": "5-50",
+   "categories": [
+    "prediction-markets"
+   ],
+   "cap": 9836236,
+   "price": 0.074754,
+   "volume24h": 1254549,
+   "vol_to_cap": 0.1275,
+   "chg24h": 3.17451,
+   "chg7d": -16.1,
+   "chg30d": 10.7,
+   "ath_chg": -89.23358,
+   "supply_pct": 13.2,
+   "social": null
+  },
+  {
+   "id": "forta",
+   "symbol": "FORT",
+   "name": "Forta",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9692674,
+   "price": 0.01493376,
+   "volume24h": 164354,
+   "vol_to_cap": 0.017,
+   "chg24h": 2.47244,
+   "chg7d": -3.4,
+   "chg30d": 16.4,
+   "ath_chg": -98.45189,
+   "supply_pct": 64.8,
+   "social": null
+  },
+  {
+   "id": "zkpass",
+   "symbol": "ZKP",
+   "name": "zkPass",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 9675782,
+   "price": 0.04797434,
+   "volume24h": 12324009,
+   "vol_to_cap": 1.2737,
+   "chg24h": -1.99749,
+   "chg7d": -20.6,
+   "chg30d": 8.7,
+   "ath_chg": -79.39776,
+   "supply_pct": 20.2,
+   "social": null
+  },
+  {
+   "id": "newton-protocol",
+   "symbol": "NEWT",
+   "name": "Newton Protocol",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9657202,
+   "price": 0.04491707,
+   "volume24h": 1485833,
+   "vol_to_cap": 0.1539,
+   "chg24h": 2.06855,
+   "chg7d": 4.8,
+   "chg30d": 13.2,
+   "ath_chg": -94.52599,
+   "supply_pct": 21.5,
+   "social": null
+  },
+  {
+   "id": "eurocoinpay",
+   "symbol": "ECTE",
+   "name": "EurocoinToken",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 9637825,
+   "price": 0.096378,
+   "volume24h": 100085,
+   "vol_to_cap": 0.0104,
+   "chg24h": 2.64315,
+   "chg7d": 5.6,
+   "chg30d": 11.9,
+   "ath_chg": -90.60747,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "meta-xstock",
+   "symbol": "METAX",
+   "name": "Meta xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 9479271,
+   "price": 616.54,
+   "volume24h": 1215314,
+   "vol_to_cap": 0.1282,
+   "chg24h": 0.11123,
+   "chg7d": 6.2,
+   "chg30d": 4.6,
+   "ath_chg": -54.64297,
+   "supply_pct": 7.1,
+   "social": null
+  },
+  {
+   "id": "theoriq",
+   "symbol": "THQ",
+   "name": "Theoriq",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9435508,
+   "price": 0.01135488,
+   "volume24h": 130507,
+   "vol_to_cap": 0.0138,
+   "chg24h": 1.03806,
+   "chg7d": -1.3,
+   "chg30d": 17.8,
+   "ath_chg": -93.13582,
+   "supply_pct": 83.1,
+   "social": null
+  },
+  {
+   "id": "solidus-aitech",
+   "symbol": "ACN",
+   "name": "AITECH Cloud Network",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9414385,
+   "price": 0.0052751,
+   "volume24h": 1235506,
+   "vol_to_cap": 0.1312,
+   "chg24h": -0.98728,
+   "chg7d": -3.8,
+   "chg30d": -0.1,
+   "ath_chg": -98.93204,
+   "supply_pct": 89.9,
+   "social": null
+  },
+  {
+   "id": "ishares-russell-1000-growth-etf-ondo-tokenized-etf",
+   "symbol": "IWFON",
+   "name": "iShares Russell 1000 Growth ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 9389291,
+   "price": 494.69,
+   "volume24h": 149252,
+   "vol_to_cap": 0.0159,
+   "chg24h": 0.23545,
+   "chg7d": 0.1,
+   "chg30d": -1.0,
+   "ath_chg": -8.04424,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "marvell-technology-bstocks-tokenized-stock",
+   "symbol": "MRVLB",
+   "name": "Marvell Technology (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 9350123,
+   "price": 222.01,
+   "volume24h": 620277,
+   "vol_to_cap": 0.0663,
+   "chg24h": 0.39033,
+   "chg7d": 2.0,
+   "chg30d": 2.6,
+   "ath_chg": -14.71316,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "cookie",
+   "symbol": "COOKIE",
+   "name": "Cookie DAO",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9323496,
+   "price": 0.01162506,
+   "volume24h": 1866086,
+   "vol_to_cap": 0.2001,
+   "chg24h": -2.77323,
+   "chg7d": -3.8,
+   "chg30d": 25.0,
+   "ath_chg": -98.45734,
+   "supply_pct": 80.3,
+   "social": null
+  },
+  {
+   "id": "adex",
+   "symbol": "ADX",
+   "name": "heyAura",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 9196512,
+   "price": 0.062155,
+   "volume24h": 1983625,
+   "vol_to_cap": 0.2157,
+   "chg24h": -1.41625,
+   "chg7d": -1.5,
+   "chg30d": 3.7,
+   "ath_chg": -98.21952,
+   "supply_pct": 98.6,
+   "social": null
+  },
+  {
+   "id": "hivemapper",
+   "symbol": "HONEY",
+   "name": "Hivemapper",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 9105168,
+   "price": 0.00139262,
+   "volume24h": 129663,
+   "vol_to_cap": 0.0142,
+   "chg24h": 5.4313,
+   "chg7d": -5.2,
+   "chg30d": 125.9,
+   "ath_chg": -99.6299,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "coinbase-ondo-tokenized-stock",
+   "symbol": "COINON",
+   "name": "Coinbase (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 9090829,
+   "price": 186.23,
+   "volume24h": 1251798,
+   "vol_to_cap": 0.1377,
+   "chg24h": 0.81101,
+   "chg7d": 3.5,
+   "chg30d": 26.3,
+   "ath_chg": -53.5371,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "drift-protocol",
+   "symbol": "DRIFT",
+   "name": "Drift Protocol",
+   "band": "5-50",
+   "categories": [
+    "prediction-markets"
+   ],
+   "cap": 9039005,
+   "price": 0.01263782,
+   "volume24h": 1623015,
+   "vol_to_cap": 0.1796,
+   "chg24h": -1.60355,
+   "chg7d": -1.4,
+   "chg30d": -0.8,
+   "ath_chg": -99.51473,
+   "supply_pct": 71.5,
+   "social": null
+  },
+  {
+   "id": "uranium",
+   "symbol": "XU3O8",
+   "name": "Uranium",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 9005600,
+   "price": 5.63,
+   "volume24h": 469045,
+   "vol_to_cap": 0.0521,
+   "chg24h": -0.25919,
+   "chg7d": 0.9,
+   "chg30d": 3.8,
+   "ath_chg": -19.12494,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spacex-robinhood-tokenized-stock",
+   "symbol": "SPCX",
+   "name": "SpaceX • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8877760,
+   "price": 151.01,
+   "volume24h": 28922073,
+   "vol_to_cap": 3.2578,
+   "chg24h": 0.89556,
+   "chg7d": 7.3,
+   "chg30d": 29.6,
+   "ath_chg": -11.86529,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sturdy-subnet",
+   "symbol": "SN10",
+   "name": "Pareton",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8827382,
+   "price": 1.73,
+   "volume24h": 234363,
+   "vol_to_cap": 0.0265,
+   "chg24h": 3.00638,
+   "chg7d": 0.0,
+   "chg30d": 36.8,
+   "ath_chg": -81.35599,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "lingo",
+   "symbol": "LINGO",
+   "name": "Lingo",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8802503,
+   "price": 0.0148585,
+   "volume24h": 148034,
+   "vol_to_cap": 0.0168,
+   "chg24h": -2.11416,
+   "chg7d": 12.0,
+   "chg30d": 63.6,
+   "ath_chg": -97.83715,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "tokenfi",
+   "symbol": "TOKEN",
+   "name": "TokenFi",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8800250,
+   "price": 0.0022165,
+   "volume24h": 1184849,
+   "vol_to_cap": 0.1346,
+   "chg24h": -0.92732,
+   "chg7d": -3.0,
+   "chg30d": 19.9,
+   "ath_chg": -99.08887,
+   "supply_pct": 39.7,
+   "social": null
+  },
+  {
+   "id": "w-ai-parked",
+   "symbol": "SN39",
+   "name": "basilica",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8762871,
+   "price": 1.95,
+   "volume24h": 653617,
+   "vol_to_cap": 0.0746,
+   "chg24h": 9.0633,
+   "chg7d": -7.8,
+   "chg30d": 47.6,
+   "ath_chg": -87.58655,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "flamewire",
+   "symbol": "SN97",
+   "name": "FlameWire",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8735358,
+   "price": 5.6,
+   "volume24h": 251555,
+   "vol_to_cap": 0.0288,
+   "chg24h": 2.34195,
+   "chg7d": 1.8,
+   "chg30d": 9.9,
+   "ath_chg": -74.9227,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "aia",
+   "symbol": "AIA",
+   "name": "DeAgentAI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8718818,
+   "price": 0.087628,
+   "volume24h": 3447968,
+   "vol_to_cap": 0.3955,
+   "chg24h": 10.64403,
+   "chg7d": 9.5,
+   "chg30d": 32.1,
+   "ath_chg": -99.69184,
+   "supply_pct": 10.0,
+   "social": null
+  },
+  {
+   "id": "dimitra",
+   "symbol": "DMTR",
+   "name": "Dimitra",
+   "band": "5-50",
+   "categories": [
+    "depin",
+    "real-world-assets-rwa"
+   ],
+   "cap": 8686699,
+   "price": 0.01122519,
+   "volume24h": 179590,
+   "vol_to_cap": 0.0207,
+   "chg24h": -0.06076,
+   "chg7d": 16.9,
+   "chg30d": 113.8,
+   "ath_chg": -99.81129,
+   "supply_pct": 79.7,
+   "social": null
+  },
+  {
+   "id": "apple-ondo-tokenized-stock",
+   "symbol": "AAPLON",
+   "name": "Apple (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8567244,
+   "price": 322.75,
+   "volume24h": 1371701,
+   "vol_to_cap": 0.1601,
+   "chg24h": 0.33809,
+   "chg7d": 0.3,
+   "chg30d": 3.4,
+   "ath_chg": -6.75401,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nebius-bstocks-tokenized-stock",
+   "symbol": "NBISB",
+   "name": "Nebius (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8496860,
+   "price": 222.78,
+   "volume24h": 1176519,
+   "vol_to_cap": 0.1385,
+   "chg24h": -0.02961,
+   "chg7d": 6.2,
+   "chg30d": 13.1,
+   "ath_chg": -21.76975,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf",
+   "symbol": "SGOVON",
+   "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8454573,
+   "price": 102.26,
+   "volume24h": 833906,
+   "vol_to_cap": 0.0986,
+   "chg24h": 0.02321,
+   "chg7d": 0.2,
+   "chg30d": 1.0,
+   "ath_chg": -2.01249,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "limewire-token",
+   "symbol": "LMWR",
+   "name": "LimeWire",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 8449528,
+   "price": 0.01335794,
+   "volume24h": 362407,
+   "vol_to_cap": 0.0429,
+   "chg24h": -0.03023,
+   "chg7d": -4.4,
+   "chg30d": 11.5,
+   "ath_chg": -99.25262,
+   "supply_pct": 99.9,
+   "social": null
+  },
+  {
+   "id": "microsoft-ondo-tokenized-stock",
+   "symbol": "MSFTON",
+   "name": "Microsoft (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8447300,
+   "price": 505.03,
+   "volume24h": 1246230,
+   "vol_to_cap": 0.1475,
+   "chg24h": 0.4079,
+   "chg7d": -2.5,
+   "chg30d": 1.1,
+   "ath_chg": -8.373,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "characterx",
+   "symbol": "CAI",
+   "name": "CharacterX",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8416204,
+   "price": 0.084162,
+   "volume24h": 288649,
+   "vol_to_cap": 0.0343,
+   "chg24h": 2.15281,
+   "chg7d": 138.3,
+   "chg30d": 572.1,
+   "ath_chg": -77.7411,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "amd-ondo-tokenized-stock",
+   "symbol": "AMDON",
+   "name": "AMD (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 8354152,
+   "price": 475.48,
+   "volume24h": 1484516,
+   "vol_to_cap": 0.1777,
+   "chg24h": 0.16374,
+   "chg7d": 1.4,
+   "chg30d": -3.3,
+   "ath_chg": -18.51327,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ava-ai",
+   "symbol": "AVA",
+   "name": "Ava AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8323728,
+   "price": 0.00833234,
+   "volume24h": 2059616,
+   "vol_to_cap": 0.2474,
+   "chg24h": -2.78526,
+   "chg7d": -5.5,
+   "chg30d": 1.2,
+   "ath_chg": -97.48874,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "rss3",
+   "symbol": "RSS3",
+   "name": "RSS3",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 8189036,
+   "price": 0.0053861,
+   "volume24h": 560392,
+   "vol_to_cap": 0.0684,
+   "chg24h": 15.51717,
+   "chg7d": -10.2,
+   "chg30d": 14.1,
+   "ath_chg": -99.2164,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "orchid-protocol",
+   "symbol": "OXT",
+   "name": "Orchid Protocol",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 8083425,
+   "price": 0.0081052,
+   "volume24h": 1530007,
+   "vol_to_cap": 0.1893,
+   "chg24h": 2.25167,
+   "chg7d": -1.0,
+   "chg30d": -21.1,
+   "ath_chg": -99.20983,
+   "supply_pct": 99.7,
+   "social": null
+  },
+  {
+   "id": "amazon-xstock",
+   "symbol": "AMZNX",
+   "name": "Amazon xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 7964633,
+   "price": 259.32,
+   "volume24h": 1878970,
+   "vol_to_cap": 0.2359,
+   "chg24h": 0.00314,
+   "chg7d": -2.6,
+   "chg30d": -5.0,
+   "ath_chg": -76.00485,
+   "supply_pct": 6.1,
+   "social": null
+  },
+  {
+   "id": "swarms",
+   "symbol": "SWARMS",
+   "name": "Swarms",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7873714,
+   "price": 0.00787102,
+   "volume24h": 3134902,
+   "vol_to_cap": 0.3981,
+   "chg24h": -0.2745,
+   "chg7d": -6.5,
+   "chg30d": 4.0,
+   "ath_chg": -98.70002,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "assemble-protocol",
+   "symbol": "ASM",
+   "name": "Assemble AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7816631,
+   "price": 0.0051916,
+   "volume24h": 162645,
+   "vol_to_cap": 0.0208,
+   "chg24h": 0.38489,
+   "chg7d": -3.5,
+   "chg30d": 20.6,
+   "ath_chg": -99.19528,
+   "supply_pct": 50.2,
+   "social": null
+  },
+  {
+   "id": "ishares-msci-emerging-markets-etf-ondo-tokenized-etf",
+   "symbol": "EEMON",
+   "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 7807452,
+   "price": 70.08,
+   "volume24h": 481007,
+   "vol_to_cap": 0.0616,
+   "chg24h": 0.2324,
+   "chg7d": 3.2,
+   "chg30d": 5.1,
+   "ath_chg": -9.36039,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "autonolas",
+   "symbol": "OLAS",
+   "name": "Autonolas",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7728137,
+   "price": 0.0264459,
+   "volume24h": 130632,
+   "vol_to_cap": 0.0169,
+   "chg24h": 4.02099,
+   "chg7d": 5.6,
+   "chg30d": 2.1,
+   "ath_chg": -99.68775,
+   "supply_pct": 61.7,
+   "social": null
+  },
+  {
+   "id": "sharex-2",
+   "symbol": "SHARE",
+   "name": "ShareX",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 7671770,
+   "price": 0.427381,
+   "volume24h": 900575,
+   "vol_to_cap": 0.1174,
+   "chg24h": -7.09937,
+   "chg7d": 33.5,
+   "chg30d": 24.5,
+   "ath_chg": -39.37882,
+   "supply_pct": 17.9,
+   "social": null
+  },
+  {
+   "id": "oraichain-token",
+   "symbol": "ORAI",
+   "name": "Oraichain",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "oracle"
+   ],
+   "cap": 7561807,
+   "price": 0.389062,
+   "volume24h": 205569,
+   "vol_to_cap": 0.0272,
+   "chg24h": -9.89528,
+   "chg7d": -3.7,
+   "chg30d": 44.0,
+   "ath_chg": -99.63214,
+   "supply_pct": 98.3,
+   "social": null
+  },
+  {
+   "id": "marlin",
+   "symbol": "POND",
+   "name": "Marlin",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7547861,
+   "price": 0.00091737,
+   "volume24h": 1970084,
+   "vol_to_cap": 0.261,
+   "chg24h": -3.8701,
+   "chg7d": 18.6,
+   "chg30d": 25.6,
+   "ath_chg": -99.7163,
+   "supply_pct": 82.3,
+   "social": null
+  },
+  {
+   "id": "everlyn",
+   "symbol": "LYN",
+   "name": "Everlyn",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7460892,
+   "price": 0.03569698,
+   "volume24h": 292988,
+   "vol_to_cap": 0.0393,
+   "chg24h": -1.05066,
+   "chg7d": 0.5,
+   "chg30d": 0.4,
+   "ath_chg": -94.10278,
+   "supply_pct": 20.9,
+   "social": null
+  },
+  {
+   "id": "amc-entertainment-holdings-inc-robinhood-token",
+   "symbol": "AMC",
+   "name": "AMC Entertainment Holdings, Inc. • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 7381876,
+   "price": 2.55,
+   "volume24h": 21625141,
+   "vol_to_cap": 2.9295,
+   "chg24h": -3.89391,
+   "chg7d": -11.0,
+   "chg30d": null,
+   "ath_chg": -98.47226,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "mcoin1",
+   "symbol": "MCOIN",
+   "name": "MCOIN",
+   "band": "5-50",
+   "categories": [
+    "payment-solutions"
+   ],
+   "cap": 7260422,
+   "price": 0.04101933,
+   "volume24h": 214990,
+   "vol_to_cap": 0.0296,
+   "chg24h": -3.95147,
+   "chg7d": -20.3,
+   "chg30d": 2.9,
+   "ath_chg": -98.50994,
+   "supply_pct": 35.4,
+   "social": null
+  },
+  {
+   "id": "anthropic-prestocks-2",
+   "symbol": "ANTHROPIC",
+   "name": "Anthropic PreStocks",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 7070440,
+   "price": 957.64,
+   "volume24h": 19888279,
+   "vol_to_cap": 2.8129,
+   "chg24h": 9.08335,
+   "chg7d": 7.5,
+   "chg30d": 13.6,
+   "ath_chg": -32.02705,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "natix-network",
+   "symbol": "NATIX",
+   "name": "NATIX Network",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 7054399,
+   "price": 0.00011117,
+   "volume24h": 143319,
+   "vol_to_cap": 0.0203,
+   "chg24h": 6.71702,
+   "chg7d": -7.8,
+   "chg30d": 50.4,
+   "ath_chg": -94.37101,
+   "supply_pct": 63.9,
+   "social": null
+  },
+  {
+   "id": "ai-factory",
+   "symbol": "SN80",
+   "name": "AI Factory",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 7021232,
+   "price": 3.64,
+   "volume24h": 449988,
+   "vol_to_cap": 0.0641,
+   "chg24h": 2.26814,
+   "chg7d": 16.8,
+   "chg30d": 76.3,
+   "ath_chg": -19.78909,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "microsoft-xstock",
+   "symbol": "MSFTX",
+   "name": "Microsoft xStock",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6986384,
+   "price": 502.96,
+   "volume24h": 281286,
+   "vol_to_cap": 0.0403,
+   "chg24h": -0.27139,
+   "chg7d": -3.0,
+   "chg30d": 1.0,
+   "ath_chg": -34.47876,
+   "supply_pct": 4.8,
+   "social": null
+  },
+  {
+   "id": "redbelly-network-token",
+   "symbol": "RBNT",
+   "name": "Redbelly Network",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6931959,
+   "price": 0.0025452,
+   "volume24h": 122705,
+   "vol_to_cap": 0.0177,
+   "chg24h": -1.80631,
+   "chg7d": -4.2,
+   "chg30d": -21.1,
+   "ath_chg": -99.47372,
+   "supply_pct": 27.2,
+   "social": null
+  },
+  {
+   "id": "bitmine-immersion-technologies-ondo-tokenized-stocks",
+   "symbol": "BMNRON",
+   "name": "BitMine Immersion Technologies (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6898255,
+   "price": 25.34,
+   "volume24h": 1210086,
+   "vol_to_cap": 0.1754,
+   "chg24h": 1.31361,
+   "chg7d": 5.4,
+   "chg30d": 39.7,
+   "ath_chg": -25.8287,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "robinhood-bstocks-tokenized-stock",
+   "symbol": "HOODB",
+   "name": "Robinhood (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6872903,
+   "price": 125.7,
+   "volume24h": 2528690,
+   "vol_to_cap": 0.3679,
+   "chg24h": 3.2681,
+   "chg7d": 17.5,
+   "chg30d": 37.4,
+   "ath_chg": -1.62599,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "dent",
+   "symbol": "DENT",
+   "name": "Dent",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 6787157,
+   "price": 6.768e-05,
+   "volume24h": 222865,
+   "vol_to_cap": 0.0328,
+   "chg24h": -2.69621,
+   "chg7d": -11.7,
+   "chg30d": 147.0,
+   "ath_chg": -99.93273,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "sandisk-ondo-tokenized",
+   "symbol": "SNDKON",
+   "name": "SanDisk (Ondo Tokenized)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6778967,
+   "price": 1764.88,
+   "volume24h": 3363163,
+   "vol_to_cap": 0.4961,
+   "chg24h": 0.65102,
+   "chg7d": 18.9,
+   "chg30d": 37.0,
+   "ath_chg": -25.55893,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "spacex-backpack-securities",
+   "symbol": "SPCX",
+   "name": "SpaceX (Backpack Securities)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6717871,
+   "price": 150.55,
+   "volume24h": 417278,
+   "vol_to_cap": 0.0621,
+   "chg24h": 0.91583,
+   "chg7d": 7.1,
+   "chg30d": 29.2,
+   "ath_chg": -32.75596,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "mansory-token",
+   "symbol": "MNSRY",
+   "name": "Mansory Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6689624,
+   "price": 0.00743441,
+   "volume24h": 176377,
+   "vol_to_cap": 0.0264,
+   "chg24h": 1.41411,
+   "chg7d": 0.0,
+   "chg30d": 11.1,
+   "ath_chg": -91.23337,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "apple-bstocks-tokenized-stock",
+   "symbol": "AAPLB",
+   "name": "Apple (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6611447,
+   "price": 321.48,
+   "volume24h": 2087280,
+   "vol_to_cap": 0.3157,
+   "chg24h": 0.18737,
+   "chg7d": 0.2,
+   "chg30d": 3.2,
+   "ath_chg": -2.77821,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "supra",
+   "symbol": "SUPRA",
+   "name": "Supra",
+   "band": "5-50",
+   "categories": [
+    "oracle"
+   ],
+   "cap": 6580808,
+   "price": 0.00018438,
+   "volume24h": 238517,
+   "vol_to_cap": 0.0362,
+   "chg24h": -0.90742,
+   "chg7d": -8.6,
+   "chg30d": -3.4,
+   "ath_chg": -99.74629,
+   "supply_pct": 43.4,
+   "social": null
+  },
+  {
+   "id": "saga-2",
+   "symbol": "SAGA",
+   "name": "Saga",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 6480803,
+   "price": 0.01556029,
+   "volume24h": 3864556,
+   "vol_to_cap": 0.5963,
+   "chg24h": 0.93212,
+   "chg7d": -2.3,
+   "chg30d": 4.3,
+   "ath_chg": -99.79526,
+   "supply_pct": 37.7,
+   "social": null
+  },
+  {
+   "id": "spdr-gold-shares-robinhood-token",
+   "symbol": "GLD",
+   "name": "SPDR Gold Shares • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6381077,
+   "price": 410.46,
+   "volume24h": 16804314,
+   "vol_to_cap": 2.6335,
+   "chg24h": 0.46281,
+   "chg7d": -71.0,
+   "chg30d": null,
+   "ath_chg": -81.40815,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
+   "symbol": "TSMON",
+   "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6297589,
+   "price": 432.95,
+   "volume24h": 1514097,
+   "vol_to_cap": 0.2404,
+   "chg24h": 0.38695,
+   "chg7d": 1.8,
+   "chg30d": 1.9,
+   "ath_chg": -9.72846,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "myshell",
+   "symbol": "SHELL",
+   "name": "MyShell",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 6282076,
+   "price": 0.02326297,
+   "volume24h": 4138419,
+   "vol_to_cap": 0.6588,
+   "chg24h": 2.21214,
+   "chg7d": 3.5,
+   "chg30d": 23.3,
+   "ath_chg": -96.59609,
+   "supply_pct": 27.0,
+   "social": null
+  },
+  {
+   "id": "webgenieai",
+   "symbol": "SN54",
+   "name": "WebGenieAI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 6188914,
+   "price": 1.18,
+   "volume24h": 806910,
+   "vol_to_cap": 0.1304,
+   "chg24h": 6.591,
+   "chg7d": 14.6,
+   "chg30d": 15.8,
+   "ath_chg": -54.96923,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "micron-technology-backpack-securities",
+   "symbol": "MU",
+   "name": "Micron Technology (Backpack Securities)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6172895,
+   "price": 1027.06,
+   "volume24h": 768769,
+   "vol_to_cap": 0.1245,
+   "chg24h": 1.15107,
+   "chg7d": 9.8,
+   "chg30d": 15.5,
+   "ath_chg": -17.65361,
+   "supply_pct": 101.6,
+   "social": null
+  },
+  {
+   "id": "dominion-silver",
+   "symbol": "SILV",
+   "name": "Dominion Silver",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6115648,
+   "price": 66.48,
+   "volume24h": 609081,
+   "vol_to_cap": 0.0996,
+   "chg24h": 1.06861,
+   "chg7d": 0.6,
+   "chg30d": null,
+   "ath_chg": -3.28264,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "amazon-ondo-tokenized-stock",
+   "symbol": "AMZNON",
+   "name": "Amazon (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 6061785,
+   "price": 259.58,
+   "volume24h": 1288314,
+   "vol_to_cap": 0.2125,
+   "chg24h": 0.09301,
+   "chg7d": -2.6,
+   "chg30d": -5.0,
+   "ath_chg": -9.36208,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "mind-network",
+   "symbol": "FHE",
+   "name": "Mind Network",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 6051223,
+   "price": 0.024349,
+   "volume24h": 3413108,
+   "vol_to_cap": 0.564,
+   "chg24h": -2.60738,
+   "chg7d": 13.7,
+   "chg30d": -3.6,
+   "ath_chg": -91.80007,
+   "supply_pct": 24.9,
+   "social": null
+  },
+  {
+   "id": "robinhood-markets-ondo-tokenized-stock",
+   "symbol": "HOODON",
+   "name": "Robinhood Markets (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5967758,
+   "price": 125.48,
+   "volume24h": 1176176,
+   "vol_to_cap": 0.1971,
+   "chg24h": 3.1478,
+   "chg7d": 18.2,
+   "chg30d": 37.1,
+   "ath_chg": -18.40142,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "game-by-virtuals",
+   "symbol": "GAME",
+   "name": "GAME by Virtuals",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5961175,
+   "price": 0.00596541,
+   "volume24h": 295974,
+   "vol_to_cap": 0.0497,
+   "chg24h": -17.82399,
+   "chg7d": -27.9,
+   "chg30d": 50.3,
+   "ath_chg": -98.47728,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "gamestop-bstocks-tokenized-stock",
+   "symbol": "GMEB",
+   "name": "GameStop (bStocks Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5898995,
+   "price": 19.3,
+   "volume24h": 10424084,
+   "vol_to_cap": 1.7671,
+   "chg24h": 1.37071,
+   "chg7d": 6.2,
+   "chg30d": null,
+   "ath_chg": -3.39456,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "reppo",
+   "symbol": "REPPO",
+   "name": "REPPO",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5883019,
+   "price": 0.01408227,
+   "volume24h": 230183,
+   "vol_to_cap": 0.0391,
+   "chg24h": -4.75148,
+   "chg7d": -3.9,
+   "chg30d": -1.1,
+   "ath_chg": -72.52511,
+   "supply_pct": 41.8,
+   "social": null
+  },
+  {
+   "id": "hodl-etf",
+   "symbol": "SN118",
+   "name": "Ditto",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5852889,
+   "price": 2.23,
+   "volume24h": 184228,
+   "vol_to_cap": 0.0315,
+   "chg24h": 3.01994,
+   "chg7d": -11.0,
+   "chg30d": 46.2,
+   "ath_chg": -57.5379,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "lcx",
+   "symbol": "LCX",
+   "name": "LCX",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5848562,
+   "price": 0.02390441,
+   "volume24h": 229085,
+   "vol_to_cap": 0.0392,
+   "chg24h": 0.00603,
+   "chg7d": -2.8,
+   "chg30d": 50.7,
+   "ath_chg": -95.76137,
+   "supply_pct": 99.8,
+   "social": null
+  },
+  {
+   "id": "paal-ai",
+   "symbol": "PAAL",
+   "name": "PAAL AI",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5829497,
+   "price": 0.00583615,
+   "volume24h": 123747,
+   "vol_to_cap": 0.0212,
+   "chg24h": -4.34685,
+   "chg7d": -4.1,
+   "chg30d": 3.8,
+   "ath_chg": -99.32122,
+   "supply_pct": 99.9,
+   "social": null
+  },
+  {
+   "id": "altura",
+   "symbol": "ALU",
+   "name": "Altura",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5796254,
+   "price": 0.00592581,
+   "volume24h": 2722558,
+   "vol_to_cap": 0.4697,
+   "chg24h": 2.38504,
+   "chg7d": 13.8,
+   "chg30d": 105.5,
+   "ath_chg": -98.71916,
+   "supply_pct": 74.2,
+   "social": null
+  },
+  {
+   "id": "pinlink",
+   "symbol": "PIN",
+   "name": "PinLink",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin",
+    "real-world-assets-rwa"
+   ],
+   "cap": 5744426,
+   "price": 0.057444,
+   "volume24h": 252959,
+   "vol_to_cap": 0.044,
+   "chg24h": 0.49182,
+   "chg7d": 31.5,
+   "chg30d": 174.8,
+   "ath_chg": -98.65805,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "gamercoin",
+   "symbol": "GHX",
+   "name": "GamerCoin",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ],
+   "cap": 5728912,
+   "price": 0.0081518,
+   "volume24h": 118588,
+   "vol_to_cap": 0.0207,
+   "chg24h": -1.84741,
+   "chg7d": 8.7,
+   "chg30d": 62.1,
+   "ath_chg": -99.11072,
+   "supply_pct": 87.0,
+   "social": null
+  },
+  {
+   "id": "apple-robinhood-tokenized-stock",
+   "symbol": "AAPL",
+   "name": "Apple • Robinhood Token",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5677394,
+   "price": 322.0,
+   "volume24h": 9557496,
+   "vol_to_cap": 1.6834,
+   "chg24h": 0.10905,
+   "chg7d": 0.3,
+   "chg30d": 3.1,
+   "ath_chg": -6.38028,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bitsec-ai",
+   "symbol": "SN60",
+   "name": "Bitsec.ai",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5623536,
+   "price": 1.13,
+   "volume24h": 190166,
+   "vol_to_cap": 0.0338,
+   "chg24h": 2.12183,
+   "chg7d": -7.1,
+   "chg30d": 27.7,
+   "ath_chg": -65.77557,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "ishares-russell-2000-value-etf-ondo-tokenized-etf",
+   "symbol": "IWNON",
+   "name": "iShares Russell 2000 Value ETF (Ondo Tokenized ETF)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5615865,
+   "price": 227.19,
+   "volume24h": 152841,
+   "vol_to_cap": 0.0272,
+   "chg24h": 0.30374,
+   "chg7d": 0.1,
+   "chg30d": 0.2,
+   "ath_chg": -2.98729,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "wayfinder",
+   "symbol": "PROMPT",
+   "name": "Wayfinder",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5515507,
+   "price": 0.02462386,
+   "volume24h": 4588152,
+   "vol_to_cap": 0.8319,
+   "chg24h": 0.53011,
+   "chg7d": 0.1,
+   "chg30d": 19.7,
+   "ath_chg": -95.94428,
+   "supply_pct": 22.4,
+   "social": null
+  },
+  {
+   "id": "oracle-ondo-tokenized-stock",
+   "symbol": "ORCLON",
+   "name": "Oracle (Ondo Tokenized Stock)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5483125,
+   "price": 161.71,
+   "volume24h": 1249264,
+   "vol_to_cap": 0.2278,
+   "chg24h": 0.76423,
+   "chg7d": 6.3,
+   "chg30d": 11.9,
+   "ath_chg": -53.14025,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "kora",
+   "symbol": "SN71",
+   "name": "Leadpoet",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5478469,
+   "price": 1.14,
+   "volume24h": 144661,
+   "vol_to_cap": 0.0264,
+   "chg24h": 4.2775,
+   "chg7d": -7.1,
+   "chg30d": 40.8,
+   "ath_chg": -81.34042,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "level-114",
+   "symbol": "SN114",
+   "name": "Level 114",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5451720,
+   "price": 3.19,
+   "volume24h": 171119,
+   "vol_to_cap": 0.0314,
+   "chg24h": 3.70614,
+   "chg7d": 7.3,
+   "chg30d": 36.1,
+   "ath_chg": -28.401,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "proshares-ultrapro-qqq-ondo-tokenized",
+   "symbol": "TQQQON",
+   "name": "ProShares UltraPro QQQ (Ondo Tokenized)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5390779,
+   "price": 72.49,
+   "volume24h": 787550,
+   "vol_to_cap": 0.1461,
+   "chg24h": 0.05996,
+   "chg7d": 1.0,
+   "chg30d": 0.0,
+   "ath_chg": -18.52679,
+   "supply_pct": 99.9,
+   "social": null
+  },
+  {
+   "id": "nebius-group-ondo-tokenized",
+   "symbol": "NBISON",
+   "name": "Nebius Group (Ondo Tokenized)",
+   "band": "5-50",
+   "categories": [
+    "real-world-assets-rwa"
+   ],
+   "cap": 5368558,
+   "price": 224.19,
+   "volume24h": 1621612,
+   "vol_to_cap": 0.3021,
+   "chg24h": -0.29193,
+   "chg7d": 7.2,
+   "chg30d": 13.6,
+   "ath_chg": -24.8999,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "nuance-2",
+   "symbol": "SN23",
+   "name": "Nuance",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5267331,
+   "price": 1.093,
+   "volume24h": 258170,
+   "vol_to_cap": 0.049,
+   "chg24h": 0.0304,
+   "chg7d": 9.4,
+   "chg30d": 21.9,
+   "ath_chg": -45.02379,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "minotari",
+   "symbol": "XTM",
+   "name": "MinoTari (Tari)",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 5243194,
+   "price": 0.00081525,
+   "volume24h": 185563,
+   "vol_to_cap": 0.0354,
+   "chg24h": 0.64991,
+   "chg7d": 70.3,
+   "chg30d": 98.8,
+   "ath_chg": -98.95159,
+   "supply_pct": 100.0,
+   "social": null
+  },
+  {
+   "id": "bluzelle",
+   "symbol": "BLZ",
+   "name": "Bluzelle",
+   "band": "5-50",
+   "categories": [
+    "depin"
+   ],
+   "cap": 5199966,
+   "price": 0.01076277,
+   "volume24h": 641313,
+   "vol_to_cap": 0.1233,
+   "chg24h": -14.33628,
+   "chg7d": 12.3,
+   "chg30d": 71.7,
+   "ath_chg": -98.6256,
+   "supply_pct": 96.6,
+   "social": null
+  },
+  {
+   "id": "messier",
+   "symbol": "M87",
+   "name": "MESSIER",
+   "band": "5-50",
+   "categories": [
+    "artificial-intelligence"
+   ],
+   "cap": 5001729,
+   "price": 5.65e-06,
+   "volume24h": 211451,
+   "vol_to_cap": 0.0423,
+   "chg24h": -0.22758,
+   "chg7d": -0.3,
+   "chg30d": 30.8,
+   "ath_chg": -96.12441,
+   "supply_pct": 100.0,
+   "social": null
+  }
+ ]
+}
