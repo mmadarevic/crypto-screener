@@ -1,29 +1,295 @@
 {
- "generated": "2026-09-06T13:20:56+00:00",
+ "generated": "2026-09-07T06:24:53+00:00",
  "summary": {
-  "neu": 1,
-  "raus": 0,
-  "cap": 0,
-  "band": 0,
+  "neu": 18,
+  "raus": 12,
+  "cap": 4,
+  "band": 2,
   "social": 0,
   "gebuehren": 0
  },
  "neu": [
   {
-   "symbol": "CCD",
-   "name": "Concordium",
-   "cap": 49620942,
-   "band": "5-50",
-   "jahr": 2024,
+   "symbol": "KAU",
+   "name": "Kinesis Gold",
+   "cap": 339476591,
+   "band": "150-500",
+   "jahr": 2023,
    "categories": [
-    "artificial-intelligence",
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "STRCX",
+   "name": "Strategy PP Variable xStock",
+   "cap": 150181499,
+   "band": "150-500",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "BOLD",
+   "name": "BOLD",
+   "cap": 34012336,
+   "band": "5-50",
+   "jahr": 2025,
+   "categories": [
+    "decentralized-finance-defi"
+   ]
+  },
+  {
+   "symbol": "MVL",
+   "name": "MVL",
+   "cap": 26134561,
+   "band": "5-50",
+   "jahr": 2020,
+   "categories": [
+    "depin"
+   ]
+  },
+  {
+   "symbol": "FAI",
+   "name": "Freysa AI",
+   "cap": 19725052,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN5",
+   "name": "OpenKaito",
+   "cap": 14947011,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN17",
+   "name": "404—GEN",
+   "cap": 14611373,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "INTCX",
+   "name": "Intel xStock",
+   "cap": 13702156,
+   "band": "5-50",
+   "jahr": 2025,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "BONE",
+   "name": "Bone ShibaSwap",
+   "cap": 12100843,
+   "band": "5-50",
+   "jahr": 2021,
+   "categories": [
+    "decentralized-finance-defi"
+   ]
+  },
+  {
+   "symbol": "USDPT",
+   "name": "USDPT | Western Union",
+   "cap": 11844956,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
     "payment-solutions"
+   ]
+  },
+  {
+   "symbol": "BKN",
+   "name": "Brickken",
+   "cap": 10658263,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "IAG",
+   "name": "Iagon",
+   "cap": 10417720,
+   "band": "5-50",
+   "jahr": 2022,
+   "categories": [
+    "depin"
+   ]
+  },
+  {
+   "symbol": "SN110",
+   "name": "Green Compute",
+   "cap": 9645962,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN81",
+   "name": "grail",
+   "cap": 8180116,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN85",
+   "name": "Vidaio",
+   "cap": 6437114,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN24",
+   "name": "OMEGA Labs",
+   "cap": 5892647,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "XGZ",
+   "name": "GoldZip Gold",
+   "cap": 5510637,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "NKN",
+   "name": "NKN",
+   "cap": 5298519,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "depin"
    ]
   }
  ],
- "raus": [],
- "cap": [],
- "band": [],
+ "raus": [
+  {
+   "symbol": "SYRUPUSDG",
+   "name": "syrupUSDG",
+   "cap": 141103411
+  },
+  {
+   "symbol": "STXRP",
+   "name": "Firelight Staked XRP",
+   "cap": 74952995
+  },
+  {
+   "symbol": "FLIP",
+   "name": "Chainflip",
+   "cap": 35542088
+  },
+  {
+   "symbol": "SN9",
+   "name": "iota",
+   "cap": 34970743
+  },
+  {
+   "symbol": "SFRXUSD",
+   "name": "Frax Staked frxUSD",
+   "cap": 34541963
+  },
+  {
+   "symbol": "SWETH",
+   "name": "Swell Ethereum",
+   "cap": 31352060
+  },
+  {
+   "symbol": "SODA",
+   "name": "SODAX",
+   "cap": 20994575
+  },
+  {
+   "symbol": "HALO",
+   "name": "Halo",
+   "cap": 18774461
+  },
+  {
+   "symbol": "TMX",
+   "name": "TermMax",
+   "cap": 13408064
+  },
+  {
+   "symbol": "SFI",
+   "name": "saffron.finance",
+   "cap": 12749133
+  },
+  {
+   "symbol": "SN19",
+   "name": "Blockmachine",
+   "cap": 12424797
+  },
+  {
+   "symbol": "PRD",
+   "name": "PRDCTR",
+   "cap": 10265568
+  }
+ ],
+ "cap": [
+  {
+   "symbol": "CP",
+   "von": 39187327,
+   "nach": 28314195,
+   "pct": -27.7
+  },
+  {
+   "symbol": "NYM",
+   "von": 16416682,
+   "nach": 26787788,
+   "pct": 63.2
+  },
+  {
+   "symbol": "ORBIO",
+   "von": 12394023,
+   "nach": 17493937,
+   "pct": 41.1
+  },
+  {
+   "symbol": "XTM",
+   "von": 5259668,
+   "nach": 7198314,
+   "pct": 36.9
+  }
+ ],
+ "band": [
+  {
+   "symbol": "XYO",
+   "von": "5-50",
+   "nach": "50-150"
+  },
+  {
+   "symbol": "GWEI",
+   "von": "50-150",
+   "nach": "5-50"
+  }
+ ],
  "social": [],
  "gebuehren": []
 }
