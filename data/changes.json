@@ -1,99 +1,19 @@
 {
- "generated": "2026-09-17T06:23:23+00:00",
+ "generated": "2026-09-18T06:22:30+00:00",
  "summary": {
-  "neu": 25,
+  "neu": 30,
   "raus": 19,
-  "cap": 7,
-  "band": 8,
+  "cap": 9,
+  "band": 6,
   "social": 0,
   "gebuehren": 0
  },
  "neu": [
   {
-   "symbol": "AKE",
-   "name": "Akedo",
-   "cap": 487672753,
+   "symbol": "OSETH",
+   "name": "StakeWise Staked ETH",
+   "cap": 395409432,
    "band": "150-500",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "KAG",
-   "name": "Kinesis Silver",
-   "cap": 237119185,
-   "band": "150-500",
-   "jahr": 2024,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "SAVAX",
-   "name": "BENQI Liquid Staked AVAX",
-   "cap": 174913828,
-   "band": "150-500",
-   "jahr": 2026,
-   "categories": [
-    "liquid-staking-tokens"
-   ]
-  },
-  {
-   "symbol": "SYRUPUSDG",
-   "name": "syrupUSDG",
-   "cap": 168372436,
-   "band": "150-500",
-   "jahr": 2026,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "STAU",
-   "name": "STAU",
-   "cap": 57051656,
-   "band": "50-150",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "PMUSD",
-   "name": "Precious Metals USD",
-   "cap": 51827741,
-   "band": "50-150",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "SFRXUSD",
-   "name": "Frax Staked frxUSD",
-   "cap": 33042512,
-   "band": "5-50",
-   "jahr": 2025,
-   "categories": [
-    "liquid-staking-tokens"
-   ]
-  },
-  {
-   "symbol": "SNC",
-   "name": "Scandic Coin",
-   "cap": 22204796,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "payment-solutions"
-   ]
-  },
-  {
-   "symbol": "EBTC",
-   "name": "Ether.fi Staked BTC",
-   "cap": 21698476,
-   "band": "5-50",
    "jahr": 2026,
    "categories": [
     "decentralized-finance-defi",
@@ -101,39 +21,70 @@
    ]
   },
   {
-   "symbol": "ABT",
-   "name": "Arcblock",
-   "cap": 18925076,
-   "band": "5-50",
-   "jahr": 2020,
+   "symbol": "KAU",
+   "name": "Kinesis Gold",
+   "cap": 334634576,
+   "band": "150-500",
+   "jahr": 2023,
    "categories": [
-    "artificial-intelligence"
+    "real-world-assets-rwa"
    ]
   },
   {
-   "symbol": "RIO",
-   "name": "Realio Network Token",
-   "cap": 16623340,
-   "band": "5-50",
+   "symbol": "INF",
+   "name": "Sanctum Infinity",
+   "cap": 202062792,
+   "band": "150-500",
    "jahr": 2022,
    "categories": [
-    "real-world-assets-rwa"
+    "liquid-staking-tokens"
    ]
   },
   {
-   "symbol": "BNCB",
-   "name": "CEA Industries (bStocks Tokenized Stock)",
-   "cap": 15405064,
-   "band": "5-50",
+   "symbol": "HSOL",
+   "name": "Helius Staked SOL",
+   "cap": 99791408,
+   "band": "50-150",
    "jahr": 2026,
    "categories": [
-    "real-world-assets-rwa"
+    "liquid-staking-tokens"
    ]
   },
   {
-   "symbol": "MOR",
-   "name": "Morpheus AI",
-   "cap": 13987869,
+   "symbol": "TREAD",
+   "name": "Tread.fi",
+   "cap": 63792194,
+   "band": "50-150",
+   "jahr": 2026,
+   "categories": [
+    "decentralized-finance-defi"
+   ]
+  },
+  {
+   "symbol": "QUBIC",
+   "name": "Qubic",
+   "cap": 52603775,
+   "band": "50-150",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol",
+   "cap": 38555773,
+   "band": "5-50",
+   "jahr": 2019,
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ]
+  },
+  {
+   "symbol": "SN68",
+   "name": "NOVA",
+   "cap": 27234441,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -141,9 +92,19 @@
    ]
   },
   {
-   "symbol": "DELTA",
-   "name": "Delta",
-   "cap": 13080638,
+   "symbol": "IBITON",
+   "name": "iShares Bitcoin Trust (Ondo Tokenized)",
+   "cap": 26190436,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "EV",
+   "name": "Everything",
+   "cap": 25294671,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -151,9 +112,9 @@
    ]
   },
   {
-   "symbol": "AUTO",
-   "name": "Hastra AUTO",
-   "cap": 12509090,
+   "symbol": "DIME",
+   "name": "Paradex",
+   "cap": 23579506,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -161,49 +122,20 @@
    ]
   },
   {
-   "symbol": "ALI",
-   "name": "Artificial Liquid Intelligence",
-   "cap": 11581213,
+   "symbol": "AO",
+   "name": "ao Computer",
+   "cap": 17625888,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "SN19",
-   "name": "Blockmachine",
-   "cap": 10985129,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "SN14",
-   "name": "Cacheon",
-   "cap": 9747589,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "HOPR",
-   "name": "HOPR",
-   "cap": 7967848,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
+    "artificial-intelligence",
     "depin"
    ]
   },
   {
-   "symbol": "SKHYX",
-   "name": "SK Hynix xStock",
-   "cap": 7494379,
+   "symbol": "SNDKX",
+   "name": "Sandisk Corporation xStock",
+   "cap": 16061679,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -211,9 +143,29 @@
    ]
   },
   {
-   "symbol": "MRVLX",
-   "name": "Marvell xStock",
-   "cap": 7440790,
+   "symbol": "REI",
+   "name": "Rei",
+   "cap": 12893054,
+   "band": "5-50",
+   "jahr": 2025,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "CRED",
+   "name": "Credible Finance",
+   "cap": 12339928,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "payment-solutions"
+   ]
+  },
+  {
+   "symbol": "SGOVON",
+   "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)",
+   "cap": 9104943,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -221,19 +173,9 @@
    ]
   },
   {
-   "symbol": "HONEY",
-   "name": "Hivemapper",
-   "cap": 6773784,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "depin"
-   ]
-  },
-  {
-   "symbol": "BMNRB",
-   "name": "BitMine Immersion Technologies (bStocks Tokenized Stock)",
-   "cap": 6022924,
+   "symbol": "VEREM",
+   "name": "Verified Emeralds",
+   "cap": 7394644,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -241,9 +183,9 @@
    ]
   },
   {
-   "symbol": "SN63",
-   "name": "Quantum Innovate",
-   "cap": 5748564,
+   "symbol": "CLAW",
+   "name": "clawpump.tech",
+   "cap": 7388892,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -251,11 +193,121 @@
    ]
   },
   {
-   "symbol": "DOT",
-   "name": "Dot",
-   "cap": 5123523,
+   "symbol": "SN81",
+   "name": "grail",
+   "cap": 6799387,
    "band": "5-50",
    "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "BNC4",
+   "name": "Cea Industries",
+   "cap": 6204171,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "LCX",
+   "name": "LCX",
+   "cap": 6002777,
+   "band": "5-50",
+   "jahr": 2019,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "SN66",
+   "name": "FakeNews",
+   "cap": 5669725,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "RSNDK",
+   "name": "SanDisk rStock",
+   "cap": 5656970,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "SN50",
+   "name": "Synth",
+   "cap": 5652984,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN60",
+   "name": "Bitsec.ai",
+   "cap": 5527926,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN23",
+   "name": "Nuance",
+   "cap": 5456071,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "RAXOL",
+   "name": "RAXOL",
+   "cap": 5282011,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SCRT",
+   "name": "Secret",
+   "cap": 5238338,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "ALU",
+   "name": "Altura",
+   "cap": 5129009,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "FHE",
+   "name": "Mind Network",
+   "cap": 5032533,
+   "band": "5-50",
+   "jahr": 2025,
    "categories": [
     "artificial-intelligence"
    ]
@@ -263,183 +315,185 @@
  ],
  "raus": [
   {
-   "symbol": "INF",
-   "name": "Sanctum Infinity",
-   "cap": 185666146
+   "symbol": "CRV",
+   "name": "Curve DAO",
+   "cap": 495326255
   },
   {
-   "symbol": "HSOL",
-   "name": "Helius Staked SOL",
-   "cap": 89843549
+   "symbol": "KAG",
+   "name": "Kinesis Silver",
+   "cap": 237119185
   },
   {
-   "symbol": "OETH",
-   "name": "Origin Ether",
-   "cap": 86866214
+   "symbol": "SAVAX",
+   "name": "BENQI Liquid Staked AVAX",
+   "cap": 174913828
   },
   {
-   "symbol": "STXRP",
-   "name": "Firelight Staked XRP",
-   "cap": 67205401
+   "symbol": "SYRUPUSDG",
+   "name": "syrupUSDG",
+   "cap": 168372436
   },
   {
-   "symbol": "QUBIC",
-   "name": "Qubic",
-   "cap": 53437913
+   "symbol": "STAU",
+   "name": "STAU",
+   "cap": 57051656
   },
   {
-   "symbol": "OCEAN",
-   "name": "Ocean Protocol",
-   "cap": 37478851
+   "symbol": "PMUSD",
+   "name": "Precious Metals USD",
+   "cap": 51827741
   },
   {
-   "symbol": "FLIP",
-   "name": "Chainflip",
-   "cap": 30784062
+   "symbol": "VVS",
+   "name": "VVS Finance",
+   "cap": 42144455
   },
   {
-   "symbol": "REAL",
-   "name": "RealLink",
-   "cap": 29971604
+   "symbol": "SFRXUSD",
+   "name": "Frax Staked frxUSD",
+   "cap": 33042512
   },
   {
-   "symbol": "AUKI",
-   "name": "Auki",
-   "cap": 29354908
+   "symbol": "SN8",
+   "name": "Vanta Network",
+   "cap": 32936175
   },
   {
-   "symbol": "MVL",
-   "name": "MVL",
-   "cap": 28194971
+   "symbol": "ABT",
+   "name": "Arcblock",
+   "cap": 18925076
   },
   {
-   "symbol": "SN68",
-   "name": "NOVA",
-   "cap": 24860231
+   "symbol": "MOR",
+   "name": "Morpheus AI",
+   "cap": 13987869
   },
   {
-   "symbol": "EV",
-   "name": "Everything",
-   "cap": 24532521
+   "symbol": "AUTO",
+   "name": "Hastra AUTO",
+   "cap": 12509090
   },
   {
-   "symbol": "AO",
-   "name": "ao Computer",
-   "cap": 16942651
+   "symbol": "SN17",
+   "name": "404—GEN",
+   "cap": 11809076
   },
   {
-   "symbol": "SCRT",
-   "name": "Secret",
-   "cap": 12213625
+   "symbol": "HOPR",
+   "name": "HOPR",
+   "cap": 7967848
   },
   {
-   "symbol": "SN39",
-   "name": "basilica",
-   "cap": 7728342
+   "symbol": "SKHYX",
+   "name": "SK Hynix xStock",
+   "cap": 7494379
   },
   {
-   "symbol": "SN81",
-   "name": "grail",
-   "cap": 6328351
+   "symbol": "MRVLX",
+   "name": "Marvell xStock",
+   "cap": 7440790
   },
   {
-   "symbol": "LCX",
-   "name": "LCX",
-   "cap": 5882646
+   "symbol": "SN63",
+   "name": "Quantum Innovate",
+   "cap": 5748564
   },
   {
-   "symbol": "CLAW",
-   "name": "clawpump.tech",
-   "cap": 5491181
+   "symbol": "KORUB",
+   "name": "South Korea Bull 3X ETF (bStocks Tokenized Stock)",
+   "cap": 5609071
   },
   {
-   "symbol": "RAXOL",
-   "name": "RAXOL",
-   "cap": 5114678
+   "symbol": "DOT",
+   "name": "Dot",
+   "cap": 5123523
   }
  ],
  "cap": [
   {
-   "symbol": "DRV",
-   "von": 174617624,
-   "nach": 236447536,
-   "pct": 35.4
+   "symbol": "PRL",
+   "von": 165497185,
+   "nach": 221441035,
+   "pct": 33.8
   },
   {
-   "symbol": "BR",
-   "von": 64707036,
-   "nach": 181831329,
-   "pct": 181.0
+   "symbol": "GEOD",
+   "von": 102890508,
+   "nach": 142296805,
+   "pct": 38.3
   },
   {
-   "symbol": "CX",
-   "von": 31151903,
-   "nach": 50272263,
-   "pct": 61.4
+   "symbol": "CNPY",
+   "von": 41247518,
+   "nach": 53804600,
+   "pct": 30.4
   },
   {
-   "symbol": "BNKR",
-   "von": 19551439,
-   "nach": 26932046,
-   "pct": 37.7
+   "symbol": "ORBIO",
+   "von": 24864577,
+   "nach": 45234089,
+   "pct": 81.9
   },
   {
-   "symbol": "M87",
-   "von": 12533057,
-   "nach": 15794882,
-   "pct": 26.0
+   "symbol": "ANYONE",
+   "von": 19937300,
+   "nach": 27739391,
+   "pct": 39.1
   },
   {
-   "symbol": "LAVA",
-   "von": 7215456,
-   "nach": 9265492,
-   "pct": 28.4
+   "symbol": "BNCB",
+   "von": 15405064,
+   "nach": 19984253,
+   "pct": 29.7
   },
   {
-   "symbol": "CODEC",
-   "von": 5874596,
-   "nach": 7399946,
-   "pct": 26.0
+   "symbol": "KLED",
+   "von": 12486571,
+   "nach": 15645593,
+   "pct": 25.3
+  },
+  {
+   "symbol": "DRIFT",
+   "von": 8546612,
+   "nach": 12221014,
+   "pct": 43.0
+  },
+  {
+   "symbol": "GAIB",
+   "von": 5937421,
+   "nach": 7627216,
+   "pct": 28.5
   }
  ],
  "band": [
   {
-   "symbol": "BR",
+   "symbol": "KMNO",
+   "von": "50-150",
+   "nach": "150-500"
+  },
+  {
+   "symbol": "FRXETH",
    "von": "50-150",
    "nach": "150-500"
   },
   {
    "symbol": "TRAC",
-   "von": "50-150",
-   "nach": "150-500"
+   "von": "150-500",
+   "nach": "50-150"
   },
   {
-   "symbol": "AKT",
-   "von": "50-150",
-   "nach": "150-500"
-  },
-  {
-   "symbol": "IO",
+   "symbol": "CNPY",
    "von": "5-50",
    "nach": "50-150"
   },
   {
-   "symbol": "KTA",
+   "symbol": "BABY",
    "von": "5-50",
    "nach": "50-150"
   },
   {
-   "symbol": "CX",
-   "von": "5-50",
-   "nach": "50-150"
-  },
-  {
-   "symbol": "XVS",
-   "von": "5-50",
-   "nach": "50-150"
-  },
-  {
-   "symbol": "FT",
+   "symbol": "XDAI",
    "von": "50-150",
    "nach": "5-50"
   }
