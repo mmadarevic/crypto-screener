@@ -1,189 +1,69 @@
 {
- "generated": "2026-11-17T15:49:48+00:00",
+ "generated": "2026-11-18T15:29:38+00:00",
  "summary": {
-  "neu": 23,
-  "raus": 20,
-  "cap": 5,
-  "band": 7,
+  "neu": 20,
+  "raus": 23,
+  "cap": 4,
+  "band": 6,
   "social": 0,
   "gebuehren": 0
  },
  "neu": [
   {
-   "symbol": "HASH",
-   "name": "Provenance Blockchain",
-   "cap": 452369438,
+   "symbol": "FIL",
+   "name": "Filecoin",
+   "cap": 494399823,
    "band": "150-500",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "CCD",
-   "name": "Concordium",
-   "cap": 39072336,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence",
-    "payment-solutions"
-   ]
-  },
-  {
-   "symbol": "SDAI",
-   "name": "Savings xDAI",
-   "cap": 37017095,
-   "band": "5-50",
-   "jahr": 2023,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "MNGO",
-   "name": "Mango",
-   "cap": 32482777,
-   "band": "5-50",
-   "jahr": 2025,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "SN3",
-   "name": "τemplar",
-   "cap": 22024682,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "PREOPAI",
-   "name": "OpenAI (Republic Pre-IPO)",
-   "cap": 20990072,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "TORN",
-   "name": "Tornado Cash",
-   "cap": 18960939,
-   "band": "5-50",
-   "jahr": 2023,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "BDCA",
-   "name": "BitDCA",
-   "cap": 18522490,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "payment-solutions"
-   ]
-  },
-  {
-   "symbol": "SN68",
-   "name": "NOVA",
-   "cap": 17364140,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "TX",
-   "name": "tx",
-   "cap": 15277970,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "AGGON",
-   "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)",
-   "cap": 14250263,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "real-world-assets-rwa"
-   ]
-  },
-  {
-   "symbol": "SN34",
-   "name": "BitMind",
-   "cap": 13293969,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "STG",
-   "name": "Stargate Finance",
-   "cap": 11079258,
-   "band": "5-50",
-   "jahr": 2025,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "AWIN",
-   "name": "AlphaWin",
-   "cap": 10907582,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "artificial-intelligence"
-   ]
-  },
-  {
-   "symbol": "BASED",
-   "name": "Based",
-   "cap": 9494750,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "MYX",
-   "name": "MYX Finance",
-   "cap": 9109351,
-   "band": "5-50",
-   "jahr": 2026,
-   "categories": [
-    "decentralized-finance-defi"
-   ]
-  },
-  {
-   "symbol": "HONEY",
-   "name": "Hivemapper",
-   "cap": 8923583,
-   "band": "5-50",
    "jahr": 2026,
    "categories": [
     "depin"
    ]
   },
   {
-   "symbol": "COD",
-   "name": "CloudBank",
-   "cap": 8758718,
+   "symbol": "CDCETH",
+   "name": "Crypto.com Staked ETH",
+   "cap": 69591207,
+   "band": "50-150",
+   "jahr": 2025,
+   "categories": [
+    "liquid-staking-tokens"
+   ]
+  },
+  {
+   "symbol": "OCEAN",
+   "name": "Ocean Protocol",
+   "cap": 24348609,
+   "band": "5-50",
+   "jahr": 2019,
+   "categories": [
+    "artificial-intelligence",
+    "depin"
+   ]
+  },
+  {
+   "symbol": "BLKGRWON",
+   "name": "Ondo High Growth Powered by BlackRock",
+   "cap": 23195203,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "OPAIPON",
+   "name": "OpenAI (Ondo Private Market Note)",
+   "cap": 15794801,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "TRUE",
+   "name": "True",
+   "cap": 10361143,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -191,9 +71,9 @@
    ]
   },
   {
-   "symbol": "SENTIS",
-   "name": "SentismAI",
-   "cap": 7271225,
+   "symbol": "SN48",
+   "name": "Quantum Compute",
+   "cap": 10300828,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -201,9 +81,19 @@
    ]
   },
   {
-   "symbol": "CLAUDIA",
-   "name": "Claudia",
-   "cap": 5717058,
+   "symbol": "WET",
+   "name": "HumidiFi",
+   "cap": 9720841,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "decentralized-finance-defi"
+   ]
+  },
+  {
+   "symbol": "ALI",
+   "name": "Artificial Liquid Intelligence",
+   "cap": 9514246,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -211,9 +101,29 @@
    ]
   },
   {
-   "symbol": "SN23",
-   "name": "Nuance",
-   "cap": 5632693,
+   "symbol": "DGLD",
+   "name": "Digital Gold",
+   "cap": 9080619,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "DYNFON",
+   "name": "iShares US Equity Factor Rotation Active ETF (Ondo Tokenized)",
+   "cap": 8677392,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "SN62",
+   "name": "Ridges AI",
+   "cap": 7836757,
    "band": "5-50",
    "jahr": 2026,
    "categories": [
@@ -221,21 +131,81 @@
    ]
   },
   {
-   "symbol": "XEM",
-   "name": "NEM",
-   "cap": 5181737,
+   "symbol": "COROON",
+   "name": "iShares International Country Rotation Active ETF (Ondo Tokenized)",
+   "cap": 7594715,
    "band": "5-50",
-   "jahr": 2015,
+   "jahr": 2026,
    "categories": [
-    "payment-solutions"
+    "real-world-assets-rwa"
    ]
   },
   {
-   "symbol": "SN54",
-   "name": "WebGenieAI",
-   "cap": 5140731,
+   "symbol": "BZZ",
+   "name": "Swarm",
+   "cap": 7179414,
    "band": "5-50",
    "jahr": 2026,
+   "categories": [
+    "depin"
+   ]
+  },
+  {
+   "symbol": "SN17",
+   "name": "404—GEN",
+   "cap": 7148536,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "SN114",
+   "name": "Level 114",
+   "cap": 7059406,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "ASM",
+   "name": "Assemble AI",
+   "cap": 6702360,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "TTWO",
+   "name": "Take-Two Interactive Software (Backpack Securities)",
+   "cap": 6510577,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "real-world-assets-rwa"
+   ]
+  },
+  {
+   "symbol": "SN112",
+   "name": "THOR",
+   "cap": 5299422,
+   "band": "5-50",
+   "jahr": 2026,
+   "categories": [
+    "artificial-intelligence"
+   ]
+  },
+  {
+   "symbol": "PAAL",
+   "name": "PAAL AI",
+   "cap": 5274516,
+   "band": "5-50",
+   "jahr": 2023,
    "categories": [
     "artificial-intelligence"
    ]
@@ -243,171 +213,175 @@
  ],
  "raus": [
   {
-   "symbol": "CAKE",
-   "name": "PancakeSwap",
-   "cap": 495253077
+   "symbol": "HASH",
+   "name": "Provenance Blockchain",
+   "cap": 452369438
   },
   {
-   "symbol": "SAVAX",
-   "name": "BENQI Liquid Staked AVAX",
-   "cap": 169237901
+   "symbol": "INF",
+   "name": "Sanctum Infinity",
+   "cap": 135670223
   },
   {
-   "symbol": "YELLOW",
-   "name": "Yellow",
-   "cap": 91811219
+   "symbol": "PSOL",
+   "name": "Phantom Staked SOL",
+   "cap": 117629878
   },
   {
-   "symbol": "OETH",
-   "name": "Origin Ether",
-   "cap": 61605136
+   "symbol": "AUTO",
+   "name": "Hastra AUTO",
+   "cap": 113188014
   },
   {
-   "symbol": "SUSDX",
-   "name": "Staked Axis USD",
-   "cap": 57787171
+   "symbol": "SENA",
+   "name": "Ethena Staked ENA",
+   "cap": 109902736
   },
   {
-   "symbol": "VKHYPE",
-   "name": "Kinetiq Earn Vault",
-   "cap": 28189500
+   "symbol": "HSOL",
+   "name": "Helius Staked SOL",
+   "cap": 73490627
   },
   {
-   "symbol": "OTFY",
-   "name": "Obligate Trade Finance Yield",
-   "cap": 26465420
+   "symbol": "SDAI",
+   "name": "Savings xDAI",
+   "cap": 37017095
   },
   {
-   "symbol": "AUKI",
-   "name": "Auki",
-   "cap": 22835657
+   "symbol": "MNGO",
+   "name": "Mango",
+   "cap": 32482777
   },
   {
-   "symbol": "SWETH",
-   "name": "Swell Ethereum",
-   "cap": 19076697
+   "symbol": "VVS",
+   "name": "VVS Finance",
+   "cap": 30899973
   },
   {
-   "symbol": "AO",
-   "name": "ao Computer",
-   "cap": 16873150
+   "symbol": "SN68",
+   "name": "NOVA",
+   "cap": 17364140
   },
   {
-   "symbol": "FAI",
-   "name": "Freysa AI",
-   "cap": 13156261
+   "symbol": "TX",
+   "name": "tx",
+   "cap": 15277970
   },
   {
-   "symbol": "TBK",
-   "name": "TronBank",
-   "cap": 11314105
+   "symbol": "WMTX",
+   "name": "World Mobile Token",
+   "cap": 13718804
   },
   {
-   "symbol": "DEFI.SSI",
-   "name": "DEFI.ssi",
-   "cap": 10050763
+   "symbol": "EBTC",
+   "name": "Ether.fi Staked BTC",
+   "cap": 13359707
   },
   {
-   "symbol": "SN48",
-   "name": "Quantum Compute",
-   "cap": 9818965
+   "symbol": "SN34",
+   "name": "BitMind",
+   "cap": 13293969
   },
   {
-   "symbol": "SOXSB",
-   "name": "Direxion Semiconductor Bear 3X ETF (bStocks Tokenized ETF)",
-   "cap": 7874512
+   "symbol": "SN93",
+   "name": "Bitcast",
+   "cap": 12428750
   },
   {
-   "symbol": "ESIM",
-   "name": "Depinsim",
-   "cap": 7155126
+   "symbol": "TSC",
+   "name": "TensorCash",
+   "cap": 12164980
   },
   {
-   "symbol": "DIMO",
-   "name": "DIMO",
-   "cap": 6525253
+   "symbol": "STG",
+   "name": "Stargate Finance",
+   "cap": 11079258
   },
   {
-   "symbol": "MU",
-   "name": "Micron Technology (Backpack Securities)",
-   "cap": 6216980
+   "symbol": "AWIN",
+   "name": "AlphaWin",
+   "cap": 10907582
   },
   {
-   "symbol": "NATIX",
-   "name": "NATIX Network",
-   "cap": 5475315
+   "symbol": "HONEY",
+   "name": "Hivemapper",
+   "cap": 8923583
   },
   {
-   "symbol": "PAAL",
-   "name": "PAAL AI",
-   "cap": 5325193
+   "symbol": "COD",
+   "name": "CloudBank",
+   "cap": 8758718
+  },
+  {
+   "symbol": "LLYON",
+   "name": "Eli Lilly (Ondo Tokenized Stock)",
+   "cap": 8072181
+  },
+  {
+   "symbol": "XEM",
+   "name": "NEM",
+   "cap": 5181737
+  },
+  {
+   "symbol": "SN54",
+   "name": "WebGenieAI",
+   "cap": 5140731
   }
  ],
  "cap": [
   {
+   "symbol": "ICNT",
+   "von": 58131056,
+   "nach": 84683849,
+   "pct": 45.7
+  },
+  {
    "symbol": "SOXLB",
-   "von": 40611329,
-   "nach": 59698742,
-   "pct": 47.0
+   "von": 59698742,
+   "nach": 77518099,
+   "pct": 29.8
   },
   {
-   "symbol": "BLESS",
-   "von": 33405090,
-   "nach": 18383060,
-   "pct": -45.0
+   "symbol": "MMT",
+   "von": 24138748,
+   "nach": 50119775,
+   "pct": 107.6
   },
   {
-   "symbol": "ELSA",
-   "von": 13208292,
-   "nach": 17385745,
-   "pct": 31.6
-  },
-  {
-   "symbol": "RCRCL",
-   "von": 10768219,
-   "nach": 7581612,
-   "pct": -29.6
-  },
-  {
-   "symbol": "JAGENT",
-   "von": 5523716,
-   "nach": 7346812,
-   "pct": 33.0
+   "symbol": "PIPPIN",
+   "von": 10897536,
+   "nach": 17876894,
+   "pct": 64.0
   }
  ],
  "band": [
   {
-   "symbol": "IOTA",
+   "symbol": "AKT",
    "von": "50-150",
    "nach": "150-500"
   },
   {
-   "symbol": "GEOD",
-   "von": "150-500",
-   "nach": "50-150"
+   "symbol": "MET",
+   "von": "50-150",
+   "nach": "150-500"
   },
   {
-   "symbol": "SPCXB",
-   "von": "150-500",
-   "nach": "50-150"
+   "symbol": "CBXRP",
+   "von": "50-150",
+   "nach": "150-500"
   },
   {
-   "symbol": "SOXLB",
+   "symbol": "INTCB",
    "von": "5-50",
    "nach": "50-150"
   },
   {
-   "symbol": "SPK",
+   "symbol": "MMT",
    "von": "5-50",
    "nach": "50-150"
   },
   {
-   "symbol": "QUBIC",
-   "von": "5-50",
-   "nach": "50-150"
-  },
-  {
-   "symbol": "STRCON",
+   "symbol": "VELO",
    "von": "50-150",
    "nach": "5-50"
   }
